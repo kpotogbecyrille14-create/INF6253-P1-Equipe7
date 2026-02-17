@@ -1,0 +1,615 @@
+<!DOCTYPE html>
+
+<html lang="fr">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Classement - England Premier League 2008/2009</title>
+<style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        h1 {
+            color: #2c3e50;
+            border-bottom: 3px solid #3498db;
+            padding-bottom: 10px;
+        }
+        h2 {
+            color: #34495e;
+            margin-top: 30px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            background-color: white;
+            margin: 20px 0;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        th, td {
+            padding: 12px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+        th {
+            background-color: #3498db;
+            color: white;
+            font-weight: bold;
+        }
+        tr:hover {
+            background-color: #f5f5f5;
+        }
+        .nav {
+            background-color: #34495e;
+            padding: 15px;
+            margin-bottom: 20px;
+            border-radius: 5px;
+        }
+        .nav a {
+            color: white;
+            text-decoration: none;
+            padding: 10px 15px;
+            margin-right: 10px;
+            display: inline-block;
+        }
+        .nav a:hover {
+            background-color: #2c3e50;
+            border-radius: 3px;
+        }
+        .stat-box {
+            background-color: white;
+            padding: 20px;
+            margin: 10px 0;
+            border-radius: 5px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .match-result {
+            padding: 10px;
+            margin: 5px 0;
+            background-color: white;
+            border-left: 4px solid #3498db;
+        }
+        .score {
+            font-weight: bold;
+            font-size: 1.2em;
+            color: #e74c3c;
+        }
+    </style>
+<script type="application/ld+json">{
+  "@context": "http://schema.org",
+  "@type": "SportsOrganization",
+  "name": "England Premier League",
+  "teams": [
+    {
+      "@type": "SportsTeam",
+      "position": "1",
+      "name": "Manchester United",
+      "points": "90",
+      "gamesPlayed": "38",
+      "wins": "28",
+      "draws": "6",
+      "losses": "4",
+      "goalsScored": "68",
+      "goalsConceded": "24",
+      "goalDifference": "+44"
+    },
+    {
+      "@type": "SportsTeam",
+      "position": "2",
+      "name": "Liverpool",
+      "points": "86",
+      "gamesPlayed": "38",
+      "wins": "25",
+      "draws": "11",
+      "losses": "2",
+      "goalsScored": "77",
+      "goalsConceded": "27",
+      "goalDifference": "+50"
+    },
+    {
+      "@type": "SportsTeam",
+      "position": "3",
+      "name": "Chelsea",
+      "points": "83",
+      "gamesPlayed": "38",
+      "wins": "25",
+      "draws": "8",
+      "losses": "5",
+      "goalsScored": "68",
+      "goalsConceded": "24",
+      "goalDifference": "+44"
+    },
+    {
+      "@type": "SportsTeam",
+      "position": "4",
+      "name": "Arsenal",
+      "points": "72",
+      "gamesPlayed": "38",
+      "wins": "20",
+      "draws": "12",
+      "losses": "6",
+      "goalsScored": "68",
+      "goalsConceded": "37",
+      "goalDifference": "+31"
+    },
+    {
+      "@type": "SportsTeam",
+      "position": "5",
+      "name": "Everton",
+      "points": "63",
+      "gamesPlayed": "38",
+      "wins": "17",
+      "draws": "12",
+      "losses": "9",
+      "goalsScored": "55",
+      "goalsConceded": "37",
+      "goalDifference": "+18"
+    },
+    {
+      "@type": "SportsTeam",
+      "position": "6",
+      "name": "Aston Villa",
+      "points": "62",
+      "gamesPlayed": "38",
+      "wins": "17",
+      "draws": "11",
+      "losses": "10",
+      "goalsScored": "54",
+      "goalsConceded": "48",
+      "goalDifference": "+6"
+    },
+    {
+      "@type": "SportsTeam",
+      "position": "7",
+      "name": "Fulham",
+      "points": "53",
+      "gamesPlayed": "38",
+      "wins": "14",
+      "draws": "11",
+      "losses": "13",
+      "goalsScored": "39",
+      "goalsConceded": "34",
+      "goalDifference": "+5"
+    },
+    {
+      "@type": "SportsTeam",
+      "position": "8",
+      "name": "Tottenham Hotspur",
+      "points": "51",
+      "gamesPlayed": "38",
+      "wins": "14",
+      "draws": "9",
+      "losses": "15",
+      "goalsScored": "45",
+      "goalsConceded": "45",
+      "goalDifference": "+0"
+    },
+    {
+      "@type": "SportsTeam",
+      "position": "9",
+      "name": "West Ham United",
+      "points": "51",
+      "gamesPlayed": "38",
+      "wins": "14",
+      "draws": "9",
+      "losses": "15",
+      "goalsScored": "42",
+      "goalsConceded": "45",
+      "goalDifference": "-3"
+    },
+    {
+      "@type": "SportsTeam",
+      "position": "10",
+      "name": "Manchester City",
+      "points": "50",
+      "gamesPlayed": "38",
+      "wins": "15",
+      "draws": "5",
+      "losses": "18",
+      "goalsScored": "58",
+      "goalsConceded": "50",
+      "goalDifference": "+8"
+    },
+    {
+      "@type": "SportsTeam",
+      "position": "11",
+      "name": "Wigan Athletic",
+      "points": "45",
+      "gamesPlayed": "38",
+      "wins": "12",
+      "draws": "9",
+      "losses": "17",
+      "goalsScored": "34",
+      "goalsConceded": "45",
+      "goalDifference": "-11"
+    },
+    {
+      "@type": "SportsTeam",
+      "position": "12",
+      "name": "Stoke City",
+      "points": "45",
+      "gamesPlayed": "38",
+      "wins": "12",
+      "draws": "9",
+      "losses": "17",
+      "goalsScored": "38",
+      "goalsConceded": "55",
+      "goalDifference": "-17"
+    },
+    {
+      "@type": "SportsTeam",
+      "position": "13",
+      "name": "Bolton Wanderers",
+      "points": "41",
+      "gamesPlayed": "38",
+      "wins": "11",
+      "draws": "8",
+      "losses": "19",
+      "goalsScored": "41",
+      "goalsConceded": "53",
+      "goalDifference": "-12"
+    },
+    {
+      "@type": "SportsTeam",
+      "position": "14",
+      "name": "Portsmouth",
+      "points": "41",
+      "gamesPlayed": "38",
+      "wins": "10",
+      "draws": "11",
+      "losses": "17",
+      "goalsScored": "38",
+      "goalsConceded": "57",
+      "goalDifference": "-19"
+    },
+    {
+      "@type": "SportsTeam",
+      "position": "15",
+      "name": "Blackburn Rovers",
+      "points": "41",
+      "gamesPlayed": "38",
+      "wins": "10",
+      "draws": "11",
+      "losses": "17",
+      "goalsScored": "40",
+      "goalsConceded": "60",
+      "goalDifference": "-20"
+    },
+    {
+      "@type": "SportsTeam",
+      "position": "16",
+      "name": "Sunderland",
+      "points": "36",
+      "gamesPlayed": "38",
+      "wins": "9",
+      "draws": "9",
+      "losses": "20",
+      "goalsScored": "34",
+      "goalsConceded": "54",
+      "goalDifference": "-20"
+    },
+    {
+      "@type": "SportsTeam",
+      "position": "17",
+      "name": "Hull City",
+      "points": "35",
+      "gamesPlayed": "38",
+      "wins": "8",
+      "draws": "11",
+      "losses": "19",
+      "goalsScored": "39",
+      "goalsConceded": "64",
+      "goalDifference": "-25"
+    },
+    {
+      "@type": "SportsTeam",
+      "position": "18",
+      "name": "Newcastle United",
+      "points": "34",
+      "gamesPlayed": "38",
+      "wins": "7",
+      "draws": "13",
+      "losses": "18",
+      "goalsScored": "40",
+      "goalsConceded": "59",
+      "goalDifference": "-19"
+    },
+    {
+      "@type": "SportsTeam",
+      "position": "19",
+      "name": "Middlesbrough",
+      "points": "32",
+      "gamesPlayed": "38",
+      "wins": "7",
+      "draws": "11",
+      "losses": "20",
+      "goalsScored": "28",
+      "goalsConceded": "57",
+      "goalDifference": "-29"
+    },
+    {
+      "@type": "SportsTeam",
+      "position": "20",
+      "name": "West Bromwich Albion",
+      "points": "32",
+      "gamesPlayed": "38",
+      "wins": "8",
+      "draws": "8",
+      "losses": "22",
+      "goalsScored": "36",
+      "goalsConceded": "67",
+      "goalDifference": "-31"
+    }
+  ]
+}</script></head>
+<body>
+<div class="nav">
+<a href="index_enrichi.html">Accueil</a>
+<a href="classement_enrichi.html">Classement</a>
+<a href="calendrier_enrichi.html">Calendrier</a>
+<a href="statistiques_enrichi.html">Statistiques</a>
+</div>
+<h1>Classement</h1>
+<h2>England Premier League - Saison 2008/2009</h2>
+<table>
+<tr>
+<th>Pos</th>
+<th>Équipe</th>
+<th>Pts</th>
+<th>J</th>
+<th>G</th>
+<th>N</th>
+<th>P</th>
+<th>BP</th>
+<th>BC</th>
+<th>Diff</th>
+</tr>
+<tr>
+<td>1</td>
+<td><a href="equipe_Manchester_United_enrichi.html">Manchester United</a></td>
+<td><strong>90</strong></td>
+<td>38</td>
+<td>28</td>
+<td>6</td>
+<td>4</td>
+<td>68</td>
+<td>24</td>
+<td>+44</td>
+</tr>
+<tr>
+<td>2</td>
+<td><a href="equipe_Liverpool_enrichi.html">Liverpool</a></td>
+<td><strong>86</strong></td>
+<td>38</td>
+<td>25</td>
+<td>11</td>
+<td>2</td>
+<td>77</td>
+<td>27</td>
+<td>+50</td>
+</tr>
+<tr>
+<td>3</td>
+<td><a href="equipe_Chelsea_enrichi.html">Chelsea</a></td>
+<td><strong>83</strong></td>
+<td>38</td>
+<td>25</td>
+<td>8</td>
+<td>5</td>
+<td>68</td>
+<td>24</td>
+<td>+44</td>
+</tr>
+<tr>
+<td>4</td>
+<td><a href="equipe_Arsenal_enrichi.html">Arsenal</a></td>
+<td><strong>72</strong></td>
+<td>38</td>
+<td>20</td>
+<td>12</td>
+<td>6</td>
+<td>68</td>
+<td>37</td>
+<td>+31</td>
+</tr>
+<tr>
+<td>5</td>
+<td><a href="equipe_Everton_enrichi.html">Everton</a></td>
+<td><strong>63</strong></td>
+<td>38</td>
+<td>17</td>
+<td>12</td>
+<td>9</td>
+<td>55</td>
+<td>37</td>
+<td>+18</td>
+</tr>
+<tr>
+<td>6</td>
+<td><a href="equipe_Aston_Villa_enrichi.html">Aston Villa</a></td>
+<td><strong>62</strong></td>
+<td>38</td>
+<td>17</td>
+<td>11</td>
+<td>10</td>
+<td>54</td>
+<td>48</td>
+<td>+6</td>
+</tr>
+<tr>
+<td>7</td>
+<td><a href="equipe_Fulham_enrichi.html">Fulham</a></td>
+<td><strong>53</strong></td>
+<td>38</td>
+<td>14</td>
+<td>11</td>
+<td>13</td>
+<td>39</td>
+<td>34</td>
+<td>+5</td>
+</tr>
+<tr>
+<td>8</td>
+<td><a href="equipe_Tottenham_Hotspur_enrichi.html">Tottenham Hotspur</a></td>
+<td><strong>51</strong></td>
+<td>38</td>
+<td>14</td>
+<td>9</td>
+<td>15</td>
+<td>45</td>
+<td>45</td>
+<td>+0</td>
+</tr>
+<tr>
+<td>9</td>
+<td><a href="equipe_West_Ham_United_enrichi.html">West Ham United</a></td>
+<td><strong>51</strong></td>
+<td>38</td>
+<td>14</td>
+<td>9</td>
+<td>15</td>
+<td>42</td>
+<td>45</td>
+<td>-3</td>
+</tr>
+<tr>
+<td>10</td>
+<td><a href="equipe_Manchester_City_enrichi.html">Manchester City</a></td>
+<td><strong>50</strong></td>
+<td>38</td>
+<td>15</td>
+<td>5</td>
+<td>18</td>
+<td>58</td>
+<td>50</td>
+<td>+8</td>
+</tr>
+<tr>
+<td>11</td>
+<td><a href="equipe_Wigan_Athletic_enrichi.html">Wigan Athletic</a></td>
+<td><strong>45</strong></td>
+<td>38</td>
+<td>12</td>
+<td>9</td>
+<td>17</td>
+<td>34</td>
+<td>45</td>
+<td>-11</td>
+</tr>
+<tr>
+<td>12</td>
+<td><a href="equipe_Stoke_City_enrichi.html">Stoke City</a></td>
+<td><strong>45</strong></td>
+<td>38</td>
+<td>12</td>
+<td>9</td>
+<td>17</td>
+<td>38</td>
+<td>55</td>
+<td>-17</td>
+</tr>
+<tr>
+<td>13</td>
+<td><a href="equipe_Bolton_Wanderers_enrichi.html">Bolton Wanderers</a></td>
+<td><strong>41</strong></td>
+<td>38</td>
+<td>11</td>
+<td>8</td>
+<td>19</td>
+<td>41</td>
+<td>53</td>
+<td>-12</td>
+</tr>
+<tr>
+<td>14</td>
+<td><a href="equipe_Portsmouth_enrichi.html">Portsmouth</a></td>
+<td><strong>41</strong></td>
+<td>38</td>
+<td>10</td>
+<td>11</td>
+<td>17</td>
+<td>38</td>
+<td>57</td>
+<td>-19</td>
+</tr>
+<tr>
+<td>15</td>
+<td><a href="equipe_Blackburn_Rovers_enrichi.html">Blackburn Rovers</a></td>
+<td><strong>41</strong></td>
+<td>38</td>
+<td>10</td>
+<td>11</td>
+<td>17</td>
+<td>40</td>
+<td>60</td>
+<td>-20</td>
+</tr>
+<tr>
+<td>16</td>
+<td><a href="equipe_Sunderland_enrichi.html">Sunderland</a></td>
+<td><strong>36</strong></td>
+<td>38</td>
+<td>9</td>
+<td>9</td>
+<td>20</td>
+<td>34</td>
+<td>54</td>
+<td>-20</td>
+</tr>
+<tr>
+<td>17</td>
+<td><a href="equipe_Hull_City_enrichi.html">Hull City</a></td>
+<td><strong>35</strong></td>
+<td>38</td>
+<td>8</td>
+<td>11</td>
+<td>19</td>
+<td>39</td>
+<td>64</td>
+<td>-25</td>
+</tr>
+<tr>
+<td>18</td>
+<td><a href="equipe_Newcastle_United_enrichi.html">Newcastle United</a></td>
+<td><strong>34</strong></td>
+<td>38</td>
+<td>7</td>
+<td>13</td>
+<td>18</td>
+<td>40</td>
+<td>59</td>
+<td>-19</td>
+</tr>
+<tr>
+<td>19</td>
+<td><a href="equipe_Middlesbrough_enrichi.html">Middlesbrough</a></td>
+<td><strong>32</strong></td>
+<td>38</td>
+<td>7</td>
+<td>11</td>
+<td>20</td>
+<td>28</td>
+<td>57</td>
+<td>-29</td>
+</tr>
+<tr>
+<td>20</td>
+<td><a href="equipe_West_Bromwich_Albion_enrichi.html">West Bromwich Albion</a></td>
+<td><strong>32</strong></td>
+<td>38</td>
+<td>8</td>
+<td>8</td>
+<td>22</td>
+<td>36</td>
+<td>67</td>
+<td>-31</td>
+</tr>
+</table>
+<footer style="margin-top: 40px; padding-top: 20px; border-top: 1px solid #ddd; text-align: center; color: #7f8c8d;">
+<p>Généré pour INF6253 - Web Sémantique | UQO</p>
+</footer>
+</body>
+</html>

@@ -1,0 +1,30 @@
+PREFIX schema1: <http://schema.org/>
+
+SELECT ?date ?home ?hg ?ag ?away
+WHERE {
+  {
+    SELECT ?first ?third
+    WHERE {
+      ?t1 a schema1:SportsTeam ;
+          schema1:name ?first ;
+          schema1:position "1" .
+
+      ?t3 a schema1:SportsTeam ;
+          schema1:name ?third ;
+          schema1:position "3" .
+    }
+  }
+
+  ?match a schema1:SportsEvent ;
+         schema1:startDate ?date ;
+         schema1:homeTeam ?home ;
+         schema1:awayTeam ?away ;
+         schema1:homeTeamScore ?hg ;
+         schema1:awayTeamScore ?ag .
+
+  FILTER(
+    (?home = ?first && ?away = ?third) ||
+    (?home = ?third && ?away = ?first)
+  )
+}
+ORDER BY ?date

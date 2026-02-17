@@ -1,0 +1,1193 @@
+R1 | 23.61 ms | Manchester United
+R2 | 15.12 ms | 760 matchs joués
+R3 | 14.47 ms | 942 buts marqués
+R4 | 14.47 ms | Liverpool avec 77 buts
+R7 | 20.42 ms | 0 victoires à domicile
+R8 | 15.16 ms | Newcastle United : 13 | Arsenal : 12 | Everton : 12 | Liverpool : 11 | Aston Villa : 11 | Fulham : 11 | Portsmouth : 11 | Blackburn Rovers : 11 | Hull City : 11 | Middlesbrough : 11 | Tottenham Hotspur : 9 | West Ham United : 9 | Wigan Athletic : 9 | Stoke City : 9 | Sunderland : 9 | Chelsea : 8 | Bolton Wanderers : 8 | West Bromwich Albion : 8 | Manchester United : 6 | Manchester City : 5
+R9 | 14.04 ms | Moyenne de buts à l’extérieur du Top 6 : 65.0
+R11 | 14.33 ms | Manchester United : 68 | Liverpool : 77 | Chelsea : 68 | Arsenal : 68 | Everton : 55 | Aston Villa : 54 | Tottenham Hotspur : 45 | West Ham United : 42 | Manchester City : 58 | Bolton Wanderers : 41
+R10 | 47.55 ms | 17/08/2008 - Domicile
+Manchester United vs Newcastle United
+1 - 1
+Nul | 25/08/2008 - Extérieur
+Manchester United vs Portsmouth
+1 - 0
+Victoire | 13/09/2008 - Extérieur
+Manchester United vs Liverpool
+1 - 2
+Défaite | 21/09/2008 - Extérieur
+Manchester United vs Chelsea
+1 - 1
+Nul | 27/09/2008 - Domicile
+Manchester United vs Bolton Wanderers
+2 - 0
+Victoire | 04/10/2008 - Extérieur
+Manchester United vs Blackburn Rovers
+2 - 0
+Victoire | 18/10/2008 - Domicile
+Manchester United vs West Bromwich Albion
+4 - 0
+Victoire | 25/10/2008 - Extérieur
+Manchester United vs Everton
+1 - 1
+Nul | 29/10/2008 - Domicile
+Manchester United vs West Ham United
+2 - 0
+Victoire | 01/11/2008 - Domicile
+Manchester United vs Hull City
+4 - 3
+Victoire | 08/11/2008 - Extérieur
+Manchester United vs Arsenal
+1 - 2
+Défaite | 15/11/2008 - Domicile
+Manchester United vs Stoke City
+5 - 0
+Victoire | 22/11/2008 - Extérieur
+Manchester United vs Aston Villa
+0 - 0
+Nul | 30/11/2008 - Extérieur
+Manchester United vs Manchester City
+1 - 0
+Victoire | 06/12/2008 - Domicile
+Manchester United vs Sunderland
+1 - 0
+Victoire | 13/12/2008 - Extérieur
+Manchester United vs Tottenham Hotspur
+0 - 0
+Nul | 26/12/2008 - Extérieur
+Manchester United vs Stoke City
+1 - 0
+Victoire | 29/12/2008 - Domicile
+Manchester United vs Middlesbrough
+1 - 0
+Victoire | 11/01/2009 - Domicile
+Manchester United vs Chelsea
+3 - 0
+Victoire | 14/01/2009 - Domicile
+Manchester United vs Wigan Athletic
+1 - 0
+Victoire | 17/01/2009 - Extérieur
+Manchester United vs Bolton Wanderers
+1 - 0
+Victoire | 27/01/2009 - Extérieur
+Manchester United vs West Bromwich Albion
+5 - 0
+Victoire | 31/01/2009 - Domicile
+Manchester United vs Everton
+1 - 0
+Victoire | 08/02/2009 - Extérieur
+Manchester United vs West Ham United
+1 - 0
+Victoire | 18/02/2009 - Domicile
+Manchester United vs Fulham
+3 - 0
+Victoire | 21/02/2009 - Domicile
+Manchester United vs Blackburn Rovers
+2 - 1
+Victoire | 04/03/2009 - Extérieur
+Manchester United vs Newcastle United
+2 - 1
+Victoire | 14/03/2009 - Domicile
+Manchester United vs Liverpool
+1 - 4
+Défaite | 21/03/2009 - Extérieur
+Manchester United vs Fulham
+0 - 2
+Défaite | 05/04/2009 - Domicile
+Manchester United vs Aston Villa
+3 - 2
+Victoire | 11/04/2009 - Extérieur
+Manchester United vs Sunderland
+2 - 1
+Victoire | 22/04/2009 - Domicile
+Manchester United vs Portsmouth
+2 - 0
+Victoire | 25/04/2009 - Domicile
+Manchester United vs Tottenham Hotspur
+5 - 2
+Victoire | 02/05/2009 - Extérieur
+Manchester United vs Middlesbrough
+2 - 0
+Victoire | 10/05/2009 - Domicile
+Manchester United vs Manchester City
+2 - 0
+Victoire | 13/05/2009 - Extérieur
+Manchester United vs Wigan Athletic
+2 - 1
+Victoire | 16/05/2009 - Domicile
+Manchester United vs Arsenal
+0 - 0
+Nul | 24/05/2009 - Extérieur
+Manchester United vs Hull City
+1 - 0
+Victoire | 17/08/2008 - Domicile
+Chelsea vs Portsmouth
+4 - 0
+Victoire | 24/08/2008 - Extérieur
+Chelsea vs Wigan Athletic
+1 - 0
+Victoire | 31/08/2008 - Domicile
+Chelsea vs Tottenham Hotspur
+1 - 1
+Nul | 13/09/2008 - Extérieur
+Chelsea vs Manchester City
+3 - 1
+Victoire | 21/09/2008 - Domicile
+Chelsea vs Manchester United
+1 - 1
+Nul | 27/09/2008 - Extérieur
+Chelsea vs Stoke City
+2 - 0
+Victoire | 05/10/2008 - Domicile
+Chelsea vs Aston Villa
+2 - 0
+Victoire | 18/10/2008 - Extérieur
+Chelsea vs Middlesbrough
+5 - 0
+Victoire | 26/10/2008 - Domicile
+Chelsea vs Liverpool
+0 - 1
+Défaite | 29/10/2008 - Extérieur
+Chelsea vs Hull City
+3 - 0
+Victoire | 01/11/2008 - Domicile
+Chelsea vs Sunderland
+5 - 0
+Victoire | 09/11/2008 - Extérieur
+Chelsea vs Blackburn Rovers
+2 - 0
+Victoire | 15/11/2008 - Extérieur
+Chelsea vs West Bromwich Albion
+3 - 0
+Victoire | 22/11/2008 - Domicile
+Chelsea vs Newcastle United
+0 - 0
+Nul | 30/11/2008 - Domicile
+Chelsea vs Arsenal
+1 - 2
+Défaite | 06/12/2008 - Extérieur
+Chelsea vs Bolton Wanderers
+2 - 0
+Victoire | 14/12/2008 - Domicile
+Chelsea vs West Ham United
+1 - 1
+Nul | 22/12/2008 - Extérieur
+Chelsea vs Everton
+0 - 0
+Nul | 26/12/2008 - Domicile
+Chelsea vs West Bromwich Albion
+2 - 0
+Victoire | 28/12/2008 - Extérieur
+Chelsea vs Fulham
+2 - 2
+Nul | 11/01/2009 - Extérieur
+Chelsea vs Manchester United
+0 - 3
+Défaite | 17/01/2009 - Domicile
+Chelsea vs Stoke City
+2 - 1
+Victoire | 28/01/2009 - Domicile
+Chelsea vs Middlesbrough
+2 - 0
+Victoire | 01/02/2009 - Extérieur
+Chelsea vs Liverpool
+0 - 2
+Défaite | 07/02/2009 - Domicile
+Chelsea vs Hull City
+0 - 0
+Nul | 21/02/2009 - Extérieur
+Chelsea vs Aston Villa
+1 - 0
+Victoire | 28/02/2009 - Domicile
+Chelsea vs Wigan Athletic
+2 - 1
+Victoire | 03/03/2009 - Extérieur
+Chelsea vs Portsmouth
+1 - 0
+Victoire | 15/03/2009 - Domicile
+Chelsea vs Manchester City
+1 - 0
+Victoire | 21/03/2009 - Extérieur
+Chelsea vs Tottenham Hotspur
+0 - 1
+Défaite | 04/04/2009 - Extérieur
+Chelsea vs Newcastle United
+2 - 0
+Victoire | 11/04/2009 - Domicile
+Chelsea vs Bolton Wanderers
+4 - 3
+Victoire | 22/04/2009 - Domicile
+Chelsea vs Everton
+0 - 0
+Nul | 25/04/2009 - Extérieur
+Chelsea vs West Ham United
+1 - 0
+Victoire | 02/05/2009 - Domicile
+Chelsea vs Fulham
+3 - 1
+Victoire | 10/05/2009 - Extérieur
+Chelsea vs Arsenal
+4 - 1
+Victoire | 17/05/2009 - Domicile
+Chelsea vs Blackburn Rovers
+2 - 0
+Victoire | 24/05/2009 - Extérieur
+Chelsea vs Sunderland
+3 - 2
+Victoire
+R11 | 14.22 ms | Manchester United : 68 | Liverpool : 77 | Chelsea : 68 | Arsenal : 68 | Everton : 55 | Aston Villa : 54 | Tottenham Hotspur : 45 | West Ham United : 42 | Manchester City : 58 | Bolton Wanderers : 41
+R9 | 13.54 ms | Moyenne de buts à l’extérieur du Top 6 : 65.0
+R8 | 13.69 ms | Newcastle United : 13 | Arsenal : 12 | Everton : 12 | Liverpool : 11 | Aston Villa : 11 | Fulham : 11 | Portsmouth : 11 | Blackburn Rovers : 11 | Hull City : 11 | Middlesbrough : 11 | Tottenham Hotspur : 9 | West Ham United : 9 | Wigan Athletic : 9 | Stoke City : 9 | Sunderland : 9 | Chelsea : 8 | Bolton Wanderers : 8 | West Bromwich Albion : 8 | Manchester United : 6 | Manchester City : 5
+R7 | 21.93 ms | 0 victoires à domicile
+R6 | 112.42 ms | Aucun match en novembre 2008
+R5 | 15.89 ms | Liverpool : 77
+R4 | 16.63 ms | Liverpool avec 77 buts
+R3 | 14.72 ms | 942 buts marqués
+R3 | 15.2 ms | 942 buts marqués
+R2 | 17.64 ms | 760 matchs joués
+R2 | 15.16 ms | 760 matchs joués
+R2 | 14.72 ms | 760 matchs joués
+R3 | 16.05 ms | 942 buts marqués
+R6 | 107.99 ms | Aucun match en novembre 2008
+R8 | 16.01 ms | Newcastle United : 13 | Arsenal : 12 | Everton : 12 | Liverpool : 11 | Aston Villa : 11 | Fulham : 11 | Portsmouth : 11 | Blackburn Rovers : 11 | Hull City : 11 | Middlesbrough : 11 | Tottenham Hotspur : 9 | West Ham United : 9 | Wigan Athletic : 9 | Stoke City : 9 | Sunderland : 9 | Chelsea : 8 | Bolton Wanderers : 8 | West Bromwich Albion : 8 | Manchester United : 6 | Manchester City : 5
+R10 | 66.53 ms | 17/08/2008 - Domicile
+Manchester United vs Newcastle United
+1 - 1
+Nul | 25/08/2008 - Extérieur
+Manchester United vs Portsmouth
+1 - 0
+Victoire | 13/09/2008 - Extérieur
+Manchester United vs Liverpool
+1 - 2
+Défaite | 21/09/2008 - Extérieur
+Manchester United vs Chelsea
+1 - 1
+Nul | 27/09/2008 - Domicile
+Manchester United vs Bolton Wanderers
+2 - 0
+Victoire | 04/10/2008 - Extérieur
+Manchester United vs Blackburn Rovers
+2 - 0
+Victoire | 18/10/2008 - Domicile
+Manchester United vs West Bromwich Albion
+4 - 0
+Victoire | 25/10/2008 - Extérieur
+Manchester United vs Everton
+1 - 1
+Nul | 29/10/2008 - Domicile
+Manchester United vs West Ham United
+2 - 0
+Victoire | 01/11/2008 - Domicile
+Manchester United vs Hull City
+4 - 3
+Victoire | 08/11/2008 - Extérieur
+Manchester United vs Arsenal
+1 - 2
+Défaite | 15/11/2008 - Domicile
+Manchester United vs Stoke City
+5 - 0
+Victoire | 22/11/2008 - Extérieur
+Manchester United vs Aston Villa
+0 - 0
+Nul | 30/11/2008 - Extérieur
+Manchester United vs Manchester City
+1 - 0
+Victoire | 06/12/2008 - Domicile
+Manchester United vs Sunderland
+1 - 0
+Victoire | 13/12/2008 - Extérieur
+Manchester United vs Tottenham Hotspur
+0 - 0
+Nul | 26/12/2008 - Extérieur
+Manchester United vs Stoke City
+1 - 0
+Victoire | 29/12/2008 - Domicile
+Manchester United vs Middlesbrough
+1 - 0
+Victoire | 11/01/2009 - Domicile
+Manchester United vs Chelsea
+3 - 0
+Victoire | 14/01/2009 - Domicile
+Manchester United vs Wigan Athletic
+1 - 0
+Victoire | 17/01/2009 - Extérieur
+Manchester United vs Bolton Wanderers
+1 - 0
+Victoire | 27/01/2009 - Extérieur
+Manchester United vs West Bromwich Albion
+5 - 0
+Victoire | 31/01/2009 - Domicile
+Manchester United vs Everton
+1 - 0
+Victoire | 08/02/2009 - Extérieur
+Manchester United vs West Ham United
+1 - 0
+Victoire | 18/02/2009 - Domicile
+Manchester United vs Fulham
+3 - 0
+Victoire | 21/02/2009 - Domicile
+Manchester United vs Blackburn Rovers
+2 - 1
+Victoire | 04/03/2009 - Extérieur
+Manchester United vs Newcastle United
+2 - 1
+Victoire | 14/03/2009 - Domicile
+Manchester United vs Liverpool
+1 - 4
+Défaite | 21/03/2009 - Extérieur
+Manchester United vs Fulham
+0 - 2
+Défaite | 05/04/2009 - Domicile
+Manchester United vs Aston Villa
+3 - 2
+Victoire | 11/04/2009 - Extérieur
+Manchester United vs Sunderland
+2 - 1
+Victoire | 22/04/2009 - Domicile
+Manchester United vs Portsmouth
+2 - 0
+Victoire | 25/04/2009 - Domicile
+Manchester United vs Tottenham Hotspur
+5 - 2
+Victoire | 02/05/2009 - Extérieur
+Manchester United vs Middlesbrough
+2 - 0
+Victoire | 10/05/2009 - Domicile
+Manchester United vs Manchester City
+2 - 0
+Victoire | 13/05/2009 - Extérieur
+Manchester United vs Wigan Athletic
+2 - 1
+Victoire | 16/05/2009 - Domicile
+Manchester United vs Arsenal
+0 - 0
+Nul | 24/05/2009 - Extérieur
+Manchester United vs Hull City
+1 - 0
+Victoire | 17/08/2008 - Domicile
+Chelsea vs Portsmouth
+4 - 0
+Victoire | 24/08/2008 - Extérieur
+Chelsea vs Wigan Athletic
+1 - 0
+Victoire | 31/08/2008 - Domicile
+Chelsea vs Tottenham Hotspur
+1 - 1
+Nul | 13/09/2008 - Extérieur
+Chelsea vs Manchester City
+3 - 1
+Victoire | 21/09/2008 - Domicile
+Chelsea vs Manchester United
+1 - 1
+Nul | 27/09/2008 - Extérieur
+Chelsea vs Stoke City
+2 - 0
+Victoire | 05/10/2008 - Domicile
+Chelsea vs Aston Villa
+2 - 0
+Victoire | 18/10/2008 - Extérieur
+Chelsea vs Middlesbrough
+5 - 0
+Victoire | 26/10/2008 - Domicile
+Chelsea vs Liverpool
+0 - 1
+Défaite | 29/10/2008 - Extérieur
+Chelsea vs Hull City
+3 - 0
+Victoire | 01/11/2008 - Domicile
+Chelsea vs Sunderland
+5 - 0
+Victoire | 09/11/2008 - Extérieur
+Chelsea vs Blackburn Rovers
+2 - 0
+Victoire | 15/11/2008 - Extérieur
+Chelsea vs West Bromwich Albion
+3 - 0
+Victoire | 22/11/2008 - Domicile
+Chelsea vs Newcastle United
+0 - 0
+Nul | 30/11/2008 - Domicile
+Chelsea vs Arsenal
+1 - 2
+Défaite | 06/12/2008 - Extérieur
+Chelsea vs Bolton Wanderers
+2 - 0
+Victoire | 14/12/2008 - Domicile
+Chelsea vs West Ham United
+1 - 1
+Nul | 22/12/2008 - Extérieur
+Chelsea vs Everton
+0 - 0
+Nul | 26/12/2008 - Domicile
+Chelsea vs West Bromwich Albion
+2 - 0
+Victoire | 28/12/2008 - Extérieur
+Chelsea vs Fulham
+2 - 2
+Nul | 11/01/2009 - Extérieur
+Chelsea vs Manchester United
+0 - 3
+Défaite | 17/01/2009 - Domicile
+Chelsea vs Stoke City
+2 - 1
+Victoire | 28/01/2009 - Domicile
+Chelsea vs Middlesbrough
+2 - 0
+Victoire | 01/02/2009 - Extérieur
+Chelsea vs Liverpool
+0 - 2
+Défaite | 07/02/2009 - Domicile
+Chelsea vs Hull City
+0 - 0
+Nul | 21/02/2009 - Extérieur
+Chelsea vs Aston Villa
+1 - 0
+Victoire | 28/02/2009 - Domicile
+Chelsea vs Wigan Athletic
+2 - 1
+Victoire | 03/03/2009 - Extérieur
+Chelsea vs Portsmouth
+1 - 0
+Victoire | 15/03/2009 - Domicile
+Chelsea vs Manchester City
+1 - 0
+Victoire | 21/03/2009 - Extérieur
+Chelsea vs Tottenham Hotspur
+0 - 1
+Défaite | 04/04/2009 - Extérieur
+Chelsea vs Newcastle United
+2 - 0
+Victoire | 11/04/2009 - Domicile
+Chelsea vs Bolton Wanderers
+4 - 3
+Victoire | 22/04/2009 - Domicile
+Chelsea vs Everton
+0 - 0
+Nul | 25/04/2009 - Extérieur
+Chelsea vs West Ham United
+1 - 0
+Victoire | 02/05/2009 - Domicile
+Chelsea vs Fulham
+3 - 1
+Victoire | 10/05/2009 - Extérieur
+Chelsea vs Arsenal
+4 - 1
+Victoire | 17/05/2009 - Domicile
+Chelsea vs Blackburn Rovers
+2 - 0
+Victoire | 24/05/2009 - Extérieur
+Chelsea vs Sunderland
+3 - 2
+Victoire
+R7 | 27.85 ms | 0 victoires à domicile
+R1 | 14.4 ms | Manchester United
+R1 | 16.21 ms | Manchester United
+R1 | 9.22 ms | Manchester United
+R1 | 23.88 ms | Manchester United
+R2 | 21.08 ms | 760 matchs joués
+R10 | 65.39 ms | 17/08/2008 - Domicile
+Manchester United vs Newcastle United
+1 - 1
+Nul | 25/08/2008 - Extérieur
+Manchester United vs Portsmouth
+1 - 0
+Victoire | 13/09/2008 - Extérieur
+Manchester United vs Liverpool
+1 - 2
+Défaite | 21/09/2008 - Extérieur
+Manchester United vs Chelsea
+1 - 1
+Nul | 27/09/2008 - Domicile
+Manchester United vs Bolton Wanderers
+2 - 0
+Victoire | 04/10/2008 - Extérieur
+Manchester United vs Blackburn Rovers
+2 - 0
+Victoire | 18/10/2008 - Domicile
+Manchester United vs West Bromwich Albion
+4 - 0
+Victoire | 25/10/2008 - Extérieur
+Manchester United vs Everton
+1 - 1
+Nul | 29/10/2008 - Domicile
+Manchester United vs West Ham United
+2 - 0
+Victoire | 01/11/2008 - Domicile
+Manchester United vs Hull City
+4 - 3
+Victoire | 08/11/2008 - Extérieur
+Manchester United vs Arsenal
+1 - 2
+Défaite | 15/11/2008 - Domicile
+Manchester United vs Stoke City
+5 - 0
+Victoire | 22/11/2008 - Extérieur
+Manchester United vs Aston Villa
+0 - 0
+Nul | 30/11/2008 - Extérieur
+Manchester United vs Manchester City
+1 - 0
+Victoire | 06/12/2008 - Domicile
+Manchester United vs Sunderland
+1 - 0
+Victoire | 13/12/2008 - Extérieur
+Manchester United vs Tottenham Hotspur
+0 - 0
+Nul | 26/12/2008 - Extérieur
+Manchester United vs Stoke City
+1 - 0
+Victoire | 29/12/2008 - Domicile
+Manchester United vs Middlesbrough
+1 - 0
+Victoire | 11/01/2009 - Domicile
+Manchester United vs Chelsea
+3 - 0
+Victoire | 14/01/2009 - Domicile
+Manchester United vs Wigan Athletic
+1 - 0
+Victoire | 17/01/2009 - Extérieur
+Manchester United vs Bolton Wanderers
+1 - 0
+Victoire | 27/01/2009 - Extérieur
+Manchester United vs West Bromwich Albion
+5 - 0
+Victoire | 31/01/2009 - Domicile
+Manchester United vs Everton
+1 - 0
+Victoire | 08/02/2009 - Extérieur
+Manchester United vs West Ham United
+1 - 0
+Victoire | 18/02/2009 - Domicile
+Manchester United vs Fulham
+3 - 0
+Victoire | 21/02/2009 - Domicile
+Manchester United vs Blackburn Rovers
+2 - 1
+Victoire | 04/03/2009 - Extérieur
+Manchester United vs Newcastle United
+2 - 1
+Victoire | 14/03/2009 - Domicile
+Manchester United vs Liverpool
+1 - 4
+Défaite | 21/03/2009 - Extérieur
+Manchester United vs Fulham
+0 - 2
+Défaite | 05/04/2009 - Domicile
+Manchester United vs Aston Villa
+3 - 2
+Victoire | 11/04/2009 - Extérieur
+Manchester United vs Sunderland
+2 - 1
+Victoire | 22/04/2009 - Domicile
+Manchester United vs Portsmouth
+2 - 0
+Victoire | 25/04/2009 - Domicile
+Manchester United vs Tottenham Hotspur
+5 - 2
+Victoire | 02/05/2009 - Extérieur
+Manchester United vs Middlesbrough
+2 - 0
+Victoire | 10/05/2009 - Domicile
+Manchester United vs Manchester City
+2 - 0
+Victoire | 13/05/2009 - Extérieur
+Manchester United vs Wigan Athletic
+2 - 1
+Victoire | 16/05/2009 - Domicile
+Manchester United vs Arsenal
+0 - 0
+Nul | 24/05/2009 - Extérieur
+Manchester United vs Hull City
+1 - 0
+Victoire | 17/08/2008 - Domicile
+Chelsea vs Portsmouth
+4 - 0
+Victoire | 24/08/2008 - Extérieur
+Chelsea vs Wigan Athletic
+1 - 0
+Victoire | 31/08/2008 - Domicile
+Chelsea vs Tottenham Hotspur
+1 - 1
+Nul | 13/09/2008 - Extérieur
+Chelsea vs Manchester City
+3 - 1
+Victoire | 21/09/2008 - Domicile
+Chelsea vs Manchester United
+1 - 1
+Nul | 27/09/2008 - Extérieur
+Chelsea vs Stoke City
+2 - 0
+Victoire | 05/10/2008 - Domicile
+Chelsea vs Aston Villa
+2 - 0
+Victoire | 18/10/2008 - Extérieur
+Chelsea vs Middlesbrough
+5 - 0
+Victoire | 26/10/2008 - Domicile
+Chelsea vs Liverpool
+0 - 1
+Défaite | 29/10/2008 - Extérieur
+Chelsea vs Hull City
+3 - 0
+Victoire | 01/11/2008 - Domicile
+Chelsea vs Sunderland
+5 - 0
+Victoire | 09/11/2008 - Extérieur
+Chelsea vs Blackburn Rovers
+2 - 0
+Victoire | 15/11/2008 - Extérieur
+Chelsea vs West Bromwich Albion
+3 - 0
+Victoire | 22/11/2008 - Domicile
+Chelsea vs Newcastle United
+0 - 0
+Nul | 30/11/2008 - Domicile
+Chelsea vs Arsenal
+1 - 2
+Défaite | 06/12/2008 - Extérieur
+Chelsea vs Bolton Wanderers
+2 - 0
+Victoire | 14/12/2008 - Domicile
+Chelsea vs West Ham United
+1 - 1
+Nul | 22/12/2008 - Extérieur
+Chelsea vs Everton
+0 - 0
+Nul | 26/12/2008 - Domicile
+Chelsea vs West Bromwich Albion
+2 - 0
+Victoire | 28/12/2008 - Extérieur
+Chelsea vs Fulham
+2 - 2
+Nul | 11/01/2009 - Extérieur
+Chelsea vs Manchester United
+0 - 3
+Défaite | 17/01/2009 - Domicile
+Chelsea vs Stoke City
+2 - 1
+Victoire | 28/01/2009 - Domicile
+Chelsea vs Middlesbrough
+2 - 0
+Victoire | 01/02/2009 - Extérieur
+Chelsea vs Liverpool
+0 - 2
+Défaite | 07/02/2009 - Domicile
+Chelsea vs Hull City
+0 - 0
+Nul | 21/02/2009 - Extérieur
+Chelsea vs Aston Villa
+1 - 0
+Victoire | 28/02/2009 - Domicile
+Chelsea vs Wigan Athletic
+2 - 1
+Victoire | 03/03/2009 - Extérieur
+Chelsea vs Portsmouth
+1 - 0
+Victoire | 15/03/2009 - Domicile
+Chelsea vs Manchester City
+1 - 0
+Victoire | 21/03/2009 - Extérieur
+Chelsea vs Tottenham Hotspur
+0 - 1
+Défaite | 04/04/2009 - Extérieur
+Chelsea vs Newcastle United
+2 - 0
+Victoire | 11/04/2009 - Domicile
+Chelsea vs Bolton Wanderers
+4 - 3
+Victoire | 22/04/2009 - Domicile
+Chelsea vs Everton
+0 - 0
+Nul | 25/04/2009 - Extérieur
+Chelsea vs West Ham United
+1 - 0
+Victoire | 02/05/2009 - Domicile
+Chelsea vs Fulham
+3 - 1
+Victoire | 10/05/2009 - Extérieur
+Chelsea vs Arsenal
+4 - 1
+Victoire | 17/05/2009 - Domicile
+Chelsea vs Blackburn Rovers
+2 - 0
+Victoire | 24/05/2009 - Extérieur
+Chelsea vs Sunderland
+3 - 2
+Victoire
+R9 | 23.59 ms | Moyenne de buts à l’extérieur du Top 6 : 65.0
+R6 | 149.08 ms | Aucun match en novembre 2008
+R4 | 19.03 ms | Liverpool avec 77 buts
+R2 | 18.55 ms | 760 matchs joués
+R7 | 27.69 ms | 0 victoires à domicile
+R8 | 19.24 ms | Newcastle United : 13 | Arsenal : 12 | Everton : 12 | Liverpool : 11 | Aston Villa : 11 | Fulham : 11 | Portsmouth : 11 | Blackburn Rovers : 11 | Hull City : 11 | Middlesbrough : 11 | Tottenham Hotspur : 9 | West Ham United : 9 | Wigan Athletic : 9 | Stoke City : 9 | Sunderland : 9 | Chelsea : 8 | Bolton Wanderers : 8 | West Bromwich Albion : 8 | Manchester United : 6 | Manchester City : 5
+R9 | 17.21 ms | Moyenne de buts à l’extérieur du Top 6 : 65.0
+R10 | 31.47 ms | 17/08/2008 - Domicile
+Manchester United vs Newcastle United
+1 - 1
+Nul | 25/08/2008 - Extérieur
+Manchester United vs Portsmouth
+1 - 0
+Victoire | 13/09/2008 - Extérieur
+Manchester United vs Liverpool
+1 - 2
+Défaite | 21/09/2008 - Extérieur
+Manchester United vs Chelsea
+1 - 1
+Nul | 27/09/2008 - Domicile
+Manchester United vs Bolton Wanderers
+2 - 0
+Victoire | 04/10/2008 - Extérieur
+Manchester United vs Blackburn Rovers
+2 - 0
+Victoire | 18/10/2008 - Domicile
+Manchester United vs West Bromwich Albion
+4 - 0
+Victoire | 25/10/2008 - Extérieur
+Manchester United vs Everton
+1 - 1
+Nul | 29/10/2008 - Domicile
+Manchester United vs West Ham United
+2 - 0
+Victoire | 01/11/2008 - Domicile
+Manchester United vs Hull City
+4 - 3
+Victoire | 08/11/2008 - Extérieur
+Manchester United vs Arsenal
+1 - 2
+Défaite | 15/11/2008 - Domicile
+Manchester United vs Stoke City
+5 - 0
+Victoire | 22/11/2008 - Extérieur
+Manchester United vs Aston Villa
+0 - 0
+Nul | 30/11/2008 - Extérieur
+Manchester United vs Manchester City
+1 - 0
+Victoire | 06/12/2008 - Domicile
+Manchester United vs Sunderland
+1 - 0
+Victoire | 13/12/2008 - Extérieur
+Manchester United vs Tottenham Hotspur
+0 - 0
+Nul | 26/12/2008 - Extérieur
+Manchester United vs Stoke City
+1 - 0
+Victoire | 29/12/2008 - Domicile
+Manchester United vs Middlesbrough
+1 - 0
+Victoire | 11/01/2009 - Domicile
+Manchester United vs Chelsea
+3 - 0
+Victoire | 14/01/2009 - Domicile
+Manchester United vs Wigan Athletic
+1 - 0
+Victoire | 17/01/2009 - Extérieur
+Manchester United vs Bolton Wanderers
+1 - 0
+Victoire | 27/01/2009 - Extérieur
+Manchester United vs West Bromwich Albion
+5 - 0
+Victoire | 31/01/2009 - Domicile
+Manchester United vs Everton
+1 - 0
+Victoire | 08/02/2009 - Extérieur
+Manchester United vs West Ham United
+1 - 0
+Victoire | 18/02/2009 - Domicile
+Manchester United vs Fulham
+3 - 0
+Victoire | 21/02/2009 - Domicile
+Manchester United vs Blackburn Rovers
+2 - 1
+Victoire | 04/03/2009 - Extérieur
+Manchester United vs Newcastle United
+2 - 1
+Victoire | 14/03/2009 - Domicile
+Manchester United vs Liverpool
+1 - 4
+Défaite | 21/03/2009 - Extérieur
+Manchester United vs Fulham
+0 - 2
+Défaite | 05/04/2009 - Domicile
+Manchester United vs Aston Villa
+3 - 2
+Victoire | 11/04/2009 - Extérieur
+Manchester United vs Sunderland
+2 - 1
+Victoire | 22/04/2009 - Domicile
+Manchester United vs Portsmouth
+2 - 0
+Victoire | 25/04/2009 - Domicile
+Manchester United vs Tottenham Hotspur
+5 - 2
+Victoire | 02/05/2009 - Extérieur
+Manchester United vs Middlesbrough
+2 - 0
+Victoire | 10/05/2009 - Domicile
+Manchester United vs Manchester City
+2 - 0
+Victoire | 13/05/2009 - Extérieur
+Manchester United vs Wigan Athletic
+2 - 1
+Victoire | 16/05/2009 - Domicile
+Manchester United vs Arsenal
+0 - 0
+Nul | 24/05/2009 - Extérieur
+Manchester United vs Hull City
+1 - 0
+Victoire | 17/08/2008 - Domicile
+Chelsea vs Portsmouth
+4 - 0
+Victoire | 24/08/2008 - Extérieur
+Chelsea vs Wigan Athletic
+1 - 0
+Victoire | 31/08/2008 - Domicile
+Chelsea vs Tottenham Hotspur
+1 - 1
+Nul | 13/09/2008 - Extérieur
+Chelsea vs Manchester City
+3 - 1
+Victoire | 21/09/2008 - Domicile
+Chelsea vs Manchester United
+1 - 1
+Nul | 27/09/2008 - Extérieur
+Chelsea vs Stoke City
+2 - 0
+Victoire | 05/10/2008 - Domicile
+Chelsea vs Aston Villa
+2 - 0
+Victoire | 18/10/2008 - Extérieur
+Chelsea vs Middlesbrough
+5 - 0
+Victoire | 26/10/2008 - Domicile
+Chelsea vs Liverpool
+0 - 1
+Défaite | 29/10/2008 - Extérieur
+Chelsea vs Hull City
+3 - 0
+Victoire | 01/11/2008 - Domicile
+Chelsea vs Sunderland
+5 - 0
+Victoire | 09/11/2008 - Extérieur
+Chelsea vs Blackburn Rovers
+2 - 0
+Victoire | 15/11/2008 - Extérieur
+Chelsea vs West Bromwich Albion
+3 - 0
+Victoire | 22/11/2008 - Domicile
+Chelsea vs Newcastle United
+0 - 0
+Nul | 30/11/2008 - Domicile
+Chelsea vs Arsenal
+1 - 2
+Défaite | 06/12/2008 - Extérieur
+Chelsea vs Bolton Wanderers
+2 - 0
+Victoire | 14/12/2008 - Domicile
+Chelsea vs West Ham United
+1 - 1
+Nul | 22/12/2008 - Extérieur
+Chelsea vs Everton
+0 - 0
+Nul | 26/12/2008 - Domicile
+Chelsea vs West Bromwich Albion
+2 - 0
+Victoire | 28/12/2008 - Extérieur
+Chelsea vs Fulham
+2 - 2
+Nul | 11/01/2009 - Extérieur
+Chelsea vs Manchester United
+0 - 3
+Défaite | 17/01/2009 - Domicile
+Chelsea vs Stoke City
+2 - 1
+Victoire | 28/01/2009 - Domicile
+Chelsea vs Middlesbrough
+2 - 0
+Victoire | 01/02/2009 - Extérieur
+Chelsea vs Liverpool
+0 - 2
+Défaite | 07/02/2009 - Domicile
+Chelsea vs Hull City
+0 - 0
+Nul | 21/02/2009 - Extérieur
+Chelsea vs Aston Villa
+1 - 0
+Victoire | 28/02/2009 - Domicile
+Chelsea vs Wigan Athletic
+2 - 1
+Victoire | 03/03/2009 - Extérieur
+Chelsea vs Portsmouth
+1 - 0
+Victoire | 15/03/2009 - Domicile
+Chelsea vs Manchester City
+1 - 0
+Victoire | 21/03/2009 - Extérieur
+Chelsea vs Tottenham Hotspur
+0 - 1
+Défaite | 04/04/2009 - Extérieur
+Chelsea vs Newcastle United
+2 - 0
+Victoire | 11/04/2009 - Domicile
+Chelsea vs Bolton Wanderers
+4 - 3
+Victoire | 22/04/2009 - Domicile
+Chelsea vs Everton
+0 - 0
+Nul | 25/04/2009 - Extérieur
+Chelsea vs West Ham United
+1 - 0
+Victoire | 02/05/2009 - Domicile
+Chelsea vs Fulham
+3 - 1
+Victoire | 10/05/2009 - Extérieur
+Chelsea vs Arsenal
+4 - 1
+Victoire | 17/05/2009 - Domicile
+Chelsea vs Blackburn Rovers
+2 - 0
+Victoire | 24/05/2009 - Extérieur
+Chelsea vs Sunderland
+3 - 2
+Victoire
+R1 | 17.64 ms | Manchester United
+R2 | 18.97 ms | 760 matchs joués
+R3 | 18.02 ms | 942 buts marqués
+R4 | 18.08 ms | Liverpool avec 77 buts
+R5 | 26.96 ms | Liverpool : 77
+R6 | 94.35 ms | Aucun match en novembre 2008
+R7 | 47.13 ms | 0 victoires à domicile
+R8 | 39.49 ms | Newcastle United : 13 | Arsenal : 12 | Everton : 12 | Liverpool : 11 | Aston Villa : 11 | Fulham : 11 | Portsmouth : 11 | Blackburn Rovers : 11 | Hull City : 11 | Middlesbrough : 11 | Tottenham Hotspur : 9 | West Ham United : 9 | Wigan Athletic : 9 | Stoke City : 9 | Sunderland : 9 | Chelsea : 8 | Bolton Wanderers : 8 | West Bromwich Albion : 8 | Manchester United : 6 | Manchester City : 5
+R9 | 18.73 ms | Moyenne de buts à l’extérieur du Top 6 : 65.0
+R10 | 55.65 ms | 17/08/2008 - Domicile
+Manchester United vs Newcastle United
+1 - 1
+Nul | 25/08/2008 - Extérieur
+Manchester United vs Portsmouth
+1 - 0
+Victoire | 13/09/2008 - Extérieur
+Manchester United vs Liverpool
+1 - 2
+Défaite | 21/09/2008 - Extérieur
+Manchester United vs Chelsea
+1 - 1
+Nul | 27/09/2008 - Domicile
+Manchester United vs Bolton Wanderers
+2 - 0
+Victoire | 04/10/2008 - Extérieur
+Manchester United vs Blackburn Rovers
+2 - 0
+Victoire | 18/10/2008 - Domicile
+Manchester United vs West Bromwich Albion
+4 - 0
+Victoire | 25/10/2008 - Extérieur
+Manchester United vs Everton
+1 - 1
+Nul | 29/10/2008 - Domicile
+Manchester United vs West Ham United
+2 - 0
+Victoire | 01/11/2008 - Domicile
+Manchester United vs Hull City
+4 - 3
+Victoire | 08/11/2008 - Extérieur
+Manchester United vs Arsenal
+1 - 2
+Défaite | 15/11/2008 - Domicile
+Manchester United vs Stoke City
+5 - 0
+Victoire | 22/11/2008 - Extérieur
+Manchester United vs Aston Villa
+0 - 0
+Nul | 30/11/2008 - Extérieur
+Manchester United vs Manchester City
+1 - 0
+Victoire | 06/12/2008 - Domicile
+Manchester United vs Sunderland
+1 - 0
+Victoire | 13/12/2008 - Extérieur
+Manchester United vs Tottenham Hotspur
+0 - 0
+Nul | 26/12/2008 - Extérieur
+Manchester United vs Stoke City
+1 - 0
+Victoire | 29/12/2008 - Domicile
+Manchester United vs Middlesbrough
+1 - 0
+Victoire | 11/01/2009 - Domicile
+Manchester United vs Chelsea
+3 - 0
+Victoire | 14/01/2009 - Domicile
+Manchester United vs Wigan Athletic
+1 - 0
+Victoire | 17/01/2009 - Extérieur
+Manchester United vs Bolton Wanderers
+1 - 0
+Victoire | 27/01/2009 - Extérieur
+Manchester United vs West Bromwich Albion
+5 - 0
+Victoire | 31/01/2009 - Domicile
+Manchester United vs Everton
+1 - 0
+Victoire | 08/02/2009 - Extérieur
+Manchester United vs West Ham United
+1 - 0
+Victoire | 18/02/2009 - Domicile
+Manchester United vs Fulham
+3 - 0
+Victoire | 21/02/2009 - Domicile
+Manchester United vs Blackburn Rovers
+2 - 1
+Victoire | 04/03/2009 - Extérieur
+Manchester United vs Newcastle United
+2 - 1
+Victoire | 14/03/2009 - Domicile
+Manchester United vs Liverpool
+1 - 4
+Défaite | 21/03/2009 - Extérieur
+Manchester United vs Fulham
+0 - 2
+Défaite | 05/04/2009 - Domicile
+Manchester United vs Aston Villa
+3 - 2
+Victoire | 11/04/2009 - Extérieur
+Manchester United vs Sunderland
+2 - 1
+Victoire | 22/04/2009 - Domicile
+Manchester United vs Portsmouth
+2 - 0
+Victoire | 25/04/2009 - Domicile
+Manchester United vs Tottenham Hotspur
+5 - 2
+Victoire | 02/05/2009 - Extérieur
+Manchester United vs Middlesbrough
+2 - 0
+Victoire | 10/05/2009 - Domicile
+Manchester United vs Manchester City
+2 - 0
+Victoire | 13/05/2009 - Extérieur
+Manchester United vs Wigan Athletic
+2 - 1
+Victoire | 16/05/2009 - Domicile
+Manchester United vs Arsenal
+0 - 0
+Nul | 24/05/2009 - Extérieur
+Manchester United vs Hull City
+1 - 0
+Victoire | 17/08/2008 - Domicile
+Chelsea vs Portsmouth
+4 - 0
+Victoire | 24/08/2008 - Extérieur
+Chelsea vs Wigan Athletic
+1 - 0
+Victoire | 31/08/2008 - Domicile
+Chelsea vs Tottenham Hotspur
+1 - 1
+Nul | 13/09/2008 - Extérieur
+Chelsea vs Manchester City
+3 - 1
+Victoire | 21/09/2008 - Domicile
+Chelsea vs Manchester United
+1 - 1
+Nul | 27/09/2008 - Extérieur
+Chelsea vs Stoke City
+2 - 0
+Victoire | 05/10/2008 - Domicile
+Chelsea vs Aston Villa
+2 - 0
+Victoire | 18/10/2008 - Extérieur
+Chelsea vs Middlesbrough
+5 - 0
+Victoire | 26/10/2008 - Domicile
+Chelsea vs Liverpool
+0 - 1
+Défaite | 29/10/2008 - Extérieur
+Chelsea vs Hull City
+3 - 0
+Victoire | 01/11/2008 - Domicile
+Chelsea vs Sunderland
+5 - 0
+Victoire | 09/11/2008 - Extérieur
+Chelsea vs Blackburn Rovers
+2 - 0
+Victoire | 15/11/2008 - Extérieur
+Chelsea vs West Bromwich Albion
+3 - 0
+Victoire | 22/11/2008 - Domicile
+Chelsea vs Newcastle United
+0 - 0
+Nul | 30/11/2008 - Domicile
+Chelsea vs Arsenal
+1 - 2
+Défaite | 06/12/2008 - Extérieur
+Chelsea vs Bolton Wanderers
+2 - 0
+Victoire | 14/12/2008 - Domicile
+Chelsea vs West Ham United
+1 - 1
+Nul | 22/12/2008 - Extérieur
+Chelsea vs Everton
+0 - 0
+Nul | 26/12/2008 - Domicile
+Chelsea vs West Bromwich Albion
+2 - 0
+Victoire | 28/12/2008 - Extérieur
+Chelsea vs Fulham
+2 - 2
+Nul | 11/01/2009 - Extérieur
+Chelsea vs Manchester United
+0 - 3
+Défaite | 17/01/2009 - Domicile
+Chelsea vs Stoke City
+2 - 1
+Victoire | 28/01/2009 - Domicile
+Chelsea vs Middlesbrough
+2 - 0
+Victoire | 01/02/2009 - Extérieur
+Chelsea vs Liverpool
+0 - 2
+Défaite | 07/02/2009 - Domicile
+Chelsea vs Hull City
+0 - 0
+Nul | 21/02/2009 - Extérieur
+Chelsea vs Aston Villa
+1 - 0
+Victoire | 28/02/2009 - Domicile
+Chelsea vs Wigan Athletic
+2 - 1
+Victoire | 03/03/2009 - Extérieur
+Chelsea vs Portsmouth
+1 - 0
+Victoire | 15/03/2009 - Domicile
+Chelsea vs Manchester City
+1 - 0
+Victoire | 21/03/2009 - Extérieur
+Chelsea vs Tottenham Hotspur
+0 - 1
+Défaite | 04/04/2009 - Extérieur
+Chelsea vs Newcastle United
+2 - 0
+Victoire | 11/04/2009 - Domicile
+Chelsea vs Bolton Wanderers
+4 - 3
+Victoire | 22/04/2009 - Domicile
+Chelsea vs Everton
+0 - 0
+Nul | 25/04/2009 - Extérieur
+Chelsea vs West Ham United
+1 - 0
+Victoire | 02/05/2009 - Domicile
+Chelsea vs Fulham
+3 - 1
+Victoire | 10/05/2009 - Extérieur
+Chelsea vs Arsenal
+4 - 1
+Victoire | 17/05/2009 - Domicile
+Chelsea vs Blackburn Rovers
+2 - 0
+Victoire | 24/05/2009 - Extérieur
+Chelsea vs Sunderland
+3 - 2
+Victoire
+R11 | 21.35 ms | Manchester United : 68 | Liverpool : 77 | Chelsea : 68 | Arsenal : 68 | Everton : 55 | Aston Villa : 54 | Tottenham Hotspur : 45 | West Ham United : 42 | Manchester City : 58 | Bolton Wanderers : 41
+R1 | 20.89 ms | Manchester United
+R1 | 40.72 ms | Manchester United

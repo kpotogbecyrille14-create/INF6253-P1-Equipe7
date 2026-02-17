@@ -1,0 +1,11 @@
+PREFIX schema1: <http://schema.org/>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+SELECT ?teamName
+WHERE {
+  ?team a schema1:SportsTeam ;
+        schema1:position ?pos ;
+        schema1:name ?teamName .
+}
+ORDER BY xsd:integer(?pos)
+LIMIT 1

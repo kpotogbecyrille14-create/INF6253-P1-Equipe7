@@ -1,0 +1,2903 @@
+@prefix schema1: <http://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://example.org/match/01-02-2009_Liverpool_vs_Chelsea> a schema1:SportsEvent ;
+    schema1:awayTeam "Chelsea" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Liverpool" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "01/02/2009"^^xsd:string .
+
+<http://example.org/match/01-02-2009_Newcastle_United_vs_Sunderland> a schema1:SportsEvent ;
+    schema1:awayTeam "Sunderland" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Newcastle United" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "01/02/2009"^^xsd:string .
+
+<http://example.org/match/01-03-2009_Aston_Villa_vs_Stoke_City> a schema1:SportsEvent ;
+    schema1:awayTeam "Stoke City" ;
+    schema1:awayTeamScore 2 ;
+    schema1:homeTeam "Aston Villa" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "01/03/2009"^^xsd:string .
+
+<http://example.org/match/01-03-2009_Bolton_Wanderers_vs_Newcastle_United> a schema1:SportsEvent ;
+    schema1:awayTeam "Newcastle United" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Bolton Wanderers" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "01/03/2009"^^xsd:string .
+
+<http://example.org/match/01-03-2009_Hull_City_vs_Blackburn_Rovers> a schema1:SportsEvent ;
+    schema1:awayTeam "Blackburn Rovers" ;
+    schema1:awayTeamScore 2 ;
+    schema1:homeTeam "Hull City" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "01/03/2009"^^xsd:string .
+
+<http://example.org/match/01-03-2009_West_Ham_United_vs_Manchester_City> a schema1:SportsEvent ;
+    schema1:awayTeam "Manchester City" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "West Ham United" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "01/03/2009"^^xsd:string .
+
+<http://example.org/match/01-11-2008_Chelsea_vs_Sunderland> a schema1:SportsEvent ;
+    schema1:awayTeam "Sunderland" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Chelsea" ;
+    schema1:homeTeamScore 5 ;
+    schema1:startDate "01/11/2008"^^xsd:string .
+
+<http://example.org/match/01-11-2008_Everton_vs_Fulham> a schema1:SportsEvent ;
+    schema1:awayTeam "Fulham" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Everton" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "01/11/2008"^^xsd:string .
+
+<http://example.org/match/01-11-2008_Manchester_United_vs_Hull_City> a schema1:SportsEvent ;
+    schema1:awayTeam "Hull City" ;
+    schema1:awayTeamScore 3 ;
+    schema1:homeTeam "Manchester United" ;
+    schema1:homeTeamScore 4 ;
+    schema1:startDate "01/11/2008"^^xsd:string .
+
+<http://example.org/match/01-11-2008_Middlesbrough_vs_West_Ham_United> a schema1:SportsEvent ;
+    schema1:awayTeam "West Ham United" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Middlesbrough" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "01/11/2008"^^xsd:string .
+
+<http://example.org/match/01-11-2008_Portsmouth_vs_Wigan_Athletic> a schema1:SportsEvent ;
+    schema1:awayTeam "Wigan Athletic" ;
+    schema1:awayTeamScore 2 ;
+    schema1:homeTeam "Portsmouth" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "01/11/2008"^^xsd:string .
+
+<http://example.org/match/01-11-2008_Stoke_City_vs_Arsenal> a schema1:SportsEvent ;
+    schema1:awayTeam "Arsenal" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Stoke City" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "01/11/2008"^^xsd:string .
+
+<http://example.org/match/01-11-2008_Tottenham_Hotspur_vs_Liverpool> a schema1:SportsEvent ;
+    schema1:awayTeam "Liverpool" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Tottenham Hotspur" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "01/11/2008"^^xsd:string .
+
+<http://example.org/match/01-11-2008_West_Bromwich_Albion_vs_Blackburn_Rovers> a schema1:SportsEvent ;
+    schema1:awayTeam "Blackburn Rovers" ;
+    schema1:awayTeamScore 2 ;
+    schema1:homeTeam "West Bromwich Albion" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "01/11/2008"^^xsd:string .
+
+<http://example.org/match/01-12-2008_Liverpool_vs_West_Ham_United> a schema1:SportsEvent ;
+    schema1:awayTeam "West Ham United" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Liverpool" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "01/12/2008"^^xsd:string .
+
+<http://example.org/match/02-05-2009_Chelsea_vs_Fulham> a schema1:SportsEvent ;
+    schema1:awayTeam "Fulham" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Chelsea" ;
+    schema1:homeTeamScore 3 ;
+    schema1:startDate "02/05/2009"^^xsd:string .
+
+<http://example.org/match/02-05-2009_Manchester_City_vs_Blackburn_Rovers> a schema1:SportsEvent ;
+    schema1:awayTeam "Blackburn Rovers" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Manchester City" ;
+    schema1:homeTeamScore 3 ;
+    schema1:startDate "02/05/2009"^^xsd:string .
+
+<http://example.org/match/02-05-2009_Middlesbrough_vs_Manchester_United> a schema1:SportsEvent ;
+    schema1:awayTeam "Manchester United" ;
+    schema1:awayTeamScore 2 ;
+    schema1:homeTeam "Middlesbrough" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "02/05/2009"^^xsd:string .
+
+<http://example.org/match/02-05-2009_Portsmouth_vs_Arsenal> a schema1:SportsEvent ;
+    schema1:awayTeam "Arsenal" ;
+    schema1:awayTeamScore 3 ;
+    schema1:homeTeam "Portsmouth" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "02/05/2009"^^xsd:string .
+
+<http://example.org/match/02-05-2009_Stoke_City_vs_West_Ham_United> a schema1:SportsEvent ;
+    schema1:awayTeam "West Ham United" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Stoke City" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "02/05/2009"^^xsd:string .
+
+<http://example.org/match/02-05-2009_Tottenham_Hotspur_vs_West_Bromwich_Albion> a schema1:SportsEvent ;
+    schema1:awayTeam "West Bromwich Albion" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Tottenham Hotspur" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "02/05/2009"^^xsd:string .
+
+<http://example.org/match/02-05-2009_Wigan_Athletic_vs_Bolton_Wanderers> a schema1:SportsEvent ;
+    schema1:awayTeam "Bolton Wanderers" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Wigan Athletic" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "02/05/2009"^^xsd:string .
+
+<http://example.org/match/02-11-2008_Bolton_Wanderers_vs_Manchester_City> a schema1:SportsEvent ;
+    schema1:awayTeam "Manchester City" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Bolton Wanderers" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "02/11/2008"^^xsd:string .
+
+<http://example.org/match/03-03-2009_Liverpool_vs_Sunderland> a schema1:SportsEvent ;
+    schema1:awayTeam "Sunderland" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Liverpool" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "03/03/2009"^^xsd:string .
+
+<http://example.org/match/03-03-2009_Portsmouth_vs_Chelsea> a schema1:SportsEvent ;
+    schema1:awayTeam "Chelsea" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Portsmouth" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "03/03/2009"^^xsd:string .
+
+<http://example.org/match/03-03-2009_West_Bromwich_Albion_vs_Arsenal> a schema1:SportsEvent ;
+    schema1:awayTeam "Arsenal" ;
+    schema1:awayTeamScore 3 ;
+    schema1:homeTeam "West Bromwich Albion" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "03/03/2009"^^xsd:string .
+
+<http://example.org/match/03-05-2009_Liverpool_vs_Newcastle_United> a schema1:SportsEvent ;
+    schema1:awayTeam "Newcastle United" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Liverpool" ;
+    schema1:homeTeamScore 3 ;
+    schema1:startDate "03/05/2009"^^xsd:string .
+
+<http://example.org/match/03-05-2009_Sunderland_vs_Everton> a schema1:SportsEvent ;
+    schema1:awayTeam "Everton" ;
+    schema1:awayTeamScore 2 ;
+    schema1:homeTeam "Sunderland" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "03/05/2009"^^xsd:string .
+
+<http://example.org/match/03-11-2008_Newcastle_United_vs_Aston_Villa> a schema1:SportsEvent ;
+    schema1:awayTeam "Aston Villa" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Newcastle United" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "03/11/2008"^^xsd:string .
+
+<http://example.org/match/04-03-2009_Blackburn_Rovers_vs_Everton> a schema1:SportsEvent ;
+    schema1:awayTeam "Everton" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Blackburn Rovers" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "04/03/2009"^^xsd:string .
+
+<http://example.org/match/04-03-2009_Fulham_vs_Hull_City> a schema1:SportsEvent ;
+    schema1:awayTeam "Hull City" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Fulham" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "04/03/2009"^^xsd:string .
+
+<http://example.org/match/04-03-2009_Manchester_City_vs_Aston_Villa> a schema1:SportsEvent ;
+    schema1:awayTeam "Aston Villa" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Manchester City" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "04/03/2009"^^xsd:string .
+
+<http://example.org/match/04-03-2009_Newcastle_United_vs_Manchester_United> a schema1:SportsEvent ;
+    schema1:awayTeam "Manchester United" ;
+    schema1:awayTeamScore 2 ;
+    schema1:homeTeam "Newcastle United" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "04/03/2009"^^xsd:string .
+
+<http://example.org/match/04-03-2009_Stoke_City_vs_Bolton_Wanderers> a schema1:SportsEvent ;
+    schema1:awayTeam "Bolton Wanderers" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Stoke City" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "04/03/2009"^^xsd:string .
+
+<http://example.org/match/04-03-2009_Tottenham_Hotspur_vs_Middlesbrough> a schema1:SportsEvent ;
+    schema1:awayTeam "Middlesbrough" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Tottenham Hotspur" ;
+    schema1:homeTeamScore 4 ;
+    schema1:startDate "04/03/2009"^^xsd:string .
+
+<http://example.org/match/04-03-2009_Wigan_Athletic_vs_West_Ham_United> a schema1:SportsEvent ;
+    schema1:awayTeam "West Ham United" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Wigan Athletic" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "04/03/2009"^^xsd:string .
+
+<http://example.org/match/04-04-2009_Arsenal_vs_Manchester_City> a schema1:SportsEvent ;
+    schema1:awayTeam "Manchester City" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Arsenal" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "04/04/2009"^^xsd:string .
+
+<http://example.org/match/04-04-2009_Blackburn_Rovers_vs_Tottenham_Hotspur> a schema1:SportsEvent ;
+    schema1:awayTeam "Tottenham Hotspur" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Blackburn Rovers" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "04/04/2009"^^xsd:string .
+
+<http://example.org/match/04-04-2009_Bolton_Wanderers_vs_Middlesbrough> a schema1:SportsEvent ;
+    schema1:awayTeam "Middlesbrough" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Bolton Wanderers" ;
+    schema1:homeTeamScore 4 ;
+    schema1:startDate "04/04/2009"^^xsd:string .
+
+<http://example.org/match/04-04-2009_Fulham_vs_Liverpool> a schema1:SportsEvent ;
+    schema1:awayTeam "Liverpool" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Fulham" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "04/04/2009"^^xsd:string .
+
+<http://example.org/match/04-04-2009_Hull_City_vs_Portsmouth> a schema1:SportsEvent ;
+    schema1:awayTeam "Portsmouth" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Hull City" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "04/04/2009"^^xsd:string .
+
+<http://example.org/match/04-04-2009_Newcastle_United_vs_Chelsea> a schema1:SportsEvent ;
+    schema1:awayTeam "Chelsea" ;
+    schema1:awayTeamScore 2 ;
+    schema1:homeTeam "Newcastle United" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "04/04/2009"^^xsd:string .
+
+<http://example.org/match/04-04-2009_West_Bromwich_Albion_vs_Stoke_City> a schema1:SportsEvent ;
+    schema1:awayTeam "Stoke City" ;
+    schema1:awayTeamScore 2 ;
+    schema1:homeTeam "West Bromwich Albion" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "04/04/2009"^^xsd:string .
+
+<http://example.org/match/04-04-2009_West_Ham_United_vs_Sunderland> a schema1:SportsEvent ;
+    schema1:awayTeam "Sunderland" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "West Ham United" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "04/04/2009"^^xsd:string .
+
+<http://example.org/match/04-05-2009_Aston_Villa_vs_Hull_City> a schema1:SportsEvent ;
+    schema1:awayTeam "Hull City" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Aston Villa" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "04/05/2009"^^xsd:string .
+
+<http://example.org/match/04-10-2008_Blackburn_Rovers_vs_Manchester_United> a schema1:SportsEvent ;
+    schema1:awayTeam "Manchester United" ;
+    schema1:awayTeamScore 2 ;
+    schema1:homeTeam "Blackburn Rovers" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "04/10/2008"^^xsd:string .
+
+<http://example.org/match/04-10-2008_Sunderland_vs_Arsenal> a schema1:SportsEvent ;
+    schema1:awayTeam "Arsenal" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Sunderland" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "04/10/2008"^^xsd:string .
+
+<http://example.org/match/04-10-2008_West_Bromwich_Albion_vs_Fulham> a schema1:SportsEvent ;
+    schema1:awayTeam "Fulham" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "West Bromwich Albion" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "04/10/2008"^^xsd:string .
+
+<http://example.org/match/04-10-2008_Wigan_Athletic_vs_Middlesbrough> a schema1:SportsEvent ;
+    schema1:awayTeam "Middlesbrough" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Wigan Athletic" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "04/10/2008"^^xsd:string .
+
+<http://example.org/match/05-04-2009_Everton_vs_Wigan_Athletic> a schema1:SportsEvent ;
+    schema1:awayTeam "Wigan Athletic" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Everton" ;
+    schema1:homeTeamScore 4 ;
+    schema1:startDate "05/04/2009"^^xsd:string .
+
+<http://example.org/match/05-04-2009_Manchester_United_vs_Aston_Villa> a schema1:SportsEvent ;
+    schema1:awayTeam "Aston Villa" ;
+    schema1:awayTeamScore 2 ;
+    schema1:homeTeam "Manchester United" ;
+    schema1:homeTeamScore 3 ;
+    schema1:startDate "05/04/2009"^^xsd:string .
+
+<http://example.org/match/05-10-2008_Chelsea_vs_Aston_Villa> a schema1:SportsEvent ;
+    schema1:awayTeam "Aston Villa" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Chelsea" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "05/10/2008"^^xsd:string .
+
+<http://example.org/match/05-10-2008_Everton_vs_Newcastle_United> a schema1:SportsEvent ;
+    schema1:awayTeam "Newcastle United" ;
+    schema1:awayTeamScore 2 ;
+    schema1:homeTeam "Everton" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "05/10/2008"^^xsd:string .
+
+<http://example.org/match/05-10-2008_Manchester_City_vs_Liverpool> a schema1:SportsEvent ;
+    schema1:awayTeam "Liverpool" ;
+    schema1:awayTeamScore 3 ;
+    schema1:homeTeam "Manchester City" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "05/10/2008"^^xsd:string .
+
+<http://example.org/match/05-10-2008_Portsmouth_vs_Stoke_City> a schema1:SportsEvent ;
+    schema1:awayTeam "Stoke City" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Portsmouth" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "05/10/2008"^^xsd:string .
+
+<http://example.org/match/05-10-2008_Tottenham_Hotspur_vs_Hull_City> a schema1:SportsEvent ;
+    schema1:awayTeam "Hull City" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Tottenham Hotspur" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "05/10/2008"^^xsd:string .
+
+<http://example.org/match/05-10-2008_West_Ham_United_vs_Bolton_Wanderers> a schema1:SportsEvent ;
+    schema1:awayTeam "Bolton Wanderers" ;
+    schema1:awayTeamScore 3 ;
+    schema1:homeTeam "West Ham United" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "05/10/2008"^^xsd:string .
+
+<http://example.org/match/06-12-2008_Arsenal_vs_Wigan_Athletic> a schema1:SportsEvent ;
+    schema1:awayTeam "Wigan Athletic" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Arsenal" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "06/12/2008"^^xsd:string .
+
+<http://example.org/match/06-12-2008_Blackburn_Rovers_vs_Liverpool> a schema1:SportsEvent ;
+    schema1:awayTeam "Liverpool" ;
+    schema1:awayTeamScore 3 ;
+    schema1:homeTeam "Blackburn Rovers" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "06/12/2008"^^xsd:string .
+
+<http://example.org/match/06-12-2008_Bolton_Wanderers_vs_Chelsea> a schema1:SportsEvent ;
+    schema1:awayTeam "Chelsea" ;
+    schema1:awayTeamScore 2 ;
+    schema1:homeTeam "Bolton Wanderers" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "06/12/2008"^^xsd:string .
+
+<http://example.org/match/06-12-2008_Fulham_vs_Manchester_City> a schema1:SportsEvent ;
+    schema1:awayTeam "Manchester City" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Fulham" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "06/12/2008"^^xsd:string .
+
+<http://example.org/match/06-12-2008_Hull_City_vs_Middlesbrough> a schema1:SportsEvent ;
+    schema1:awayTeam "Middlesbrough" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Hull City" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "06/12/2008"^^xsd:string .
+
+<http://example.org/match/06-12-2008_Manchester_United_vs_Sunderland> a schema1:SportsEvent ;
+    schema1:awayTeam "Sunderland" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Manchester United" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "06/12/2008"^^xsd:string .
+
+<http://example.org/match/06-12-2008_Newcastle_United_vs_Stoke_City> a schema1:SportsEvent ;
+    schema1:awayTeam "Stoke City" ;
+    schema1:awayTeamScore 2 ;
+    schema1:homeTeam "Newcastle United" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "06/12/2008"^^xsd:string .
+
+<http://example.org/match/07-02-2009_Blackburn_Rovers_vs_Aston_Villa> a schema1:SportsEvent ;
+    schema1:awayTeam "Aston Villa" ;
+    schema1:awayTeamScore 2 ;
+    schema1:homeTeam "Blackburn Rovers" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "07/02/2009"^^xsd:string .
+
+<http://example.org/match/07-02-2009_Chelsea_vs_Hull_City> a schema1:SportsEvent ;
+    schema1:awayTeam "Hull City" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Chelsea" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "07/02/2009"^^xsd:string .
+
+<http://example.org/match/07-02-2009_Everton_vs_Bolton_Wanderers> a schema1:SportsEvent ;
+    schema1:awayTeam "Bolton Wanderers" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Everton" ;
+    schema1:homeTeamScore 3 ;
+    schema1:startDate "07/02/2009"^^xsd:string .
+
+<http://example.org/match/07-02-2009_Manchester_City_vs_Middlesbrough> a schema1:SportsEvent ;
+    schema1:awayTeam "Middlesbrough" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Manchester City" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "07/02/2009"^^xsd:string .
+
+<http://example.org/match/07-02-2009_Portsmouth_vs_Liverpool> a schema1:SportsEvent ;
+    schema1:awayTeam "Liverpool" ;
+    schema1:awayTeamScore 3 ;
+    schema1:homeTeam "Portsmouth" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "07/02/2009"^^xsd:string .
+
+<http://example.org/match/07-02-2009_Sunderland_vs_Stoke_City> a schema1:SportsEvent ;
+    schema1:awayTeam "Stoke City" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Sunderland" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "07/02/2009"^^xsd:string .
+
+<http://example.org/match/07-02-2009_West_Bromwich_Albion_vs_Newcastle_United> a schema1:SportsEvent ;
+    schema1:awayTeam "Newcastle United" ;
+    schema1:awayTeamScore 3 ;
+    schema1:homeTeam "West Bromwich Albion" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "07/02/2009"^^xsd:string .
+
+<http://example.org/match/07-02-2009_Wigan_Athletic_vs_Fulham> a schema1:SportsEvent ;
+    schema1:awayTeam "Fulham" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Wigan Athletic" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "07/02/2009"^^xsd:string .
+
+<http://example.org/match/07-03-2009_Sunderland_vs_Tottenham_Hotspur> a schema1:SportsEvent ;
+    schema1:awayTeam "Tottenham Hotspur" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Sunderland" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "07/03/2009"^^xsd:string .
+
+<http://example.org/match/07-12-2008_Everton_vs_Aston_Villa> a schema1:SportsEvent ;
+    schema1:awayTeam "Aston Villa" ;
+    schema1:awayTeamScore 3 ;
+    schema1:homeTeam "Everton" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "07/12/2008"^^xsd:string .
+
+<http://example.org/match/07-12-2008_West_Bromwich_Albion_vs_Portsmouth> a schema1:SportsEvent ;
+    schema1:awayTeam "Portsmouth" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "West Bromwich Albion" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "07/12/2008"^^xsd:string .
+
+<http://example.org/match/08-02-2009_Tottenham_Hotspur_vs_Arsenal> a schema1:SportsEvent ;
+    schema1:awayTeam "Arsenal" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Tottenham Hotspur" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "08/02/2009"^^xsd:string .
+
+<http://example.org/match/08-02-2009_West_Ham_United_vs_Manchester_United> a schema1:SportsEvent ;
+    schema1:awayTeam "Manchester United" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "West Ham United" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "08/02/2009"^^xsd:string .
+
+<http://example.org/match/08-11-2008_Arsenal_vs_Manchester_United> a schema1:SportsEvent ;
+    schema1:awayTeam "Manchester United" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Arsenal" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "08/11/2008"^^xsd:string .
+
+<http://example.org/match/08-11-2008_Hull_City_vs_Bolton_Wanderers> a schema1:SportsEvent ;
+    schema1:awayTeam "Bolton Wanderers" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Hull City" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "08/11/2008"^^xsd:string .
+
+<http://example.org/match/08-11-2008_Liverpool_vs_West_Bromwich_Albion> a schema1:SportsEvent ;
+    schema1:awayTeam "West Bromwich Albion" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Liverpool" ;
+    schema1:homeTeamScore 3 ;
+    schema1:startDate "08/11/2008"^^xsd:string .
+
+<http://example.org/match/08-11-2008_Sunderland_vs_Portsmouth> a schema1:SportsEvent ;
+    schema1:awayTeam "Portsmouth" ;
+    schema1:awayTeamScore 2 ;
+    schema1:homeTeam "Sunderland" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "08/11/2008"^^xsd:string .
+
+<http://example.org/match/08-11-2008_West_Ham_United_vs_Everton> a schema1:SportsEvent ;
+    schema1:awayTeam "Everton" ;
+    schema1:awayTeamScore 3 ;
+    schema1:homeTeam "West Ham United" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "08/11/2008"^^xsd:string .
+
+<http://example.org/match/08-11-2008_Wigan_Athletic_vs_Stoke_City> a schema1:SportsEvent ;
+    schema1:awayTeam "Stoke City" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Wigan Athletic" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "08/11/2008"^^xsd:string .
+
+<http://example.org/match/08-12-2008_West_Ham_United_vs_Tottenham_Hotspur> a schema1:SportsEvent ;
+    schema1:awayTeam "Tottenham Hotspur" ;
+    schema1:awayTeamScore 2 ;
+    schema1:homeTeam "West Ham United" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "08/12/2008"^^xsd:string .
+
+<http://example.org/match/09-05-2009_Blackburn_Rovers_vs_Portsmouth> a schema1:SportsEvent ;
+    schema1:awayTeam "Portsmouth" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Blackburn Rovers" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "09/05/2009"^^xsd:string .
+
+<http://example.org/match/09-05-2009_Bolton_Wanderers_vs_Sunderland> a schema1:SportsEvent ;
+    schema1:awayTeam "Sunderland" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Bolton Wanderers" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "09/05/2009"^^xsd:string .
+
+<http://example.org/match/09-05-2009_Everton_vs_Tottenham_Hotspur> a schema1:SportsEvent ;
+    schema1:awayTeam "Tottenham Hotspur" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Everton" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "09/05/2009"^^xsd:string .
+
+<http://example.org/match/09-05-2009_Fulham_vs_Aston_Villa> a schema1:SportsEvent ;
+    schema1:awayTeam "Aston Villa" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Fulham" ;
+    schema1:homeTeamScore 3 ;
+    schema1:startDate "09/05/2009"^^xsd:string .
+
+<http://example.org/match/09-05-2009_Hull_City_vs_Stoke_City> a schema1:SportsEvent ;
+    schema1:awayTeam "Stoke City" ;
+    schema1:awayTeamScore 2 ;
+    schema1:homeTeam "Hull City" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "09/05/2009"^^xsd:string .
+
+<http://example.org/match/09-05-2009_West_Bromwich_Albion_vs_Wigan_Athletic> a schema1:SportsEvent ;
+    schema1:awayTeam "Wigan Athletic" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "West Bromwich Albion" ;
+    schema1:homeTeamScore 3 ;
+    schema1:startDate "09/05/2009"^^xsd:string .
+
+<http://example.org/match/09-05-2009_West_Ham_United_vs_Liverpool> a schema1:SportsEvent ;
+    schema1:awayTeam "Liverpool" ;
+    schema1:awayTeamScore 3 ;
+    schema1:homeTeam "West Ham United" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "09/05/2009"^^xsd:string .
+
+<http://example.org/match/09-11-2008_Aston_Villa_vs_Middlesbrough> a schema1:SportsEvent ;
+    schema1:awayTeam "Middlesbrough" ;
+    schema1:awayTeamScore 2 ;
+    schema1:homeTeam "Aston Villa" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "09/11/2008"^^xsd:string .
+
+<http://example.org/match/09-11-2008_Blackburn_Rovers_vs_Chelsea> a schema1:SportsEvent ;
+    schema1:awayTeam "Chelsea" ;
+    schema1:awayTeamScore 2 ;
+    schema1:homeTeam "Blackburn Rovers" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "09/11/2008"^^xsd:string .
+
+<http://example.org/match/09-11-2008_Fulham_vs_Newcastle_United> a schema1:SportsEvent ;
+    schema1:awayTeam "Newcastle United" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Fulham" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "09/11/2008"^^xsd:string .
+
+<http://example.org/match/09-11-2008_Manchester_City_vs_Tottenham_Hotspur> a schema1:SportsEvent ;
+    schema1:awayTeam "Tottenham Hotspur" ;
+    schema1:awayTeamScore 2 ;
+    schema1:homeTeam "Manchester City" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "09/11/2008"^^xsd:string .
+
+<http://example.org/match/10-01-2009_Arsenal_vs_Bolton_Wanderers> a schema1:SportsEvent ;
+    schema1:awayTeam "Bolton Wanderers" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Arsenal" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "10/01/2009"^^xsd:string .
+
+<http://example.org/match/10-01-2009_Aston_Villa_vs_West_Bromwich_Albion> a schema1:SportsEvent ;
+    schema1:awayTeam "West Bromwich Albion" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Aston Villa" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "10/01/2009"^^xsd:string .
+
+<http://example.org/match/10-01-2009_Everton_vs_Hull_City> a schema1:SportsEvent ;
+    schema1:awayTeam "Hull City" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Everton" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "10/01/2009"^^xsd:string .
+
+<http://example.org/match/10-01-2009_Middlesbrough_vs_Sunderland> a schema1:SportsEvent ;
+    schema1:awayTeam "Sunderland" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Middlesbrough" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "10/01/2009"^^xsd:string .
+
+<http://example.org/match/10-01-2009_Newcastle_United_vs_West_Ham_United> a schema1:SportsEvent ;
+    schema1:awayTeam "West Ham United" ;
+    schema1:awayTeamScore 2 ;
+    schema1:homeTeam "Newcastle United" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "10/01/2009"^^xsd:string .
+
+<http://example.org/match/10-01-2009_Stoke_City_vs_Liverpool> a schema1:SportsEvent ;
+    schema1:awayTeam "Liverpool" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Stoke City" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "10/01/2009"^^xsd:string .
+
+<http://example.org/match/10-05-2009_Arsenal_vs_Chelsea> a schema1:SportsEvent ;
+    schema1:awayTeam "Chelsea" ;
+    schema1:awayTeamScore 4 ;
+    schema1:homeTeam "Arsenal" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "10/05/2009"^^xsd:string .
+
+<http://example.org/match/10-05-2009_Manchester_United_vs_Manchester_City> a schema1:SportsEvent ;
+    schema1:awayTeam "Manchester City" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Manchester United" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "10/05/2009"^^xsd:string .
+
+<http://example.org/match/11-01-2009_Manchester_United_vs_Chelsea> a schema1:SportsEvent ;
+    schema1:awayTeam "Chelsea" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Manchester United" ;
+    schema1:homeTeamScore 3 ;
+    schema1:startDate "11/01/2009"^^xsd:string .
+
+<http://example.org/match/11-01-2009_Wigan_Athletic_vs_Tottenham_Hotspur> a schema1:SportsEvent ;
+    schema1:awayTeam "Tottenham Hotspur" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Wigan Athletic" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "11/01/2009"^^xsd:string .
+
+<http://example.org/match/11-03-2009_Fulham_vs_Blackburn_Rovers> a schema1:SportsEvent ;
+    schema1:awayTeam "Blackburn Rovers" ;
+    schema1:awayTeamScore 2 ;
+    schema1:homeTeam "Fulham" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "11/03/2009"^^xsd:string .
+
+<http://example.org/match/11-04-2009_Chelsea_vs_Bolton_Wanderers> a schema1:SportsEvent ;
+    schema1:awayTeam "Bolton Wanderers" ;
+    schema1:awayTeamScore 3 ;
+    schema1:homeTeam "Chelsea" ;
+    schema1:homeTeamScore 4 ;
+    schema1:startDate "11/04/2009"^^xsd:string .
+
+<http://example.org/match/11-04-2009_Liverpool_vs_Blackburn_Rovers> a schema1:SportsEvent ;
+    schema1:awayTeam "Blackburn Rovers" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Liverpool" ;
+    schema1:homeTeamScore 4 ;
+    schema1:startDate "11/04/2009"^^xsd:string .
+
+<http://example.org/match/11-04-2009_Middlesbrough_vs_Hull_City> a schema1:SportsEvent ;
+    schema1:awayTeam "Hull City" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Middlesbrough" ;
+    schema1:homeTeamScore 3 ;
+    schema1:startDate "11/04/2009"^^xsd:string .
+
+<http://example.org/match/11-04-2009_Portsmouth_vs_West_Bromwich_Albion> a schema1:SportsEvent ;
+    schema1:awayTeam "West Bromwich Albion" ;
+    schema1:awayTeamScore 2 ;
+    schema1:homeTeam "Portsmouth" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "11/04/2009"^^xsd:string .
+
+<http://example.org/match/11-04-2009_Stoke_City_vs_Newcastle_United> a schema1:SportsEvent ;
+    schema1:awayTeam "Newcastle United" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Stoke City" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "11/04/2009"^^xsd:string .
+
+<http://example.org/match/11-04-2009_Sunderland_vs_Manchester_United> a schema1:SportsEvent ;
+    schema1:awayTeam "Manchester United" ;
+    schema1:awayTeamScore 2 ;
+    schema1:homeTeam "Sunderland" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "11/04/2009"^^xsd:string .
+
+<http://example.org/match/11-04-2009_Tottenham_Hotspur_vs_West_Ham_United> a schema1:SportsEvent ;
+    schema1:awayTeam "West Ham United" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Tottenham Hotspur" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "11/04/2009"^^xsd:string .
+
+<http://example.org/match/11-04-2009_Wigan_Athletic_vs_Arsenal> a schema1:SportsEvent ;
+    schema1:awayTeam "Arsenal" ;
+    schema1:awayTeamScore 4 ;
+    schema1:homeTeam "Wigan Athletic" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "11/04/2009"^^xsd:string .
+
+<http://example.org/match/11-05-2009_Newcastle_United_vs_Middlesbrough> a schema1:SportsEvent ;
+    schema1:awayTeam "Middlesbrough" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Newcastle United" ;
+    schema1:homeTeamScore 3 ;
+    schema1:startDate "11/05/2009"^^xsd:string .
+
+<http://example.org/match/12-04-2009_Aston_Villa_vs_Everton> a schema1:SportsEvent ;
+    schema1:awayTeam "Everton" ;
+    schema1:awayTeamScore 3 ;
+    schema1:homeTeam "Aston Villa" ;
+    schema1:homeTeamScore 3 ;
+    schema1:startDate "12/04/2009"^^xsd:string .
+
+<http://example.org/match/12-04-2009_Manchester_City_vs_Fulham> a schema1:SportsEvent ;
+    schema1:awayTeam "Fulham" ;
+    schema1:awayTeamScore 3 ;
+    schema1:homeTeam "Manchester City" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "12/04/2009"^^xsd:string .
+
+<http://example.org/match/13-05-2009_Wigan_Athletic_vs_Manchester_United> a schema1:SportsEvent ;
+    schema1:awayTeam "Manchester United" ;
+    schema1:awayTeamScore 2 ;
+    schema1:homeTeam "Wigan Athletic" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "13/05/2009"^^xsd:string .
+
+<http://example.org/match/13-09-2008_Blackburn_Rovers_vs_Arsenal> a schema1:SportsEvent ;
+    schema1:awayTeam "Arsenal" ;
+    schema1:awayTeamScore 4 ;
+    schema1:homeTeam "Blackburn Rovers" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "13/09/2008"^^xsd:string .
+
+<http://example.org/match/13-09-2008_Fulham_vs_Bolton_Wanderers> a schema1:SportsEvent ;
+    schema1:awayTeam "Bolton Wanderers" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Fulham" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "13/09/2008"^^xsd:string .
+
+<http://example.org/match/13-09-2008_Liverpool_vs_Manchester_United> a schema1:SportsEvent ;
+    schema1:awayTeam "Manchester United" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Liverpool" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "13/09/2008"^^xsd:string .
+
+<http://example.org/match/13-09-2008_Manchester_City_vs_Chelsea> a schema1:SportsEvent ;
+    schema1:awayTeam "Chelsea" ;
+    schema1:awayTeamScore 3 ;
+    schema1:homeTeam "Manchester City" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "13/09/2008"^^xsd:string .
+
+<http://example.org/match/13-09-2008_Newcastle_United_vs_Hull_City> a schema1:SportsEvent ;
+    schema1:awayTeam "Hull City" ;
+    schema1:awayTeamScore 2 ;
+    schema1:homeTeam "Newcastle United" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "13/09/2008"^^xsd:string .
+
+<http://example.org/match/13-09-2008_Portsmouth_vs_Middlesbrough> a schema1:SportsEvent ;
+    schema1:awayTeam "Middlesbrough" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Portsmouth" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "13/09/2008"^^xsd:string .
+
+<http://example.org/match/13-09-2008_West_Bromwich_Albion_vs_West_Ham_United> a schema1:SportsEvent ;
+    schema1:awayTeam "West Ham United" ;
+    schema1:awayTeamScore 2 ;
+    schema1:homeTeam "West Bromwich Albion" ;
+    schema1:homeTeamScore 3 ;
+    schema1:startDate "13/09/2008"^^xsd:string .
+
+<http://example.org/match/13-09-2008_Wigan_Athletic_vs_Sunderland> a schema1:SportsEvent ;
+    schema1:awayTeam "Sunderland" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Wigan Athletic" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "13/09/2008"^^xsd:string .
+
+<http://example.org/match/13-12-2008_Aston_Villa_vs_Bolton_Wanderers> a schema1:SportsEvent ;
+    schema1:awayTeam "Bolton Wanderers" ;
+    schema1:awayTeamScore 2 ;
+    schema1:homeTeam "Aston Villa" ;
+    schema1:homeTeamScore 4 ;
+    schema1:startDate "13/12/2008"^^xsd:string .
+
+<http://example.org/match/13-12-2008_Liverpool_vs_Hull_City> a schema1:SportsEvent ;
+    schema1:awayTeam "Hull City" ;
+    schema1:awayTeamScore 2 ;
+    schema1:homeTeam "Liverpool" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "13/12/2008"^^xsd:string .
+
+<http://example.org/match/13-12-2008_Manchester_City_vs_Everton> a schema1:SportsEvent ;
+    schema1:awayTeam "Everton" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Manchester City" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "13/12/2008"^^xsd:string .
+
+<http://example.org/match/13-12-2008_Middlesbrough_vs_Arsenal> a schema1:SportsEvent ;
+    schema1:awayTeam "Arsenal" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Middlesbrough" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "13/12/2008"^^xsd:string .
+
+<http://example.org/match/13-12-2008_Stoke_City_vs_Fulham> a schema1:SportsEvent ;
+    schema1:awayTeam "Fulham" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Stoke City" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "13/12/2008"^^xsd:string .
+
+<http://example.org/match/13-12-2008_Sunderland_vs_West_Bromwich_Albion> a schema1:SportsEvent ;
+    schema1:awayTeam "West Bromwich Albion" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Sunderland" ;
+    schema1:homeTeamScore 4 ;
+    schema1:startDate "13/12/2008"^^xsd:string .
+
+<http://example.org/match/13-12-2008_Tottenham_Hotspur_vs_Manchester_United> a schema1:SportsEvent ;
+    schema1:awayTeam "Manchester United" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Tottenham Hotspur" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "13/12/2008"^^xsd:string .
+
+<http://example.org/match/13-12-2008_Wigan_Athletic_vs_Blackburn_Rovers> a schema1:SportsEvent ;
+    schema1:awayTeam "Blackburn Rovers" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Wigan Athletic" ;
+    schema1:homeTeamScore 3 ;
+    schema1:startDate "13/12/2008"^^xsd:string .
+
+<http://example.org/match/14-01-2009_Manchester_United_vs_Wigan_Athletic> a schema1:SportsEvent ;
+    schema1:awayTeam "Wigan Athletic" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Manchester United" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "14/01/2009"^^xsd:string .
+
+<http://example.org/match/14-02-2009_Portsmouth_vs_Manchester_City> a schema1:SportsEvent ;
+    schema1:awayTeam "Manchester City" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Portsmouth" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "14/02/2009"^^xsd:string .
+
+<http://example.org/match/14-03-2009_Arsenal_vs_Blackburn_Rovers> a schema1:SportsEvent ;
+    schema1:awayTeam "Blackburn Rovers" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Arsenal" ;
+    schema1:homeTeamScore 4 ;
+    schema1:startDate "14/03/2009"^^xsd:string .
+
+<http://example.org/match/14-03-2009_Bolton_Wanderers_vs_Fulham> a schema1:SportsEvent ;
+    schema1:awayTeam "Fulham" ;
+    schema1:awayTeamScore 3 ;
+    schema1:homeTeam "Bolton Wanderers" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "14/03/2009"^^xsd:string .
+
+<http://example.org/match/14-03-2009_Everton_vs_Stoke_City> a schema1:SportsEvent ;
+    schema1:awayTeam "Stoke City" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Everton" ;
+    schema1:homeTeamScore 3 ;
+    schema1:startDate "14/03/2009"^^xsd:string .
+
+<http://example.org/match/14-03-2009_Hull_City_vs_Newcastle_United> a schema1:SportsEvent ;
+    schema1:awayTeam "Newcastle United" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Hull City" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "14/03/2009"^^xsd:string .
+
+<http://example.org/match/14-03-2009_Manchester_United_vs_Liverpool> a schema1:SportsEvent ;
+    schema1:awayTeam "Liverpool" ;
+    schema1:awayTeamScore 4 ;
+    schema1:homeTeam "Manchester United" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "14/03/2009"^^xsd:string .
+
+<http://example.org/match/14-03-2009_Middlesbrough_vs_Portsmouth> a schema1:SportsEvent ;
+    schema1:awayTeam "Portsmouth" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Middlesbrough" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "14/03/2009"^^xsd:string .
+
+<http://example.org/match/14-03-2009_Sunderland_vs_Wigan_Athletic> a schema1:SportsEvent ;
+    schema1:awayTeam "Wigan Athletic" ;
+    schema1:awayTeamScore 2 ;
+    schema1:homeTeam "Sunderland" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "14/03/2009"^^xsd:string .
+
+<http://example.org/match/14-09-2008_Stoke_City_vs_Everton> a schema1:SportsEvent ;
+    schema1:awayTeam "Everton" ;
+    schema1:awayTeamScore 3 ;
+    schema1:homeTeam "Stoke City" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "14/09/2008"^^xsd:string .
+
+<http://example.org/match/14-12-2008_Chelsea_vs_West_Ham_United> a schema1:SportsEvent ;
+    schema1:awayTeam "West Ham United" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Chelsea" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "14/12/2008"^^xsd:string .
+
+<http://example.org/match/14-12-2008_Portsmouth_vs_Newcastle_United> a schema1:SportsEvent ;
+    schema1:awayTeam "Newcastle United" ;
+    schema1:awayTeamScore 3 ;
+    schema1:homeTeam "Portsmouth" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "14/12/2008"^^xsd:string .
+
+<http://example.org/match/15-03-2009_Aston_Villa_vs_Tottenham_Hotspur> a schema1:SportsEvent ;
+    schema1:awayTeam "Tottenham Hotspur" ;
+    schema1:awayTeamScore 2 ;
+    schema1:homeTeam "Aston Villa" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "15/03/2009"^^xsd:string .
+
+<http://example.org/match/15-03-2009_Chelsea_vs_Manchester_City> a schema1:SportsEvent ;
+    schema1:awayTeam "Manchester City" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Chelsea" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "15/03/2009"^^xsd:string .
+
+<http://example.org/match/15-09-2008_Tottenham_Hotspur_vs_Aston_Villa> a schema1:SportsEvent ;
+    schema1:awayTeam "Aston Villa" ;
+    schema1:awayTeamScore 2 ;
+    schema1:homeTeam "Tottenham Hotspur" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "15/09/2008"^^xsd:string .
+
+<http://example.org/match/15-11-2008_Arsenal_vs_Aston_Villa> a schema1:SportsEvent ;
+    schema1:awayTeam "Aston Villa" ;
+    schema1:awayTeamScore 2 ;
+    schema1:homeTeam "Arsenal" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "15/11/2008"^^xsd:string .
+
+<http://example.org/match/15-11-2008_Blackburn_Rovers_vs_Sunderland> a schema1:SportsEvent ;
+    schema1:awayTeam "Sunderland" ;
+    schema1:awayTeamScore 2 ;
+    schema1:homeTeam "Blackburn Rovers" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "15/11/2008"^^xsd:string .
+
+<http://example.org/match/15-11-2008_Bolton_Wanderers_vs_Liverpool> a schema1:SportsEvent ;
+    schema1:awayTeam "Liverpool" ;
+    schema1:awayTeamScore 2 ;
+    schema1:homeTeam "Bolton Wanderers" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "15/11/2008"^^xsd:string .
+
+<http://example.org/match/15-11-2008_Fulham_vs_Tottenham_Hotspur> a schema1:SportsEvent ;
+    schema1:awayTeam "Tottenham Hotspur" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Fulham" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "15/11/2008"^^xsd:string .
+
+<http://example.org/match/15-11-2008_Manchester_United_vs_Stoke_City> a schema1:SportsEvent ;
+    schema1:awayTeam "Stoke City" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Manchester United" ;
+    schema1:homeTeamScore 5 ;
+    schema1:startDate "15/11/2008"^^xsd:string .
+
+<http://example.org/match/15-11-2008_Newcastle_United_vs_Wigan_Athletic> a schema1:SportsEvent ;
+    schema1:awayTeam "Wigan Athletic" ;
+    schema1:awayTeamScore 2 ;
+    schema1:homeTeam "Newcastle United" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "15/11/2008"^^xsd:string .
+
+<http://example.org/match/15-11-2008_West_Bromwich_Albion_vs_Chelsea> a schema1:SportsEvent ;
+    schema1:awayTeam "Chelsea" ;
+    schema1:awayTeamScore 3 ;
+    schema1:homeTeam "West Bromwich Albion" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "15/11/2008"^^xsd:string .
+
+<http://example.org/match/15-11-2008_West_Ham_United_vs_Portsmouth> a schema1:SportsEvent ;
+    schema1:awayTeam "Portsmouth" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "West Ham United" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "15/11/2008"^^xsd:string .
+
+<http://example.org/match/16-03-2009_West_Ham_United_vs_West_Bromwich_Albion> a schema1:SportsEvent ;
+    schema1:awayTeam "West Bromwich Albion" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "West Ham United" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "16/03/2009"^^xsd:string .
+
+<http://example.org/match/16-05-2009_Bolton_Wanderers_vs_Hull_City> a schema1:SportsEvent ;
+    schema1:awayTeam "Hull City" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Bolton Wanderers" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "16/05/2009"^^xsd:string .
+
+<http://example.org/match/16-05-2009_Everton_vs_West_Ham_United> a schema1:SportsEvent ;
+    schema1:awayTeam "West Ham United" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Everton" ;
+    schema1:homeTeamScore 3 ;
+    schema1:startDate "16/05/2009"^^xsd:string .
+
+<http://example.org/match/16-05-2009_Manchester_United_vs_Arsenal> a schema1:SportsEvent ;
+    schema1:awayTeam "Arsenal" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Manchester United" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "16/05/2009"^^xsd:string .
+
+<http://example.org/match/16-05-2009_Middlesbrough_vs_Aston_Villa> a schema1:SportsEvent ;
+    schema1:awayTeam "Aston Villa" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Middlesbrough" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "16/05/2009"^^xsd:string .
+
+<http://example.org/match/16-05-2009_Newcastle_United_vs_Fulham> a schema1:SportsEvent ;
+    schema1:awayTeam "Fulham" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Newcastle United" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "16/05/2009"^^xsd:string .
+
+<http://example.org/match/16-05-2009_Stoke_City_vs_Wigan_Athletic> a schema1:SportsEvent ;
+    schema1:awayTeam "Wigan Athletic" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Stoke City" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "16/05/2009"^^xsd:string .
+
+<http://example.org/match/16-05-2009_Tottenham_Hotspur_vs_Manchester_City> a schema1:SportsEvent ;
+    schema1:awayTeam "Manchester City" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Tottenham Hotspur" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "16/05/2009"^^xsd:string .
+
+<http://example.org/match/16-08-2008_Arsenal_vs_West_Bromwich_Albion> a schema1:SportsEvent ;
+    schema1:awayTeam "West Bromwich Albion" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Arsenal" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "16/08/2008"^^xsd:string .
+
+<http://example.org/match/16-08-2008_Bolton_Wanderers_vs_Stoke_City> a schema1:SportsEvent ;
+    schema1:awayTeam "Stoke City" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Bolton Wanderers" ;
+    schema1:homeTeamScore 3 ;
+    schema1:startDate "16/08/2008"^^xsd:string .
+
+<http://example.org/match/16-08-2008_Everton_vs_Blackburn_Rovers> a schema1:SportsEvent ;
+    schema1:awayTeam "Blackburn Rovers" ;
+    schema1:awayTeamScore 3 ;
+    schema1:homeTeam "Everton" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "16/08/2008"^^xsd:string .
+
+<http://example.org/match/16-08-2008_Hull_City_vs_Fulham> a schema1:SportsEvent ;
+    schema1:awayTeam "Fulham" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Hull City" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "16/08/2008"^^xsd:string .
+
+<http://example.org/match/16-08-2008_Middlesbrough_vs_Tottenham_Hotspur> a schema1:SportsEvent ;
+    schema1:awayTeam "Tottenham Hotspur" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Middlesbrough" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "16/08/2008"^^xsd:string .
+
+<http://example.org/match/16-08-2008_Sunderland_vs_Liverpool> a schema1:SportsEvent ;
+    schema1:awayTeam "Liverpool" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Sunderland" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "16/08/2008"^^xsd:string .
+
+<http://example.org/match/16-08-2008_West_Ham_United_vs_Wigan_Athletic> a schema1:SportsEvent ;
+    schema1:awayTeam "Wigan Athletic" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "West Ham United" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "16/08/2008"^^xsd:string .
+
+<http://example.org/match/16-11-2008_Everton_vs_Middlesbrough> a schema1:SportsEvent ;
+    schema1:awayTeam "Middlesbrough" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Everton" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "16/11/2008"^^xsd:string .
+
+<http://example.org/match/16-11-2008_Hull_City_vs_Manchester_City> a schema1:SportsEvent ;
+    schema1:awayTeam "Manchester City" ;
+    schema1:awayTeamScore 2 ;
+    schema1:homeTeam "Hull City" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "16/11/2008"^^xsd:string .
+
+<http://example.org/match/17-01-2009_Blackburn_Rovers_vs_Newcastle_United> a schema1:SportsEvent ;
+    schema1:awayTeam "Newcastle United" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Blackburn Rovers" ;
+    schema1:homeTeamScore 3 ;
+    schema1:startDate "17/01/2009"^^xsd:string .
+
+<http://example.org/match/17-01-2009_Bolton_Wanderers_vs_Manchester_United> a schema1:SportsEvent ;
+    schema1:awayTeam "Manchester United" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Bolton Wanderers" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "17/01/2009"^^xsd:string .
+
+<http://example.org/match/17-01-2009_Chelsea_vs_Stoke_City> a schema1:SportsEvent ;
+    schema1:awayTeam "Stoke City" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Chelsea" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "17/01/2009"^^xsd:string .
+
+<http://example.org/match/17-01-2009_Hull_City_vs_Arsenal> a schema1:SportsEvent ;
+    schema1:awayTeam "Arsenal" ;
+    schema1:awayTeamScore 3 ;
+    schema1:homeTeam "Hull City" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "17/01/2009"^^xsd:string .
+
+<http://example.org/match/17-01-2009_Manchester_City_vs_Wigan_Athletic> a schema1:SportsEvent ;
+    schema1:awayTeam "Wigan Athletic" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Manchester City" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "17/01/2009"^^xsd:string .
+
+<http://example.org/match/17-01-2009_Sunderland_vs_Aston_Villa> a schema1:SportsEvent ;
+    schema1:awayTeam "Aston Villa" ;
+    schema1:awayTeamScore 2 ;
+    schema1:homeTeam "Sunderland" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "17/01/2009"^^xsd:string .
+
+<http://example.org/match/17-01-2009_West_Bromwich_Albion_vs_Middlesbrough> a schema1:SportsEvent ;
+    schema1:awayTeam "Middlesbrough" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "West Bromwich Albion" ;
+    schema1:homeTeamScore 3 ;
+    schema1:startDate "17/01/2009"^^xsd:string .
+
+<http://example.org/match/17-05-2009_Chelsea_vs_Blackburn_Rovers> a schema1:SportsEvent ;
+    schema1:awayTeam "Blackburn Rovers" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Chelsea" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "17/05/2009"^^xsd:string .
+
+<http://example.org/match/17-05-2009_West_Bromwich_Albion_vs_Liverpool> a schema1:SportsEvent ;
+    schema1:awayTeam "Liverpool" ;
+    schema1:awayTeamScore 2 ;
+    schema1:homeTeam "West Bromwich Albion" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "17/05/2009"^^xsd:string .
+
+<http://example.org/match/17-08-2008_Aston_Villa_vs_Manchester_City> a schema1:SportsEvent ;
+    schema1:awayTeam "Manchester City" ;
+    schema1:awayTeamScore 2 ;
+    schema1:homeTeam "Aston Villa" ;
+    schema1:homeTeamScore 4 ;
+    schema1:startDate "17/08/2008"^^xsd:string .
+
+<http://example.org/match/17-08-2008_Chelsea_vs_Portsmouth> a schema1:SportsEvent ;
+    schema1:awayTeam "Portsmouth" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Chelsea" ;
+    schema1:homeTeamScore 4 ;
+    schema1:startDate "17/08/2008"^^xsd:string .
+
+<http://example.org/match/17-08-2008_Manchester_United_vs_Newcastle_United> a schema1:SportsEvent ;
+    schema1:awayTeam "Newcastle United" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Manchester United" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "17/08/2008"^^xsd:string .
+
+<http://example.org/match/18-01-2009_Tottenham_Hotspur_vs_Portsmouth> a schema1:SportsEvent ;
+    schema1:awayTeam "Portsmouth" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Tottenham Hotspur" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "18/01/2009"^^xsd:string .
+
+<http://example.org/match/18-01-2009_West_Ham_United_vs_Fulham> a schema1:SportsEvent ;
+    schema1:awayTeam "Fulham" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "West Ham United" ;
+    schema1:homeTeamScore 3 ;
+    schema1:startDate "18/01/2009"^^xsd:string .
+
+<http://example.org/match/18-02-2009_Manchester_United_vs_Fulham> a schema1:SportsEvent ;
+    schema1:awayTeam "Fulham" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Manchester United" ;
+    schema1:homeTeamScore 3 ;
+    schema1:startDate "18/02/2009"^^xsd:string .
+
+<http://example.org/match/18-04-2009_Aston_Villa_vs_West_Ham_United> a schema1:SportsEvent ;
+    schema1:awayTeam "West Ham United" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Aston Villa" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "18/04/2009"^^xsd:string .
+
+<http://example.org/match/18-04-2009_Middlesbrough_vs_Fulham> a schema1:SportsEvent ;
+    schema1:awayTeam "Fulham" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Middlesbrough" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "18/04/2009"^^xsd:string .
+
+<http://example.org/match/18-04-2009_Portsmouth_vs_Bolton_Wanderers> a schema1:SportsEvent ;
+    schema1:awayTeam "Bolton Wanderers" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Portsmouth" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "18/04/2009"^^xsd:string .
+
+<http://example.org/match/18-04-2009_Stoke_City_vs_Blackburn_Rovers> a schema1:SportsEvent ;
+    schema1:awayTeam "Blackburn Rovers" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Stoke City" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "18/04/2009"^^xsd:string .
+
+<http://example.org/match/18-04-2009_Sunderland_vs_Hull_City> a schema1:SportsEvent ;
+    schema1:awayTeam "Hull City" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Sunderland" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "18/04/2009"^^xsd:string .
+
+<http://example.org/match/18-05-2009_Portsmouth_vs_Sunderland> a schema1:SportsEvent ;
+    schema1:awayTeam "Sunderland" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Portsmouth" ;
+    schema1:homeTeamScore 3 ;
+    schema1:startDate "18/05/2009"^^xsd:string .
+
+<http://example.org/match/18-10-2008_Arsenal_vs_Everton> a schema1:SportsEvent ;
+    schema1:awayTeam "Everton" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Arsenal" ;
+    schema1:homeTeamScore 3 ;
+    schema1:startDate "18/10/2008"^^xsd:string .
+
+<http://example.org/match/18-10-2008_Aston_Villa_vs_Portsmouth> a schema1:SportsEvent ;
+    schema1:awayTeam "Portsmouth" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Aston Villa" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "18/10/2008"^^xsd:string .
+
+<http://example.org/match/18-10-2008_Bolton_Wanderers_vs_Blackburn_Rovers> a schema1:SportsEvent ;
+    schema1:awayTeam "Blackburn Rovers" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Bolton Wanderers" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "18/10/2008"^^xsd:string .
+
+<http://example.org/match/18-10-2008_Fulham_vs_Sunderland> a schema1:SportsEvent ;
+    schema1:awayTeam "Sunderland" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Fulham" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "18/10/2008"^^xsd:string .
+
+<http://example.org/match/18-10-2008_Liverpool_vs_Wigan_Athletic> a schema1:SportsEvent ;
+    schema1:awayTeam "Wigan Athletic" ;
+    schema1:awayTeamScore 2 ;
+    schema1:homeTeam "Liverpool" ;
+    schema1:homeTeamScore 3 ;
+    schema1:startDate "18/10/2008"^^xsd:string .
+
+<http://example.org/match/18-10-2008_Manchester_United_vs_West_Bromwich_Albion> a schema1:SportsEvent ;
+    schema1:awayTeam "West Bromwich Albion" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Manchester United" ;
+    schema1:homeTeamScore 4 ;
+    schema1:startDate "18/10/2008"^^xsd:string .
+
+<http://example.org/match/18-10-2008_Middlesbrough_vs_Chelsea> a schema1:SportsEvent ;
+    schema1:awayTeam "Chelsea" ;
+    schema1:awayTeamScore 5 ;
+    schema1:homeTeam "Middlesbrough" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "18/10/2008"^^xsd:string .
+
+<http://example.org/match/19-01-2009_Liverpool_vs_Everton> a schema1:SportsEvent ;
+    schema1:awayTeam "Everton" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Liverpool" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "19/01/2009"^^xsd:string .
+
+<http://example.org/match/19-04-2009_Manchester_City_vs_West_Bromwich_Albion> a schema1:SportsEvent ;
+    schema1:awayTeam "West Bromwich Albion" ;
+    schema1:awayTeamScore 2 ;
+    schema1:homeTeam "Manchester City" ;
+    schema1:homeTeamScore 4 ;
+    schema1:startDate "19/04/2009"^^xsd:string .
+
+<http://example.org/match/19-04-2009_Tottenham_Hotspur_vs_Newcastle_United> a schema1:SportsEvent ;
+    schema1:awayTeam "Newcastle United" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Tottenham Hotspur" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "19/04/2009"^^xsd:string .
+
+<http://example.org/match/19-10-2008_Hull_City_vs_West_Ham_United> a schema1:SportsEvent ;
+    schema1:awayTeam "West Ham United" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Hull City" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "19/10/2008"^^xsd:string .
+
+<http://example.org/match/19-10-2008_Stoke_City_vs_Tottenham_Hotspur> a schema1:SportsEvent ;
+    schema1:awayTeam "Tottenham Hotspur" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Stoke City" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "19/10/2008"^^xsd:string .
+
+<http://example.org/match/20-09-2008_Blackburn_Rovers_vs_Fulham> a schema1:SportsEvent ;
+    schema1:awayTeam "Fulham" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Blackburn Rovers" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "20/09/2008"^^xsd:string .
+
+<http://example.org/match/20-09-2008_Bolton_Wanderers_vs_Arsenal> a schema1:SportsEvent ;
+    schema1:awayTeam "Arsenal" ;
+    schema1:awayTeamScore 3 ;
+    schema1:homeTeam "Bolton Wanderers" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "20/09/2008"^^xsd:string .
+
+<http://example.org/match/20-09-2008_Liverpool_vs_Stoke_City> a schema1:SportsEvent ;
+    schema1:awayTeam "Stoke City" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Liverpool" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "20/09/2008"^^xsd:string .
+
+<http://example.org/match/20-09-2008_Sunderland_vs_Middlesbrough> a schema1:SportsEvent ;
+    schema1:awayTeam "Middlesbrough" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Sunderland" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "20/09/2008"^^xsd:string .
+
+<http://example.org/match/20-09-2008_West_Ham_United_vs_Newcastle_United> a schema1:SportsEvent ;
+    schema1:awayTeam "Newcastle United" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "West Ham United" ;
+    schema1:homeTeamScore 3 ;
+    schema1:startDate "20/09/2008"^^xsd:string .
+
+<http://example.org/match/20-10-2008_Newcastle_United_vs_Manchester_City> a schema1:SportsEvent ;
+    schema1:awayTeam "Manchester City" ;
+    schema1:awayTeamScore 2 ;
+    schema1:homeTeam "Newcastle United" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "20/10/2008"^^xsd:string .
+
+<http://example.org/match/20-12-2008_Blackburn_Rovers_vs_Stoke_City> a schema1:SportsEvent ;
+    schema1:awayTeam "Stoke City" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Blackburn Rovers" ;
+    schema1:homeTeamScore 3 ;
+    schema1:startDate "20/12/2008"^^xsd:string .
+
+<http://example.org/match/20-12-2008_Bolton_Wanderers_vs_Portsmouth> a schema1:SportsEvent ;
+    schema1:awayTeam "Portsmouth" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Bolton Wanderers" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "20/12/2008"^^xsd:string .
+
+<http://example.org/match/20-12-2008_Fulham_vs_Middlesbrough> a schema1:SportsEvent ;
+    schema1:awayTeam "Middlesbrough" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Fulham" ;
+    schema1:homeTeamScore 3 ;
+    schema1:startDate "20/12/2008"^^xsd:string .
+
+<http://example.org/match/20-12-2008_Hull_City_vs_Sunderland> a schema1:SportsEvent ;
+    schema1:awayTeam "Sunderland" ;
+    schema1:awayTeamScore 4 ;
+    schema1:homeTeam "Hull City" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "20/12/2008"^^xsd:string .
+
+<http://example.org/match/20-12-2008_West_Ham_United_vs_Aston_Villa> a schema1:SportsEvent ;
+    schema1:awayTeam "Aston Villa" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "West Ham United" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "20/12/2008"^^xsd:string .
+
+<http://example.org/match/21-02-2009_Arsenal_vs_Sunderland> a schema1:SportsEvent ;
+    schema1:awayTeam "Sunderland" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Arsenal" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "21/02/2009"^^xsd:string .
+
+<http://example.org/match/21-02-2009_Aston_Villa_vs_Chelsea> a schema1:SportsEvent ;
+    schema1:awayTeam "Chelsea" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Aston Villa" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "21/02/2009"^^xsd:string .
+
+<http://example.org/match/21-02-2009_Bolton_Wanderers_vs_West_Ham_United> a schema1:SportsEvent ;
+    schema1:awayTeam "West Ham United" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Bolton Wanderers" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "21/02/2009"^^xsd:string .
+
+<http://example.org/match/21-02-2009_Manchester_United_vs_Blackburn_Rovers> a schema1:SportsEvent ;
+    schema1:awayTeam "Blackburn Rovers" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Manchester United" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "21/02/2009"^^xsd:string .
+
+<http://example.org/match/21-02-2009_Middlesbrough_vs_Wigan_Athletic> a schema1:SportsEvent ;
+    schema1:awayTeam "Wigan Athletic" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Middlesbrough" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "21/02/2009"^^xsd:string .
+
+<http://example.org/match/21-02-2009_Stoke_City_vs_Portsmouth> a schema1:SportsEvent ;
+    schema1:awayTeam "Portsmouth" ;
+    schema1:awayTeamScore 2 ;
+    schema1:homeTeam "Stoke City" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "21/02/2009"^^xsd:string .
+
+<http://example.org/match/21-03-2009_Blackburn_Rovers_vs_West_Ham_United> a schema1:SportsEvent ;
+    schema1:awayTeam "West Ham United" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Blackburn Rovers" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "21/03/2009"^^xsd:string .
+
+<http://example.org/match/21-03-2009_Fulham_vs_Manchester_United> a schema1:SportsEvent ;
+    schema1:awayTeam "Manchester United" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Fulham" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "21/03/2009"^^xsd:string .
+
+<http://example.org/match/21-03-2009_Newcastle_United_vs_Arsenal> a schema1:SportsEvent ;
+    schema1:awayTeam "Arsenal" ;
+    schema1:awayTeamScore 3 ;
+    schema1:homeTeam "Newcastle United" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "21/03/2009"^^xsd:string .
+
+<http://example.org/match/21-03-2009_Portsmouth_vs_Everton> a schema1:SportsEvent ;
+    schema1:awayTeam "Everton" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Portsmouth" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "21/03/2009"^^xsd:string .
+
+<http://example.org/match/21-03-2009_Stoke_City_vs_Middlesbrough> a schema1:SportsEvent ;
+    schema1:awayTeam "Middlesbrough" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Stoke City" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "21/03/2009"^^xsd:string .
+
+<http://example.org/match/21-03-2009_Tottenham_Hotspur_vs_Chelsea> a schema1:SportsEvent ;
+    schema1:awayTeam "Chelsea" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Tottenham Hotspur" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "21/03/2009"^^xsd:string .
+
+<http://example.org/match/21-03-2009_West_Bromwich_Albion_vs_Bolton_Wanderers> a schema1:SportsEvent ;
+    schema1:awayTeam "Bolton Wanderers" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "West Bromwich Albion" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "21/03/2009"^^xsd:string .
+
+<http://example.org/match/21-04-2009_Liverpool_vs_Arsenal> a schema1:SportsEvent ;
+    schema1:awayTeam "Arsenal" ;
+    schema1:awayTeamScore 4 ;
+    schema1:homeTeam "Liverpool" ;
+    schema1:homeTeamScore 4 ;
+    schema1:startDate "21/04/2009"^^xsd:string .
+
+<http://example.org/match/21-09-2008_Chelsea_vs_Manchester_United> a schema1:SportsEvent ;
+    schema1:awayTeam "Manchester United" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Chelsea" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "21/09/2008"^^xsd:string .
+
+<http://example.org/match/21-09-2008_Hull_City_vs_Everton> a schema1:SportsEvent ;
+    schema1:awayTeam "Everton" ;
+    schema1:awayTeamScore 2 ;
+    schema1:homeTeam "Hull City" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "21/09/2008"^^xsd:string .
+
+<http://example.org/match/21-09-2008_Manchester_City_vs_Portsmouth> a schema1:SportsEvent ;
+    schema1:awayTeam "Portsmouth" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Manchester City" ;
+    schema1:homeTeamScore 6 ;
+    schema1:startDate "21/09/2008"^^xsd:string .
+
+<http://example.org/match/21-09-2008_Tottenham_Hotspur_vs_Wigan_Athletic> a schema1:SportsEvent ;
+    schema1:awayTeam "Wigan Athletic" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Tottenham Hotspur" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "21/09/2008"^^xsd:string .
+
+<http://example.org/match/21-09-2008_West_Bromwich_Albion_vs_Aston_Villa> a schema1:SportsEvent ;
+    schema1:awayTeam "Aston Villa" ;
+    schema1:awayTeamScore 2 ;
+    schema1:homeTeam "West Bromwich Albion" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "21/09/2008"^^xsd:string .
+
+<http://example.org/match/21-12-2008_Arsenal_vs_Liverpool> a schema1:SportsEvent ;
+    schema1:awayTeam "Liverpool" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Arsenal" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "21/12/2008"^^xsd:string .
+
+<http://example.org/match/21-12-2008_Newcastle_United_vs_Tottenham_Hotspur> a schema1:SportsEvent ;
+    schema1:awayTeam "Tottenham Hotspur" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Newcastle United" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "21/12/2008"^^xsd:string .
+
+<http://example.org/match/21-12-2008_West_Bromwich_Albion_vs_Manchester_City> a schema1:SportsEvent ;
+    schema1:awayTeam "Manchester City" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "West Bromwich Albion" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "21/12/2008"^^xsd:string .
+
+<http://example.org/match/22-02-2009_Fulham_vs_West_Bromwich_Albion> a schema1:SportsEvent ;
+    schema1:awayTeam "West Bromwich Albion" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Fulham" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "22/02/2009"^^xsd:string .
+
+<http://example.org/match/22-02-2009_Liverpool_vs_Manchester_City> a schema1:SportsEvent ;
+    schema1:awayTeam "Manchester City" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Liverpool" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "22/02/2009"^^xsd:string .
+
+<http://example.org/match/22-02-2009_Newcastle_United_vs_Everton> a schema1:SportsEvent ;
+    schema1:awayTeam "Everton" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Newcastle United" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "22/02/2009"^^xsd:string .
+
+<http://example.org/match/22-03-2009_Liverpool_vs_Aston_Villa> a schema1:SportsEvent ;
+    schema1:awayTeam "Aston Villa" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Liverpool" ;
+    schema1:homeTeamScore 5 ;
+    schema1:startDate "22/03/2009"^^xsd:string .
+
+<http://example.org/match/22-03-2009_Manchester_City_vs_Sunderland> a schema1:SportsEvent ;
+    schema1:awayTeam "Sunderland" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Manchester City" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "22/03/2009"^^xsd:string .
+
+<http://example.org/match/22-03-2009_Wigan_Athletic_vs_Hull_City> a schema1:SportsEvent ;
+    schema1:awayTeam "Hull City" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Wigan Athletic" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "22/03/2009"^^xsd:string .
+
+<http://example.org/match/22-04-2009_Chelsea_vs_Everton> a schema1:SportsEvent ;
+    schema1:awayTeam "Everton" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Chelsea" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "22/04/2009"^^xsd:string .
+
+<http://example.org/match/22-04-2009_Manchester_United_vs_Portsmouth> a schema1:SportsEvent ;
+    schema1:awayTeam "Portsmouth" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Manchester United" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "22/04/2009"^^xsd:string .
+
+<http://example.org/match/22-11-2008_Aston_Villa_vs_Manchester_United> a schema1:SportsEvent ;
+    schema1:awayTeam "Manchester United" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Aston Villa" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "22/11/2008"^^xsd:string .
+
+<http://example.org/match/22-11-2008_Chelsea_vs_Newcastle_United> a schema1:SportsEvent ;
+    schema1:awayTeam "Newcastle United" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Chelsea" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "22/11/2008"^^xsd:string .
+
+<http://example.org/match/22-11-2008_Liverpool_vs_Fulham> a schema1:SportsEvent ;
+    schema1:awayTeam "Fulham" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Liverpool" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "22/11/2008"^^xsd:string .
+
+<http://example.org/match/22-11-2008_Manchester_City_vs_Arsenal> a schema1:SportsEvent ;
+    schema1:awayTeam "Arsenal" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Manchester City" ;
+    schema1:homeTeamScore 3 ;
+    schema1:startDate "22/11/2008"^^xsd:string .
+
+<http://example.org/match/22-11-2008_Middlesbrough_vs_Bolton_Wanderers> a schema1:SportsEvent ;
+    schema1:awayTeam "Bolton Wanderers" ;
+    schema1:awayTeamScore 3 ;
+    schema1:homeTeam "Middlesbrough" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "22/11/2008"^^xsd:string .
+
+<http://example.org/match/22-11-2008_Portsmouth_vs_Hull_City> a schema1:SportsEvent ;
+    schema1:awayTeam "Hull City" ;
+    schema1:awayTeamScore 2 ;
+    schema1:homeTeam "Portsmouth" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "22/11/2008"^^xsd:string .
+
+<http://example.org/match/22-11-2008_Stoke_City_vs_West_Bromwich_Albion> a schema1:SportsEvent ;
+    schema1:awayTeam "West Bromwich Albion" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Stoke City" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "22/11/2008"^^xsd:string .
+
+<http://example.org/match/22-12-2008_Everton_vs_Chelsea> a schema1:SportsEvent ;
+    schema1:awayTeam "Chelsea" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Everton" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "22/12/2008"^^xsd:string .
+
+<http://example.org/match/23-02-2009_Hull_City_vs_Tottenham_Hotspur> a schema1:SportsEvent ;
+    schema1:awayTeam "Tottenham Hotspur" ;
+    schema1:awayTeamScore 2 ;
+    schema1:homeTeam "Hull City" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "23/02/2009"^^xsd:string .
+
+<http://example.org/match/23-08-2008_Blackburn_Rovers_vs_Hull_City> a schema1:SportsEvent ;
+    schema1:awayTeam "Hull City" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Blackburn Rovers" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "23/08/2008"^^xsd:string .
+
+<http://example.org/match/23-08-2008_Fulham_vs_Arsenal> a schema1:SportsEvent ;
+    schema1:awayTeam "Arsenal" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Fulham" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "23/08/2008"^^xsd:string .
+
+<http://example.org/match/23-08-2008_Liverpool_vs_Middlesbrough> a schema1:SportsEvent ;
+    schema1:awayTeam "Middlesbrough" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Liverpool" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "23/08/2008"^^xsd:string .
+
+<http://example.org/match/23-08-2008_Newcastle_United_vs_Bolton_Wanderers> a schema1:SportsEvent ;
+    schema1:awayTeam "Bolton Wanderers" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Newcastle United" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "23/08/2008"^^xsd:string .
+
+<http://example.org/match/23-08-2008_Stoke_City_vs_Aston_Villa> a schema1:SportsEvent ;
+    schema1:awayTeam "Aston Villa" ;
+    schema1:awayTeamScore 2 ;
+    schema1:homeTeam "Stoke City" ;
+    schema1:homeTeamScore 3 ;
+    schema1:startDate "23/08/2008"^^xsd:string .
+
+<http://example.org/match/23-08-2008_Tottenham_Hotspur_vs_Sunderland> a schema1:SportsEvent ;
+    schema1:awayTeam "Sunderland" ;
+    schema1:awayTeamScore 2 ;
+    schema1:homeTeam "Tottenham Hotspur" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "23/08/2008"^^xsd:string .
+
+<http://example.org/match/23-08-2008_West_Bromwich_Albion_vs_Everton> a schema1:SportsEvent ;
+    schema1:awayTeam "Everton" ;
+    schema1:awayTeamScore 2 ;
+    schema1:homeTeam "West Bromwich Albion" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "23/08/2008"^^xsd:string .
+
+<http://example.org/match/23-11-2008_Sunderland_vs_West_Ham_United> a schema1:SportsEvent ;
+    schema1:awayTeam "West Ham United" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Sunderland" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "23/11/2008"^^xsd:string .
+
+<http://example.org/match/23-11-2008_Tottenham_Hotspur_vs_Blackburn_Rovers> a schema1:SportsEvent ;
+    schema1:awayTeam "Blackburn Rovers" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Tottenham Hotspur" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "23/11/2008"^^xsd:string .
+
+<http://example.org/match/24-05-2009_Arsenal_vs_Stoke_City> a schema1:SportsEvent ;
+    schema1:awayTeam "Stoke City" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Arsenal" ;
+    schema1:homeTeamScore 4 ;
+    schema1:startDate "24/05/2009"^^xsd:string .
+
+<http://example.org/match/24-05-2009_Aston_Villa_vs_Newcastle_United> a schema1:SportsEvent ;
+    schema1:awayTeam "Newcastle United" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Aston Villa" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "24/05/2009"^^xsd:string .
+
+<http://example.org/match/24-05-2009_Blackburn_Rovers_vs_West_Bromwich_Albion> a schema1:SportsEvent ;
+    schema1:awayTeam "West Bromwich Albion" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Blackburn Rovers" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "24/05/2009"^^xsd:string .
+
+<http://example.org/match/24-05-2009_Fulham_vs_Everton> a schema1:SportsEvent ;
+    schema1:awayTeam "Everton" ;
+    schema1:awayTeamScore 2 ;
+    schema1:homeTeam "Fulham" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "24/05/2009"^^xsd:string .
+
+<http://example.org/match/24-05-2009_Hull_City_vs_Manchester_United> a schema1:SportsEvent ;
+    schema1:awayTeam "Manchester United" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Hull City" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "24/05/2009"^^xsd:string .
+
+<http://example.org/match/24-05-2009_Liverpool_vs_Tottenham_Hotspur> a schema1:SportsEvent ;
+    schema1:awayTeam "Tottenham Hotspur" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Liverpool" ;
+    schema1:homeTeamScore 3 ;
+    schema1:startDate "24/05/2009"^^xsd:string .
+
+<http://example.org/match/24-05-2009_Manchester_City_vs_Bolton_Wanderers> a schema1:SportsEvent ;
+    schema1:awayTeam "Bolton Wanderers" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Manchester City" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "24/05/2009"^^xsd:string .
+
+<http://example.org/match/24-05-2009_Sunderland_vs_Chelsea> a schema1:SportsEvent ;
+    schema1:awayTeam "Chelsea" ;
+    schema1:awayTeamScore 3 ;
+    schema1:homeTeam "Sunderland" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "24/05/2009"^^xsd:string .
+
+<http://example.org/match/24-05-2009_West_Ham_United_vs_Middlesbrough> a schema1:SportsEvent ;
+    schema1:awayTeam "Middlesbrough" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "West Ham United" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "24/05/2009"^^xsd:string .
+
+<http://example.org/match/24-05-2009_Wigan_Athletic_vs_Portsmouth> a schema1:SportsEvent ;
+    schema1:awayTeam "Portsmouth" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Wigan Athletic" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "24/05/2009"^^xsd:string .
+
+<http://example.org/match/24-08-2008_Manchester_City_vs_West_Ham_United> a schema1:SportsEvent ;
+    schema1:awayTeam "West Ham United" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Manchester City" ;
+    schema1:homeTeamScore 3 ;
+    schema1:startDate "24/08/2008"^^xsd:string .
+
+<http://example.org/match/24-08-2008_Wigan_Athletic_vs_Chelsea> a schema1:SportsEvent ;
+    schema1:awayTeam "Chelsea" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Wigan Athletic" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "24/08/2008"^^xsd:string .
+
+<http://example.org/match/24-11-2008_Wigan_Athletic_vs_Everton> a schema1:SportsEvent ;
+    schema1:awayTeam "Everton" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Wigan Athletic" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "24/11/2008"^^xsd:string .
+
+<http://example.org/match/25-04-2009_Bolton_Wanderers_vs_Aston_Villa> a schema1:SportsEvent ;
+    schema1:awayTeam "Aston Villa" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Bolton Wanderers" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "25/04/2009"^^xsd:string .
+
+<http://example.org/match/25-04-2009_Everton_vs_Manchester_City> a schema1:SportsEvent ;
+    schema1:awayTeam "Manchester City" ;
+    schema1:awayTeamScore 2 ;
+    schema1:homeTeam "Everton" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "25/04/2009"^^xsd:string .
+
+<http://example.org/match/25-04-2009_Fulham_vs_Stoke_City> a schema1:SportsEvent ;
+    schema1:awayTeam "Stoke City" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Fulham" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "25/04/2009"^^xsd:string .
+
+<http://example.org/match/25-04-2009_Hull_City_vs_Liverpool> a schema1:SportsEvent ;
+    schema1:awayTeam "Liverpool" ;
+    schema1:awayTeamScore 3 ;
+    schema1:homeTeam "Hull City" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "25/04/2009"^^xsd:string .
+
+<http://example.org/match/25-04-2009_Manchester_United_vs_Tottenham_Hotspur> a schema1:SportsEvent ;
+    schema1:awayTeam "Tottenham Hotspur" ;
+    schema1:awayTeamScore 2 ;
+    schema1:homeTeam "Manchester United" ;
+    schema1:homeTeamScore 5 ;
+    schema1:startDate "25/04/2009"^^xsd:string .
+
+<http://example.org/match/25-04-2009_West_Bromwich_Albion_vs_Sunderland> a schema1:SportsEvent ;
+    schema1:awayTeam "Sunderland" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "West Bromwich Albion" ;
+    schema1:homeTeamScore 3 ;
+    schema1:startDate "25/04/2009"^^xsd:string .
+
+<http://example.org/match/25-04-2009_West_Ham_United_vs_Chelsea> a schema1:SportsEvent ;
+    schema1:awayTeam "Chelsea" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "West Ham United" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "25/04/2009"^^xsd:string .
+
+<http://example.org/match/25-08-2008_Portsmouth_vs_Manchester_United> a schema1:SportsEvent ;
+    schema1:awayTeam "Manchester United" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Portsmouth" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "25/08/2008"^^xsd:string .
+
+<http://example.org/match/25-10-2008_Blackburn_Rovers_vs_Middlesbrough> a schema1:SportsEvent ;
+    schema1:awayTeam "Middlesbrough" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Blackburn Rovers" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "25/10/2008"^^xsd:string .
+
+<http://example.org/match/25-10-2008_Everton_vs_Manchester_United> a schema1:SportsEvent ;
+    schema1:awayTeam "Manchester United" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Everton" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "25/10/2008"^^xsd:string .
+
+<http://example.org/match/25-10-2008_Sunderland_vs_Newcastle_United> a schema1:SportsEvent ;
+    schema1:awayTeam "Newcastle United" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Sunderland" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "25/10/2008"^^xsd:string .
+
+<http://example.org/match/25-10-2008_West_Bromwich_Albion_vs_Hull_City> a schema1:SportsEvent ;
+    schema1:awayTeam "Hull City" ;
+    schema1:awayTeamScore 3 ;
+    schema1:homeTeam "West Bromwich Albion" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "25/10/2008"^^xsd:string .
+
+<http://example.org/match/26-04-2009_Arsenal_vs_Middlesbrough> a schema1:SportsEvent ;
+    schema1:awayTeam "Middlesbrough" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Arsenal" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "26/04/2009"^^xsd:string .
+
+<http://example.org/match/26-04-2009_Blackburn_Rovers_vs_Wigan_Athletic> a schema1:SportsEvent ;
+    schema1:awayTeam "Wigan Athletic" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Blackburn Rovers" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "26/04/2009"^^xsd:string .
+
+<http://example.org/match/26-10-2008_Chelsea_vs_Liverpool> a schema1:SportsEvent ;
+    schema1:awayTeam "Liverpool" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Chelsea" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "26/10/2008"^^xsd:string .
+
+<http://example.org/match/26-10-2008_Manchester_City_vs_Stoke_City> a schema1:SportsEvent ;
+    schema1:awayTeam "Stoke City" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Manchester City" ;
+    schema1:homeTeamScore 3 ;
+    schema1:startDate "26/10/2008"^^xsd:string .
+
+<http://example.org/match/26-10-2008_Portsmouth_vs_Fulham> a schema1:SportsEvent ;
+    schema1:awayTeam "Fulham" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Portsmouth" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "26/10/2008"^^xsd:string .
+
+<http://example.org/match/26-10-2008_Tottenham_Hotspur_vs_Bolton_Wanderers> a schema1:SportsEvent ;
+    schema1:awayTeam "Bolton Wanderers" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Tottenham Hotspur" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "26/10/2008"^^xsd:string .
+
+<http://example.org/match/26-10-2008_West_Ham_United_vs_Arsenal> a schema1:SportsEvent ;
+    schema1:awayTeam "Arsenal" ;
+    schema1:awayTeamScore 2 ;
+    schema1:homeTeam "West Ham United" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "26/10/2008"^^xsd:string .
+
+<http://example.org/match/26-10-2008_Wigan_Athletic_vs_Aston_Villa> a schema1:SportsEvent ;
+    schema1:awayTeam "Aston Villa" ;
+    schema1:awayTeamScore 4 ;
+    schema1:homeTeam "Wigan Athletic" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "26/10/2008"^^xsd:string .
+
+<http://example.org/match/26-12-2008_Aston_Villa_vs_Arsenal> a schema1:SportsEvent ;
+    schema1:awayTeam "Arsenal" ;
+    schema1:awayTeamScore 2 ;
+    schema1:homeTeam "Aston Villa" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "26/12/2008"^^xsd:string .
+
+<http://example.org/match/26-12-2008_Chelsea_vs_West_Bromwich_Albion> a schema1:SportsEvent ;
+    schema1:awayTeam "West Bromwich Albion" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Chelsea" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "26/12/2008"^^xsd:string .
+
+<http://example.org/match/26-12-2008_Liverpool_vs_Bolton_Wanderers> a schema1:SportsEvent ;
+    schema1:awayTeam "Bolton Wanderers" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Liverpool" ;
+    schema1:homeTeamScore 3 ;
+    schema1:startDate "26/12/2008"^^xsd:string .
+
+<http://example.org/match/26-12-2008_Manchester_City_vs_Hull_City> a schema1:SportsEvent ;
+    schema1:awayTeam "Hull City" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Manchester City" ;
+    schema1:homeTeamScore 5 ;
+    schema1:startDate "26/12/2008"^^xsd:string .
+
+<http://example.org/match/26-12-2008_Middlesbrough_vs_Everton> a schema1:SportsEvent ;
+    schema1:awayTeam "Everton" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Middlesbrough" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "26/12/2008"^^xsd:string .
+
+<http://example.org/match/26-12-2008_Portsmouth_vs_West_Ham_United> a schema1:SportsEvent ;
+    schema1:awayTeam "West Ham United" ;
+    schema1:awayTeamScore 4 ;
+    schema1:homeTeam "Portsmouth" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "26/12/2008"^^xsd:string .
+
+<http://example.org/match/26-12-2008_Stoke_City_vs_Manchester_United> a schema1:SportsEvent ;
+    schema1:awayTeam "Manchester United" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Stoke City" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "26/12/2008"^^xsd:string .
+
+<http://example.org/match/26-12-2008_Sunderland_vs_Blackburn_Rovers> a schema1:SportsEvent ;
+    schema1:awayTeam "Blackburn Rovers" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Sunderland" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "26/12/2008"^^xsd:string .
+
+<http://example.org/match/26-12-2008_Tottenham_Hotspur_vs_Fulham> a schema1:SportsEvent ;
+    schema1:awayTeam "Fulham" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Tottenham Hotspur" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "26/12/2008"^^xsd:string .
+
+<http://example.org/match/26-12-2008_Wigan_Athletic_vs_Newcastle_United> a schema1:SportsEvent ;
+    schema1:awayTeam "Newcastle United" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Wigan Athletic" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "26/12/2008"^^xsd:string .
+
+<http://example.org/match/27-01-2009_Portsmouth_vs_Aston_Villa> a schema1:SportsEvent ;
+    schema1:awayTeam "Aston Villa" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Portsmouth" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "27/01/2009"^^xsd:string .
+
+<http://example.org/match/27-01-2009_Sunderland_vs_Fulham> a schema1:SportsEvent ;
+    schema1:awayTeam "Fulham" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Sunderland" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "27/01/2009"^^xsd:string .
+
+<http://example.org/match/27-01-2009_Tottenham_Hotspur_vs_Stoke_City> a schema1:SportsEvent ;
+    schema1:awayTeam "Stoke City" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Tottenham Hotspur" ;
+    schema1:homeTeamScore 3 ;
+    schema1:startDate "27/01/2009"^^xsd:string .
+
+<http://example.org/match/27-01-2009_West_Bromwich_Albion_vs_Manchester_United> a schema1:SportsEvent ;
+    schema1:awayTeam "Manchester United" ;
+    schema1:awayTeamScore 5 ;
+    schema1:homeTeam "West Bromwich Albion" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "27/01/2009"^^xsd:string .
+
+<http://example.org/match/27-04-2009_Newcastle_United_vs_Portsmouth> a schema1:SportsEvent ;
+    schema1:awayTeam "Portsmouth" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Newcastle United" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "27/04/2009"^^xsd:string .
+
+<http://example.org/match/27-09-2008_Arsenal_vs_Hull_City> a schema1:SportsEvent ;
+    schema1:awayTeam "Hull City" ;
+    schema1:awayTeamScore 2 ;
+    schema1:homeTeam "Arsenal" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "27/09/2008"^^xsd:string .
+
+<http://example.org/match/27-09-2008_Aston_Villa_vs_Sunderland> a schema1:SportsEvent ;
+    schema1:awayTeam "Sunderland" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Aston Villa" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "27/09/2008"^^xsd:string .
+
+<http://example.org/match/27-09-2008_Everton_vs_Liverpool> a schema1:SportsEvent ;
+    schema1:awayTeam "Liverpool" ;
+    schema1:awayTeamScore 2 ;
+    schema1:homeTeam "Everton" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "27/09/2008"^^xsd:string .
+
+<http://example.org/match/27-09-2008_Fulham_vs_West_Ham_United> a schema1:SportsEvent ;
+    schema1:awayTeam "West Ham United" ;
+    schema1:awayTeamScore 2 ;
+    schema1:homeTeam "Fulham" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "27/09/2008"^^xsd:string .
+
+<http://example.org/match/27-09-2008_Manchester_United_vs_Bolton_Wanderers> a schema1:SportsEvent ;
+    schema1:awayTeam "Bolton Wanderers" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Manchester United" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "27/09/2008"^^xsd:string .
+
+<http://example.org/match/27-09-2008_Middlesbrough_vs_West_Bromwich_Albion> a schema1:SportsEvent ;
+    schema1:awayTeam "West Bromwich Albion" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Middlesbrough" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "27/09/2008"^^xsd:string .
+
+<http://example.org/match/27-09-2008_Newcastle_United_vs_Blackburn_Rovers> a schema1:SportsEvent ;
+    schema1:awayTeam "Blackburn Rovers" ;
+    schema1:awayTeamScore 2 ;
+    schema1:homeTeam "Newcastle United" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "27/09/2008"^^xsd:string .
+
+<http://example.org/match/27-09-2008_Stoke_City_vs_Chelsea> a schema1:SportsEvent ;
+    schema1:awayTeam "Chelsea" ;
+    schema1:awayTeamScore 2 ;
+    schema1:homeTeam "Stoke City" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "27/09/2008"^^xsd:string .
+
+<http://example.org/match/28-01-2009_Blackburn_Rovers_vs_Bolton_Wanderers> a schema1:SportsEvent ;
+    schema1:awayTeam "Bolton Wanderers" ;
+    schema1:awayTeamScore 2 ;
+    schema1:homeTeam "Blackburn Rovers" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "28/01/2009"^^xsd:string .
+
+<http://example.org/match/28-01-2009_Chelsea_vs_Middlesbrough> a schema1:SportsEvent ;
+    schema1:awayTeam "Middlesbrough" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Chelsea" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "28/01/2009"^^xsd:string .
+
+<http://example.org/match/28-01-2009_Everton_vs_Arsenal> a schema1:SportsEvent ;
+    schema1:awayTeam "Arsenal" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Everton" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "28/01/2009"^^xsd:string .
+
+<http://example.org/match/28-01-2009_Manchester_City_vs_Newcastle_United> a schema1:SportsEvent ;
+    schema1:awayTeam "Newcastle United" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Manchester City" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "28/01/2009"^^xsd:string .
+
+<http://example.org/match/28-01-2009_West_Ham_United_vs_Hull_City> a schema1:SportsEvent ;
+    schema1:awayTeam "Hull City" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "West Ham United" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "28/01/2009"^^xsd:string .
+
+<http://example.org/match/28-01-2009_Wigan_Athletic_vs_Liverpool> a schema1:SportsEvent ;
+    schema1:awayTeam "Liverpool" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Wigan Athletic" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "28/01/2009"^^xsd:string .
+
+<http://example.org/match/28-02-2009_Arsenal_vs_Fulham> a schema1:SportsEvent ;
+    schema1:awayTeam "Fulham" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Arsenal" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "28/02/2009"^^xsd:string .
+
+<http://example.org/match/28-02-2009_Chelsea_vs_Wigan_Athletic> a schema1:SportsEvent ;
+    schema1:awayTeam "Wigan Athletic" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Chelsea" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "28/02/2009"^^xsd:string .
+
+<http://example.org/match/28-02-2009_Everton_vs_West_Bromwich_Albion> a schema1:SportsEvent ;
+    schema1:awayTeam "West Bromwich Albion" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Everton" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "28/02/2009"^^xsd:string .
+
+<http://example.org/match/28-02-2009_Middlesbrough_vs_Liverpool> a schema1:SportsEvent ;
+    schema1:awayTeam "Liverpool" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Middlesbrough" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "28/02/2009"^^xsd:string .
+
+<http://example.org/match/28-09-2008_Portsmouth_vs_Tottenham_Hotspur> a schema1:SportsEvent ;
+    schema1:awayTeam "Tottenham Hotspur" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Portsmouth" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "28/09/2008"^^xsd:string .
+
+<http://example.org/match/28-09-2008_Wigan_Athletic_vs_Manchester_City> a schema1:SportsEvent ;
+    schema1:awayTeam "Manchester City" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Wigan Athletic" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "28/09/2008"^^xsd:string .
+
+<http://example.org/match/28-10-2008_Newcastle_United_vs_West_Bromwich_Albion> a schema1:SportsEvent ;
+    schema1:awayTeam "West Bromwich Albion" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Newcastle United" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "28/10/2008"^^xsd:string .
+
+<http://example.org/match/28-12-2008_Arsenal_vs_Portsmouth> a schema1:SportsEvent ;
+    schema1:awayTeam "Portsmouth" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Arsenal" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "28/12/2008"^^xsd:string .
+
+<http://example.org/match/28-12-2008_Blackburn_Rovers_vs_Manchester_City> a schema1:SportsEvent ;
+    schema1:awayTeam "Manchester City" ;
+    schema1:awayTeamScore 2 ;
+    schema1:homeTeam "Blackburn Rovers" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "28/12/2008"^^xsd:string .
+
+<http://example.org/match/28-12-2008_Bolton_Wanderers_vs_Wigan_Athletic> a schema1:SportsEvent ;
+    schema1:awayTeam "Wigan Athletic" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Bolton Wanderers" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "28/12/2008"^^xsd:string .
+
+<http://example.org/match/28-12-2008_Everton_vs_Sunderland> a schema1:SportsEvent ;
+    schema1:awayTeam "Sunderland" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Everton" ;
+    schema1:homeTeamScore 3 ;
+    schema1:startDate "28/12/2008"^^xsd:string .
+
+<http://example.org/match/28-12-2008_Fulham_vs_Chelsea> a schema1:SportsEvent ;
+    schema1:awayTeam "Chelsea" ;
+    schema1:awayTeamScore 2 ;
+    schema1:homeTeam "Fulham" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "28/12/2008"^^xsd:string .
+
+<http://example.org/match/28-12-2008_Newcastle_United_vs_Liverpool> a schema1:SportsEvent ;
+    schema1:awayTeam "Liverpool" ;
+    schema1:awayTeamScore 5 ;
+    schema1:homeTeam "Newcastle United" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "28/12/2008"^^xsd:string .
+
+<http://example.org/match/28-12-2008_West_Bromwich_Albion_vs_Tottenham_Hotspur> a schema1:SportsEvent ;
+    schema1:awayTeam "Tottenham Hotspur" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "West Bromwich Albion" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "28/12/2008"^^xsd:string .
+
+<http://example.org/match/28-12-2008_West_Ham_United_vs_Stoke_City> a schema1:SportsEvent ;
+    schema1:awayTeam "Stoke City" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "West Ham United" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "28/12/2008"^^xsd:string .
+
+<http://example.org/match/29-10-2008_Arsenal_vs_Tottenham_Hotspur> a schema1:SportsEvent ;
+    schema1:awayTeam "Tottenham Hotspur" ;
+    schema1:awayTeamScore 4 ;
+    schema1:homeTeam "Arsenal" ;
+    schema1:homeTeamScore 4 ;
+    schema1:startDate "29/10/2008"^^xsd:string .
+
+<http://example.org/match/29-10-2008_Aston_Villa_vs_Blackburn_Rovers> a schema1:SportsEvent ;
+    schema1:awayTeam "Blackburn Rovers" ;
+    schema1:awayTeamScore 2 ;
+    schema1:homeTeam "Aston Villa" ;
+    schema1:homeTeamScore 3 ;
+    schema1:startDate "29/10/2008"^^xsd:string .
+
+<http://example.org/match/29-10-2008_Bolton_Wanderers_vs_Everton> a schema1:SportsEvent ;
+    schema1:awayTeam "Everton" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Bolton Wanderers" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "29/10/2008"^^xsd:string .
+
+<http://example.org/match/29-10-2008_Fulham_vs_Wigan_Athletic> a schema1:SportsEvent ;
+    schema1:awayTeam "Wigan Athletic" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Fulham" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "29/10/2008"^^xsd:string .
+
+<http://example.org/match/29-10-2008_Hull_City_vs_Chelsea> a schema1:SportsEvent ;
+    schema1:awayTeam "Chelsea" ;
+    schema1:awayTeamScore 3 ;
+    schema1:homeTeam "Hull City" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "29/10/2008"^^xsd:string .
+
+<http://example.org/match/29-10-2008_Liverpool_vs_Portsmouth> a schema1:SportsEvent ;
+    schema1:awayTeam "Portsmouth" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Liverpool" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "29/10/2008"^^xsd:string .
+
+<http://example.org/match/29-10-2008_Manchester_United_vs_West_Ham_United> a schema1:SportsEvent ;
+    schema1:awayTeam "West Ham United" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Manchester United" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "29/10/2008"^^xsd:string .
+
+<http://example.org/match/29-10-2008_Middlesbrough_vs_Manchester_City> a schema1:SportsEvent ;
+    schema1:awayTeam "Manchester City" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Middlesbrough" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "29/10/2008"^^xsd:string .
+
+<http://example.org/match/29-10-2008_Stoke_City_vs_Sunderland> a schema1:SportsEvent ;
+    schema1:awayTeam "Sunderland" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Stoke City" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "29/10/2008"^^xsd:string .
+
+<http://example.org/match/29-11-2008_Aston_Villa_vs_Fulham> a schema1:SportsEvent ;
+    schema1:awayTeam "Fulham" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Aston Villa" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "29/11/2008"^^xsd:string .
+
+<http://example.org/match/29-11-2008_Middlesbrough_vs_Newcastle_United> a schema1:SportsEvent ;
+    schema1:awayTeam "Newcastle United" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Middlesbrough" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "29/11/2008"^^xsd:string .
+
+<http://example.org/match/29-11-2008_Stoke_City_vs_Hull_City> a schema1:SportsEvent ;
+    schema1:awayTeam "Hull City" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Stoke City" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "29/11/2008"^^xsd:string .
+
+<http://example.org/match/29-11-2008_Sunderland_vs_Bolton_Wanderers> a schema1:SportsEvent ;
+    schema1:awayTeam "Bolton Wanderers" ;
+    schema1:awayTeamScore 4 ;
+    schema1:homeTeam "Sunderland" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "29/11/2008"^^xsd:string .
+
+<http://example.org/match/29-11-2008_Wigan_Athletic_vs_West_Bromwich_Albion> a schema1:SportsEvent ;
+    schema1:awayTeam "West Bromwich Albion" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Wigan Athletic" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "29/11/2008"^^xsd:string .
+
+<http://example.org/match/29-12-2008_Manchester_United_vs_Middlesbrough> a schema1:SportsEvent ;
+    schema1:awayTeam "Middlesbrough" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Manchester United" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "29/12/2008"^^xsd:string .
+
+<http://example.org/match/30-08-2008_Arsenal_vs_Newcastle_United> a schema1:SportsEvent ;
+    schema1:awayTeam "Newcastle United" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Arsenal" ;
+    schema1:homeTeamScore 3 ;
+    schema1:startDate "30/08/2008"^^xsd:string .
+
+<http://example.org/match/30-08-2008_Bolton_Wanderers_vs_West_Bromwich_Albion> a schema1:SportsEvent ;
+    schema1:awayTeam "West Bromwich Albion" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Bolton Wanderers" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "30/08/2008"^^xsd:string .
+
+<http://example.org/match/30-08-2008_Everton_vs_Portsmouth> a schema1:SportsEvent ;
+    schema1:awayTeam "Portsmouth" ;
+    schema1:awayTeamScore 3 ;
+    schema1:homeTeam "Everton" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "30/08/2008"^^xsd:string .
+
+<http://example.org/match/30-08-2008_Hull_City_vs_Wigan_Athletic> a schema1:SportsEvent ;
+    schema1:awayTeam "Wigan Athletic" ;
+    schema1:awayTeamScore 5 ;
+    schema1:homeTeam "Hull City" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "30/08/2008"^^xsd:string .
+
+<http://example.org/match/30-08-2008_Middlesbrough_vs_Stoke_City> a schema1:SportsEvent ;
+    schema1:awayTeam "Stoke City" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Middlesbrough" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "30/08/2008"^^xsd:string .
+
+<http://example.org/match/30-08-2008_West_Ham_United_vs_Blackburn_Rovers> a schema1:SportsEvent ;
+    schema1:awayTeam "Blackburn Rovers" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "West Ham United" ;
+    schema1:homeTeamScore 4 ;
+    schema1:startDate "30/08/2008"^^xsd:string .
+
+<http://example.org/match/30-11-2008_Chelsea_vs_Arsenal> a schema1:SportsEvent ;
+    schema1:awayTeam "Arsenal" ;
+    schema1:awayTeamScore 2 ;
+    schema1:homeTeam "Chelsea" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "30/11/2008"^^xsd:string .
+
+<http://example.org/match/30-11-2008_Manchester_City_vs_Manchester_United> a schema1:SportsEvent ;
+    schema1:awayTeam "Manchester United" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Manchester City" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "30/11/2008"^^xsd:string .
+
+<http://example.org/match/30-11-2008_Portsmouth_vs_Blackburn_Rovers> a schema1:SportsEvent ;
+    schema1:awayTeam "Blackburn Rovers" ;
+    schema1:awayTeamScore 2 ;
+    schema1:homeTeam "Portsmouth" ;
+    schema1:homeTeamScore 3 ;
+    schema1:startDate "30/11/2008"^^xsd:string .
+
+<http://example.org/match/30-11-2008_Tottenham_Hotspur_vs_Everton> a schema1:SportsEvent ;
+    schema1:awayTeam "Everton" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Tottenham Hotspur" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "30/11/2008"^^xsd:string .
+
+<http://example.org/match/30-12-2008_Hull_City_vs_Aston_Villa> a schema1:SportsEvent ;
+    schema1:awayTeam "Aston Villa" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Hull City" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "30/12/2008"^^xsd:string .
+
+<http://example.org/match/31-01-2009_Arsenal_vs_West_Ham_United> a schema1:SportsEvent ;
+    schema1:awayTeam "West Ham United" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Arsenal" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "31/01/2009"^^xsd:string .
+
+<http://example.org/match/31-01-2009_Aston_Villa_vs_Wigan_Athletic> a schema1:SportsEvent ;
+    schema1:awayTeam "Wigan Athletic" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Aston Villa" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "31/01/2009"^^xsd:string .
+
+<http://example.org/match/31-01-2009_Bolton_Wanderers_vs_Tottenham_Hotspur> a schema1:SportsEvent ;
+    schema1:awayTeam "Tottenham Hotspur" ;
+    schema1:awayTeamScore 2 ;
+    schema1:homeTeam "Bolton Wanderers" ;
+    schema1:homeTeamScore 3 ;
+    schema1:startDate "31/01/2009"^^xsd:string .
+
+<http://example.org/match/31-01-2009_Fulham_vs_Portsmouth> a schema1:SportsEvent ;
+    schema1:awayTeam "Portsmouth" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Fulham" ;
+    schema1:homeTeamScore 3 ;
+    schema1:startDate "31/01/2009"^^xsd:string .
+
+<http://example.org/match/31-01-2009_Hull_City_vs_West_Bromwich_Albion> a schema1:SportsEvent ;
+    schema1:awayTeam "West Bromwich Albion" ;
+    schema1:awayTeamScore 2 ;
+    schema1:homeTeam "Hull City" ;
+    schema1:homeTeamScore 2 ;
+    schema1:startDate "31/01/2009"^^xsd:string .
+
+<http://example.org/match/31-01-2009_Manchester_United_vs_Everton> a schema1:SportsEvent ;
+    schema1:awayTeam "Everton" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Manchester United" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "31/01/2009"^^xsd:string .
+
+<http://example.org/match/31-01-2009_Middlesbrough_vs_Blackburn_Rovers> a schema1:SportsEvent ;
+    schema1:awayTeam "Blackburn Rovers" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Middlesbrough" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "31/01/2009"^^xsd:string .
+
+<http://example.org/match/31-01-2009_Stoke_City_vs_Manchester_City> a schema1:SportsEvent ;
+    schema1:awayTeam "Manchester City" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Stoke City" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "31/01/2009"^^xsd:string .
+
+<http://example.org/match/31-08-2008_Aston_Villa_vs_Liverpool> a schema1:SportsEvent ;
+    schema1:awayTeam "Liverpool" ;
+    schema1:awayTeamScore 0 ;
+    schema1:homeTeam "Aston Villa" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "31/08/2008"^^xsd:string .
+
+<http://example.org/match/31-08-2008_Chelsea_vs_Tottenham_Hotspur> a schema1:SportsEvent ;
+    schema1:awayTeam "Tottenham Hotspur" ;
+    schema1:awayTeamScore 1 ;
+    schema1:homeTeam "Chelsea" ;
+    schema1:homeTeamScore 1 ;
+    schema1:startDate "31/08/2008"^^xsd:string .
+
+<http://example.org/match/31-08-2008_Sunderland_vs_Manchester_City> a schema1:SportsEvent ;
+    schema1:awayTeam "Manchester City" ;
+    schema1:awayTeamScore 3 ;
+    schema1:homeTeam "Sunderland" ;
+    schema1:homeTeamScore 0 ;
+    schema1:startDate "31/08/2008"^^xsd:string .
+
+<http://example.org/team/Arsenal> a schema1:SportsTeam ;
+    schema1:draws "12" ;
+    schema1:gamesPlayed "38" ;
+    schema1:goalDifference "+31" ;
+    schema1:goalsConceded "37" ;
+    schema1:goalsScored "68" ;
+    schema1:losses "6" ;
+    schema1:name "Arsenal" ;
+    schema1:points "72" ;
+    schema1:position "4" ;
+    schema1:wins "20" .
+
+<http://example.org/team/Aston_Villa> a schema1:SportsTeam ;
+    schema1:draws "11" ;
+    schema1:gamesPlayed "38" ;
+    schema1:goalDifference "+6" ;
+    schema1:goalsConceded "48" ;
+    schema1:goalsScored "54" ;
+    schema1:losses "10" ;
+    schema1:name "Aston Villa" ;
+    schema1:points "62" ;
+    schema1:position "6" ;
+    schema1:wins "17" .
+
+<http://example.org/team/Blackburn_Rovers> a schema1:SportsTeam ;
+    schema1:draws "11" ;
+    schema1:gamesPlayed "38" ;
+    schema1:goalDifference "-20" ;
+    schema1:goalsConceded "60" ;
+    schema1:goalsScored "40" ;
+    schema1:losses "17" ;
+    schema1:name "Blackburn Rovers" ;
+    schema1:points "41" ;
+    schema1:position "15" ;
+    schema1:wins "10" .
+
+<http://example.org/team/Bolton_Wanderers> a schema1:SportsTeam ;
+    schema1:draws "8" ;
+    schema1:gamesPlayed "38" ;
+    schema1:goalDifference "-12" ;
+    schema1:goalsConceded "53" ;
+    schema1:goalsScored "41" ;
+    schema1:losses "19" ;
+    schema1:name "Bolton Wanderers" ;
+    schema1:points "41" ;
+    schema1:position "13" ;
+    schema1:wins "11" .
+
+<http://example.org/team/Chelsea> a schema1:SportsTeam ;
+    schema1:draws "8" ;
+    schema1:gamesPlayed "38" ;
+    schema1:goalDifference "+44" ;
+    schema1:goalsConceded "24" ;
+    schema1:goalsScored "68" ;
+    schema1:losses "5" ;
+    schema1:name "Chelsea" ;
+    schema1:points "83" ;
+    schema1:position "3" ;
+    schema1:wins "25" .
+
+<http://example.org/team/Everton> a schema1:SportsTeam ;
+    schema1:draws "12" ;
+    schema1:gamesPlayed "38" ;
+    schema1:goalDifference "+18" ;
+    schema1:goalsConceded "37" ;
+    schema1:goalsScored "55" ;
+    schema1:losses "9" ;
+    schema1:name "Everton" ;
+    schema1:points "63" ;
+    schema1:position "5" ;
+    schema1:wins "17" .
+
+<http://example.org/team/Fulham> a schema1:SportsTeam ;
+    schema1:draws "11" ;
+    schema1:gamesPlayed "38" ;
+    schema1:goalDifference "+5" ;
+    schema1:goalsConceded "34" ;
+    schema1:goalsScored "39" ;
+    schema1:losses "13" ;
+    schema1:name "Fulham" ;
+    schema1:points "53" ;
+    schema1:position "7" ;
+    schema1:wins "14" .
+
+<http://example.org/team/Hull_City> a schema1:SportsTeam ;
+    schema1:draws "11" ;
+    schema1:gamesPlayed "38" ;
+    schema1:goalDifference "-25" ;
+    schema1:goalsConceded "64" ;
+    schema1:goalsScored "39" ;
+    schema1:losses "19" ;
+    schema1:name "Hull City" ;
+    schema1:points "35" ;
+    schema1:position "17" ;
+    schema1:wins "8" .
+
+<http://example.org/team/Liverpool> a schema1:SportsTeam ;
+    schema1:draws "11" ;
+    schema1:gamesPlayed "38" ;
+    schema1:goalDifference "+50" ;
+    schema1:goalsConceded "27" ;
+    schema1:goalsScored "77" ;
+    schema1:losses "2" ;
+    schema1:name "Liverpool" ;
+    schema1:points "86" ;
+    schema1:position "2" ;
+    schema1:wins "25" .
+
+<http://example.org/team/Manchester_City> a schema1:SportsTeam ;
+    schema1:draws "5" ;
+    schema1:gamesPlayed "38" ;
+    schema1:goalDifference "+8" ;
+    schema1:goalsConceded "50" ;
+    schema1:goalsScored "58" ;
+    schema1:losses "18" ;
+    schema1:name "Manchester City" ;
+    schema1:points "50" ;
+    schema1:position "10" ;
+    schema1:wins "15" .
+
+<http://example.org/team/Manchester_United> a schema1:SportsTeam ;
+    schema1:draws "6" ;
+    schema1:gamesPlayed "38" ;
+    schema1:goalDifference "+44" ;
+    schema1:goalsConceded "24" ;
+    schema1:goalsScored "68" ;
+    schema1:losses "4" ;
+    schema1:name "Manchester United" ;
+    schema1:points "90" ;
+    schema1:position "1" ;
+    schema1:wins "28" .
+
+<http://example.org/team/Middlesbrough> a schema1:SportsTeam ;
+    schema1:draws "11" ;
+    schema1:gamesPlayed "38" ;
+    schema1:goalDifference "-29" ;
+    schema1:goalsConceded "57" ;
+    schema1:goalsScored "28" ;
+    schema1:losses "20" ;
+    schema1:name "Middlesbrough" ;
+    schema1:points "32" ;
+    schema1:position "19" ;
+    schema1:wins "7" .
+
+<http://example.org/team/Newcastle_United> a schema1:SportsTeam ;
+    schema1:draws "13" ;
+    schema1:gamesPlayed "38" ;
+    schema1:goalDifference "-19" ;
+    schema1:goalsConceded "59" ;
+    schema1:goalsScored "40" ;
+    schema1:losses "18" ;
+    schema1:name "Newcastle United" ;
+    schema1:points "34" ;
+    schema1:position "18" ;
+    schema1:wins "7" .
+
+<http://example.org/team/Portsmouth> a schema1:SportsTeam ;
+    schema1:draws "11" ;
+    schema1:gamesPlayed "38" ;
+    schema1:goalDifference "-19" ;
+    schema1:goalsConceded "57" ;
+    schema1:goalsScored "38" ;
+    schema1:losses "17" ;
+    schema1:name "Portsmouth" ;
+    schema1:points "41" ;
+    schema1:position "14" ;
+    schema1:wins "10" .
+
+<http://example.org/team/Stoke_City> a schema1:SportsTeam ;
+    schema1:draws "9" ;
+    schema1:gamesPlayed "38" ;
+    schema1:goalDifference "-17" ;
+    schema1:goalsConceded "55" ;
+    schema1:goalsScored "38" ;
+    schema1:losses "17" ;
+    schema1:name "Stoke City" ;
+    schema1:points "45" ;
+    schema1:position "12" ;
+    schema1:wins "12" .
+
+<http://example.org/team/Sunderland> a schema1:SportsTeam ;
+    schema1:draws "9" ;
+    schema1:gamesPlayed "38" ;
+    schema1:goalDifference "-20" ;
+    schema1:goalsConceded "54" ;
+    schema1:goalsScored "34" ;
+    schema1:losses "20" ;
+    schema1:name "Sunderland" ;
+    schema1:points "36" ;
+    schema1:position "16" ;
+    schema1:wins "9" .
+
+<http://example.org/team/Tottenham_Hotspur> a schema1:SportsTeam ;
+    schema1:draws "9" ;
+    schema1:gamesPlayed "38" ;
+    schema1:goalDifference "+0" ;
+    schema1:goalsConceded "45" ;
+    schema1:goalsScored "45" ;
+    schema1:losses "15" ;
+    schema1:name "Tottenham Hotspur" ;
+    schema1:points "51" ;
+    schema1:position "8" ;
+    schema1:wins "14" .
+
+<http://example.org/team/West_Bromwich_Albion> a schema1:SportsTeam ;
+    schema1:draws "8" ;
+    schema1:gamesPlayed "38" ;
+    schema1:goalDifference "-31" ;
+    schema1:goalsConceded "67" ;
+    schema1:goalsScored "36" ;
+    schema1:losses "22" ;
+    schema1:name "West Bromwich Albion" ;
+    schema1:points "32" ;
+    schema1:position "20" ;
+    schema1:wins "8" .
+
+<http://example.org/team/West_Ham_United> a schema1:SportsTeam ;
+    schema1:draws "9" ;
+    schema1:gamesPlayed "38" ;
+    schema1:goalDifference "-3" ;
+    schema1:goalsConceded "45" ;
+    schema1:goalsScored "42" ;
+    schema1:losses "15" ;
+    schema1:name "West Ham United" ;
+    schema1:points "51" ;
+    schema1:position "9" ;
+    schema1:wins "14" .
+
+<http://example.org/team/Wigan_Athletic> a schema1:SportsTeam ;
+    schema1:draws "9" ;
+    schema1:gamesPlayed "38" ;
+    schema1:goalDifference "-11" ;
+    schema1:goalsConceded "45" ;
+    schema1:goalsScored "34" ;
+    schema1:losses "17" ;
+    schema1:name "Wigan Athletic" ;
+    schema1:points "45" ;
+    schema1:position "11" ;
+    schema1:wins "12" .
+

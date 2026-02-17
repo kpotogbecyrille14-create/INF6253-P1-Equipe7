@@ -1,0 +1,1041 @@
+R9 : 897 ms
+0.00
+
+R2 : 277 ms
+760
+
+R1 : 419 ms
+Manchester United
+
+R5 : 399 ms
+Aucune équipe
+
+R4 : 476 ms
+Arsenal : 0
+
+R8 : 562 ms
+Aucune victoire à l'extérieur détectée
+
+R10 : 1051 ms
+None : Chelsea vs Manchester United
+None : Manchester United vs Chelsea
+
+R4 : 514 ms
+Arsenal : 0
+
+R1 : 240 ms
+Manchester United
+
+R2 : 518 ms
+760
+
+R2 : 720 ms
+760
+
+R3 : 515 ms
+0
+
+R3 : 1116 ms
+0
+
+R3 : 2275 ms
+0
+
+R3 : 2555 ms
+0
+
+R3 : 2377 ms
+0
+
+R3 : 2175 ms
+0
+
+R4 : 367 ms
+Arsenal : 0
+
+R5 : 451 ms
+Aucune équipe
+
+R6 : 470 ms
+Aucun match
+
+R7 : 599 ms
+0
+
+R8 : 625 ms
+Aucune victoire à l'extérieur détectée
+
+R9 : 874 ms
+0.00
+
+R9 : 868 ms
+0.00
+
+R9 : 893 ms
+0.00
+
+R10 : 920 ms
+None : Chelsea vs Manchester United
+None : Manchester United vs Chelsea
+
+R10 : 1208 ms
+None : Chelsea vs Manchester United
+None : Manchester United vs Chelsea
+
+R7 : 344 ms
+0
+
+R7 : 601 ms
+0
+
+R7 : 527 ms
+0
+
+R6 : 632 ms
+Aucun match
+
+R6 : 671 ms
+Aucun match
+
+R6 : 617 ms
+Aucun match
+
+R5 : 467 ms
+Aucune équipe
+
+R5 : 766 ms
+Aucune équipe
+
+R3 : 478 ms
+0
+
+R3 : 429 ms
+0
+
+R2 : 401 ms
+760
+
+R2 : 675 ms
+760
+
+R1 : 223 ms
+Manchester United
+
+R1 : 642 ms
+Manchester United
+
+R2 : 557 ms
+760
+
+R3 : 422 ms
+0
+
+R4 : 459 ms
+Arsenal : 0
+
+R5 : 308 ms
+Aucune équipe
+
+R6 : 407 ms
+Aucun match
+
+R2 : 135 ms
+760
+
+R3 : 176 ms
+0
+
+R4 : 176 ms
+Arsenal : 0
+
+R3 : 167 ms
+0
+
+R4 : 182 ms
+Arsenal : 0
+
+R5 : 183 ms
+Aucune équipe
+
+R5 : 157 ms
+Aucune équipe
+
+R6 : 156 ms
+Aucun match
+
+R7 : 147 ms
+0
+
+R8 : 178 ms
+Aucune victoire à l'extérieur détectée
+
+R9 : 280 ms
+0.00
+
+R10 : 318 ms
+None : Chelsea vs Manchester United
+None : Manchester United vs Chelsea
+
+R1 : 410 ms
+Manchester United
+
+R3 : 369 ms
+1887
+
+R8 : 346 ms
+None : 97
+Chelsea : 14
+Liverpool : 13
+Manchester United : 12
+Aston Villa : 10
+Everton : 9
+Arsenal : 9
+Hull City : 5
+West Ham United : 5
+Blackburn Rovers : 4
+Wigan Athletic : 4
+Bolton Wanderers : 4
+Tottenham Hotspur : 4
+Sunderland : 3
+Fulham : 3
+Portsmouth : 2
+Manchester City : 2
+Middlesbrough : 2
+Newcastle United : 2
+Stoke City : 2
+West Bromwich Albion : 1
+
+R2 : 494 ms
+760
+
+R1 : 387 ms
+Manchester United
+
+R3 : 595 ms
+1887
+
+R4 : 377 ms
+Liverpool : 77
+
+R5 : 481 ms
+Liverpool : 77
+
+R5 : 479 ms
+Liverpool : 77
+
+R4 : 435 ms
+Liverpool : 77
+
+R8 : 264 ms
+None : 97
+Chelsea : 14
+Liverpool : 13
+Manchester United : 12
+Aston Villa : 10
+Everton : 9
+Arsenal : 9
+Hull City : 5
+West Ham United : 5
+Blackburn Rovers : 4
+Wigan Athletic : 4
+Bolton Wanderers : 4
+Tottenham Hotspur : 4
+Sunderland : 3
+Fulham : 3
+Portsmouth : 2
+Manchester City : 2
+Middlesbrough : 2
+Newcastle United : 2
+Stoke City : 2
+West Bromwich Albion : 1
+
+R3 : 380 ms
+1887
+
+R2 : 574 ms
+760
+
+R4 : 453 ms
+Liverpool : 77
+
+R5 : 369 ms
+Liverpool : 77
+
+R7 : 549 ms
+16
+
+R8 : 524 ms
+None : 97
+Chelsea : 14
+Liverpool : 13
+Manchester United : 12
+Aston Villa : 10
+Everton : 9
+Arsenal : 9
+Hull City : 5
+West Ham United : 5
+Blackburn Rovers : 4
+Wigan Athletic : 4
+Bolton Wanderers : 4
+Tottenham Hotspur : 4
+Sunderland : 3
+Fulham : 3
+Portsmouth : 2
+Manchester City : 2
+Middlesbrough : 2
+Newcastle United : 2
+Stoke City : 2
+West Bromwich Albion : 1
+
+R8 : 525 ms
+None : 97
+Chelsea : 14
+Liverpool : 13
+Manchester United : 12
+Aston Villa : 10
+Everton : 9
+Arsenal : 9
+Hull City : 5
+West Ham United : 5
+Blackburn Rovers : 4
+Wigan Athletic : 4
+Bolton Wanderers : 4
+Tottenham Hotspur : 4
+Sunderland : 3
+Fulham : 3
+Portsmouth : 2
+Manchester City : 2
+Middlesbrough : 2
+Newcastle United : 2
+Stoke City : 2
+West Bromwich Albion : 1
+
+R7 : 605 ms
+16
+
+R3 : 454 ms
+1887
+
+R7 : 570 ms
+16
+
+R10 : 767 ms
+21/09/2008 : Chelsea vs Manchester United
+11/01/2009 : Manchester United vs Chelsea
+
+R9 : 1103 ms
+1.61
+
+R8 : 599 ms
+None : 97
+Chelsea : 14
+Liverpool : 13
+Manchester United : 12
+Aston Villa : 10
+Everton : 9
+Arsenal : 9
+Hull City : 5
+West Ham United : 5
+Blackburn Rovers : 4
+Wigan Athletic : 4
+Bolton Wanderers : 4
+Tottenham Hotspur : 4
+Sunderland : 3
+Fulham : 3
+Portsmouth : 2
+Manchester City : 2
+Middlesbrough : 2
+Newcastle United : 2
+Stoke City : 2
+West Bromwich Albion : 1
+
+R7 : 639 ms
+16
+
+R6 : 391 ms
+01/11/2008 : Manchester United vs Hull City
+01/11/2008 : Tottenham Hotspur vs Liverpool
+01/11/2008 : Everton vs Fulham
+01/11/2008 : Middlesbrough vs West Ham United
+01/11/2008 : West Bromwich Albion vs Blackburn Rovers
+01/11/2008 : Portsmouth vs Wigan Athletic
+01/11/2008 : Stoke City vs Arsenal
+01/11/2008 : Chelsea vs Sunderland
+02/11/2008 : Bolton Wanderers vs Manchester City
+03/11/2008 : Newcastle United vs Aston Villa
+08/11/2008 : Arsenal vs Manchester United
+08/11/2008 : Liverpool vs West Bromwich Albion
+08/11/2008 : Sunderland vs Portsmouth
+08/11/2008 : West Ham United vs Everton
+08/11/2008 : Hull City vs Bolton Wanderers
+08/11/2008 : Wigan Athletic vs Stoke City
+09/11/2008 : Aston Villa vs Middlesbrough
+09/11/2008 : Manchester City vs Tottenham Hotspur
+09/11/2008 : Blackburn Rovers vs Chelsea
+09/11/2008 : Fulham vs Newcastle United
+15/11/2008 : Manchester United vs Stoke City
+15/11/2008 : Arsenal vs Aston Villa
+15/11/2008 : West Ham United vs Portsmouth
+15/11/2008 : Newcastle United vs Wigan Athletic
+15/11/2008 : Blackburn Rovers vs Sunderland
+15/11/2008 : Fulham vs Tottenham Hotspur
+15/11/2008 : Bolton Wanderers vs Liverpool
+15/11/2008 : West Bromwich Albion vs Chelsea
+16/11/2008 : Everton vs Middlesbrough
+16/11/2008 : Hull City vs Manchester City
+22/11/2008 : Liverpool vs Fulham
+22/11/2008 : Aston Villa vs Manchester United
+22/11/2008 : Middlesbrough vs Bolton Wanderers
+22/11/2008 : Manchester City vs Arsenal
+22/11/2008 : Portsmouth vs Hull City
+22/11/2008 : Stoke City vs West Bromwich Albion
+22/11/2008 : Chelsea vs Newcastle United
+23/11/2008 : Sunderland vs West Ham United
+23/11/2008 : Tottenham Hotspur vs Blackburn Rovers
+24/11/2008 : Wigan Athletic vs Everton
+29/11/2008 : Sunderland vs Bolton Wanderers
+29/11/2008 : Aston Villa vs Fulham
+29/11/2008 : Middlesbrough vs Newcastle United
+29/11/2008 : Stoke City vs Hull City
+29/11/2008 : Wigan Athletic vs West Bromwich Albion
+30/11/2008 : Tottenham Hotspur vs Everton
+30/11/2008 : Manchester City vs Manchester United
+30/11/2008 : Portsmouth vs Blackburn Rovers
+30/11/2008 : Chelsea vs Arsenal
+01/11/2008- Extérieur : Inconnu vs Inconnu
+08/11/2008- Domicile : Inconnu vs Inconnu
+15/11/2008- Domicile : Inconnu vs Inconnu
+22/11/2008- Extérieur : Inconnu vs Inconnu
+30/11/2008- Extérieur : Inconnu vs Inconnu
+03/11/2008- Extérieur : Inconnu vs Inconnu
+09/11/2008- Domicile : Inconnu vs Inconnu
+15/11/2008- Extérieur : Inconnu vs Inconnu
+22/11/2008- Domicile : Inconnu vs Inconnu
+29/11/2008- Domicile : Inconnu vs Inconnu
+01/11/2008- Domicile : Inconnu vs Inconnu
+09/11/2008- Extérieur : Inconnu vs Inconnu
+15/11/2008- Extérieur : Inconnu vs Inconnu
+22/11/2008- Domicile : Inconnu vs Inconnu
+30/11/2008- Domicile : Inconnu vs Inconnu
+01/11/2008- Domicile : Inconnu vs Inconnu
+08/11/2008- Extérieur : Inconnu vs Inconnu
+16/11/2008- Domicile : Inconnu vs Inconnu
+24/11/2008- Extérieur : Inconnu vs Inconnu
+30/11/2008- Extérieur : Inconnu vs Inconnu
+01/11/2008- Extérieur : Inconnu vs Inconnu
+09/11/2008- Domicile : Inconnu vs Inconnu
+15/11/2008- Domicile : Inconnu vs Inconnu
+22/11/2008- Extérieur : Inconnu vs Inconnu
+29/11/2008- Extérieur : Inconnu vs Inconnu
+01/11/2008- Extérieur : Inconnu vs Inconnu
+08/11/2008- Domicile : Inconnu vs Inconnu
+15/11/2008- Extérieur : Inconnu vs Inconnu
+22/11/2008- Domicile : Inconnu vs Inconnu
+02/11/2008- Extérieur : Inconnu vs Inconnu
+09/11/2008- Domicile : Inconnu vs Inconnu
+16/11/2008- Extérieur : Inconnu vs Inconnu
+22/11/2008- Domicile : Inconnu vs Inconnu
+30/11/2008- Domicile : Inconnu vs Inconnu
+01/11/2008- Domicile : Inconnu vs Inconnu
+08/11/2008- Extérieur : Inconnu vs Inconnu
+15/11/2008- Domicile : Inconnu vs Inconnu
+22/11/2008- Extérieur : Inconnu vs Inconnu
+30/11/2008- Extérieur : Inconnu vs Inconnu
+01/11/2008- Domicile : Inconnu vs Inconnu
+09/11/2008- Extérieur : Inconnu vs Inconnu
+15/11/2008- Extérieur : Inconnu vs Inconnu
+23/11/2008- Domicile : Inconnu vs Inconnu
+30/11/2008- Domicile : Inconnu vs Inconnu
+01/11/2008- Extérieur : Inconnu vs Inconnu
+08/11/2008- Domicile : Inconnu vs Inconnu
+15/11/2008- Domicile : Inconnu vs Inconnu
+23/11/2008- Extérieur : Inconnu vs Inconnu
+
+R6 : 352 ms
+01/11/2008 : Manchester United vs Hull City
+01/11/2008 : Tottenham Hotspur vs Liverpool
+01/11/2008 : Everton vs Fulham
+01/11/2008 : Middlesbrough vs West Ham United
+01/11/2008 : West Bromwich Albion vs Blackburn Rovers
+01/11/2008 : Portsmouth vs Wigan Athletic
+01/11/2008 : Stoke City vs Arsenal
+01/11/2008 : Chelsea vs Sunderland
+02/11/2008 : Bolton Wanderers vs Manchester City
+03/11/2008 : Newcastle United vs Aston Villa
+08/11/2008 : Arsenal vs Manchester United
+08/11/2008 : Liverpool vs West Bromwich Albion
+08/11/2008 : Sunderland vs Portsmouth
+08/11/2008 : West Ham United vs Everton
+08/11/2008 : Hull City vs Bolton Wanderers
+08/11/2008 : Wigan Athletic vs Stoke City
+09/11/2008 : Aston Villa vs Middlesbrough
+09/11/2008 : Manchester City vs Tottenham Hotspur
+09/11/2008 : Blackburn Rovers vs Chelsea
+09/11/2008 : Fulham vs Newcastle United
+15/11/2008 : Manchester United vs Stoke City
+15/11/2008 : Arsenal vs Aston Villa
+15/11/2008 : West Ham United vs Portsmouth
+15/11/2008 : Newcastle United vs Wigan Athletic
+15/11/2008 : Blackburn Rovers vs Sunderland
+15/11/2008 : Fulham vs Tottenham Hotspur
+15/11/2008 : Bolton Wanderers vs Liverpool
+15/11/2008 : West Bromwich Albion vs Chelsea
+16/11/2008 : Everton vs Middlesbrough
+16/11/2008 : Hull City vs Manchester City
+22/11/2008 : Liverpool vs Fulham
+22/11/2008 : Aston Villa vs Manchester United
+22/11/2008 : Middlesbrough vs Bolton Wanderers
+22/11/2008 : Manchester City vs Arsenal
+22/11/2008 : Portsmouth vs Hull City
+22/11/2008 : Stoke City vs West Bromwich Albion
+22/11/2008 : Chelsea vs Newcastle United
+23/11/2008 : Sunderland vs West Ham United
+23/11/2008 : Tottenham Hotspur vs Blackburn Rovers
+24/11/2008 : Wigan Athletic vs Everton
+29/11/2008 : Sunderland vs Bolton Wanderers
+29/11/2008 : Aston Villa vs Fulham
+29/11/2008 : Middlesbrough vs Newcastle United
+29/11/2008 : Stoke City vs Hull City
+29/11/2008 : Wigan Athletic vs West Bromwich Albion
+30/11/2008 : Tottenham Hotspur vs Everton
+30/11/2008 : Manchester City vs Manchester United
+30/11/2008 : Portsmouth vs Blackburn Rovers
+30/11/2008 : Chelsea vs Arsenal
+
+R10 : 970 ms
+21/09/2008 : Chelsea vs Manchester United
+11/01/2009 : Manchester United vs Chelsea
+
+R6 : 457 ms
+01/11/2008 : Manchester United vs Hull City
+01/11/2008 : Tottenham Hotspur vs Liverpool
+01/11/2008 : Everton vs Fulham
+01/11/2008 : Middlesbrough vs West Ham United
+01/11/2008 : West Bromwich Albion vs Blackburn Rovers
+01/11/2008 : Portsmouth vs Wigan Athletic
+01/11/2008 : Stoke City vs Arsenal
+01/11/2008 : Chelsea vs Sunderland
+02/11/2008 : Bolton Wanderers vs Manchester City
+03/11/2008 : Newcastle United vs Aston Villa
+08/11/2008 : Arsenal vs Manchester United
+08/11/2008 : Liverpool vs West Bromwich Albion
+08/11/2008 : Sunderland vs Portsmouth
+08/11/2008 : West Ham United vs Everton
+08/11/2008 : Hull City vs Bolton Wanderers
+08/11/2008 : Wigan Athletic vs Stoke City
+09/11/2008 : Aston Villa vs Middlesbrough
+09/11/2008 : Manchester City vs Tottenham Hotspur
+09/11/2008 : Blackburn Rovers vs Chelsea
+09/11/2008 : Fulham vs Newcastle United
+15/11/2008 : Manchester United vs Stoke City
+15/11/2008 : Arsenal vs Aston Villa
+15/11/2008 : West Ham United vs Portsmouth
+15/11/2008 : Newcastle United vs Wigan Athletic
+15/11/2008 : Blackburn Rovers vs Sunderland
+15/11/2008 : Fulham vs Tottenham Hotspur
+15/11/2008 : Bolton Wanderers vs Liverpool
+15/11/2008 : West Bromwich Albion vs Chelsea
+16/11/2008 : Everton vs Middlesbrough
+16/11/2008 : Hull City vs Manchester City
+22/11/2008 : Liverpool vs Fulham
+22/11/2008 : Aston Villa vs Manchester United
+22/11/2008 : Middlesbrough vs Bolton Wanderers
+22/11/2008 : Manchester City vs Arsenal
+22/11/2008 : Portsmouth vs Hull City
+22/11/2008 : Stoke City vs West Bromwich Albion
+22/11/2008 : Chelsea vs Newcastle United
+23/11/2008 : Sunderland vs West Ham United
+23/11/2008 : Tottenham Hotspur vs Blackburn Rovers
+24/11/2008 : Wigan Athletic vs Everton
+29/11/2008 : Sunderland vs Bolton Wanderers
+29/11/2008 : Aston Villa vs Fulham
+29/11/2008 : Middlesbrough vs Newcastle United
+29/11/2008 : Stoke City vs Hull City
+29/11/2008 : Wigan Athletic vs West Bromwich Albion
+30/11/2008 : Tottenham Hotspur vs Everton
+30/11/2008 : Manchester City vs Manchester United
+30/11/2008 : Portsmouth vs Blackburn Rovers
+30/11/2008 : Chelsea vs Arsenal
+
+R1 : 293 ms
+Manchester United
+
+R2 : 466 ms
+380
+
+R3 : 485 ms
+942
+
+R4 : 502 ms
+Liverpool : 77
+
+R5 : 459 ms
+Liverpool : 77
+
+R6 : 419 ms
+01/11/2008 : Manchester United vs Hull City
+01/11/2008 : Tottenham Hotspur vs Liverpool
+01/11/2008 : Everton vs Fulham
+01/11/2008 : Middlesbrough vs West Ham United
+01/11/2008 : West Bromwich Albion vs Blackburn Rovers
+01/11/2008 : Portsmouth vs Wigan Athletic
+01/11/2008 : Stoke City vs Arsenal
+01/11/2008 : Chelsea vs Sunderland
+02/11/2008 : Bolton Wanderers vs Manchester City
+03/11/2008 : Newcastle United vs Aston Villa
+08/11/2008 : Arsenal vs Manchester United
+08/11/2008 : Liverpool vs West Bromwich Albion
+08/11/2008 : Sunderland vs Portsmouth
+08/11/2008 : West Ham United vs Everton
+08/11/2008 : Hull City vs Bolton Wanderers
+08/11/2008 : Wigan Athletic vs Stoke City
+09/11/2008 : Aston Villa vs Middlesbrough
+09/11/2008 : Manchester City vs Tottenham Hotspur
+09/11/2008 : Blackburn Rovers vs Chelsea
+09/11/2008 : Fulham vs Newcastle United
+15/11/2008 : Manchester United vs Stoke City
+15/11/2008 : Arsenal vs Aston Villa
+15/11/2008 : West Ham United vs Portsmouth
+15/11/2008 : Newcastle United vs Wigan Athletic
+15/11/2008 : Blackburn Rovers vs Sunderland
+15/11/2008 : Fulham vs Tottenham Hotspur
+15/11/2008 : Bolton Wanderers vs Liverpool
+15/11/2008 : West Bromwich Albion vs Chelsea
+16/11/2008 : Everton vs Middlesbrough
+16/11/2008 : Hull City vs Manchester City
+22/11/2008 : Liverpool vs Fulham
+22/11/2008 : Aston Villa vs Manchester United
+22/11/2008 : Middlesbrough vs Bolton Wanderers
+22/11/2008 : Manchester City vs Arsenal
+22/11/2008 : Portsmouth vs Hull City
+22/11/2008 : Stoke City vs West Bromwich Albion
+22/11/2008 : Chelsea vs Newcastle United
+23/11/2008 : Sunderland vs West Ham United
+23/11/2008 : Tottenham Hotspur vs Blackburn Rovers
+24/11/2008 : Wigan Athletic vs Everton
+29/11/2008 : Sunderland vs Bolton Wanderers
+29/11/2008 : Aston Villa vs Fulham
+29/11/2008 : Middlesbrough vs Newcastle United
+29/11/2008 : Stoke City vs Hull City
+29/11/2008 : Wigan Athletic vs West Bromwich Albion
+30/11/2008 : Tottenham Hotspur vs Everton
+30/11/2008 : Manchester City vs Manchester United
+30/11/2008 : Portsmouth vs Blackburn Rovers
+30/11/2008 : Chelsea vs Arsenal
+
+R10 : 922 ms
+21/09/2008 : Chelsea vs Manchester United
+11/01/2009 : Manchester United vs Chelsea
+
+R6 : 327 ms
+01/11/2008 : Manchester United vs Hull City
+01/11/2008 : Tottenham Hotspur vs Liverpool
+01/11/2008 : Everton vs Fulham
+01/11/2008 : Middlesbrough vs West Ham United
+01/11/2008 : West Bromwich Albion vs Blackburn Rovers
+01/11/2008 : Portsmouth vs Wigan Athletic
+01/11/2008 : Stoke City vs Arsenal
+01/11/2008 : Chelsea vs Sunderland
+02/11/2008 : Bolton Wanderers vs Manchester City
+03/11/2008 : Newcastle United vs Aston Villa
+08/11/2008 : Arsenal vs Manchester United
+08/11/2008 : Liverpool vs West Bromwich Albion
+08/11/2008 : Sunderland vs Portsmouth
+08/11/2008 : West Ham United vs Everton
+08/11/2008 : Hull City vs Bolton Wanderers
+08/11/2008 : Wigan Athletic vs Stoke City
+09/11/2008 : Aston Villa vs Middlesbrough
+09/11/2008 : Manchester City vs Tottenham Hotspur
+09/11/2008 : Blackburn Rovers vs Chelsea
+09/11/2008 : Fulham vs Newcastle United
+15/11/2008 : Manchester United vs Stoke City
+15/11/2008 : Arsenal vs Aston Villa
+15/11/2008 : West Ham United vs Portsmouth
+15/11/2008 : Newcastle United vs Wigan Athletic
+15/11/2008 : Blackburn Rovers vs Sunderland
+15/11/2008 : Fulham vs Tottenham Hotspur
+15/11/2008 : Bolton Wanderers vs Liverpool
+15/11/2008 : West Bromwich Albion vs Chelsea
+16/11/2008 : Everton vs Middlesbrough
+16/11/2008 : Hull City vs Manchester City
+22/11/2008 : Liverpool vs Fulham
+22/11/2008 : Aston Villa vs Manchester United
+22/11/2008 : Middlesbrough vs Bolton Wanderers
+22/11/2008 : Manchester City vs Arsenal
+22/11/2008 : Portsmouth vs Hull City
+22/11/2008 : Stoke City vs West Bromwich Albion
+22/11/2008 : Chelsea vs Newcastle United
+23/11/2008 : Sunderland vs West Ham United
+23/11/2008 : Tottenham Hotspur vs Blackburn Rovers
+24/11/2008 : Wigan Athletic vs Everton
+29/11/2008 : Sunderland vs Bolton Wanderers
+29/11/2008 : Aston Villa vs Fulham
+29/11/2008 : Middlesbrough vs Newcastle United
+29/11/2008 : Stoke City vs Hull City
+29/11/2008 : Wigan Athletic vs West Bromwich Albion
+30/11/2008 : Tottenham Hotspur vs Everton
+30/11/2008 : Manchester City vs Manchester United
+30/11/2008 : Portsmouth vs Blackburn Rovers
+30/11/2008 : Chelsea vs Arsenal
+
+R6 : 271 ms
+01/11/2008 : Manchester United 4 - 3 Hull City
+01/11/2008 : Tottenham Hotspur 2 - 1 Liverpool
+01/11/2008 : Everton 1 - 0 Fulham
+01/11/2008 : Middlesbrough 1 - 1 West Ham United
+01/11/2008 : West Bromwich Albion 2 - 2 Blackburn Rovers
+01/11/2008 : Portsmouth 1 - 2 Wigan Athletic
+01/11/2008 : Stoke City 2 - 1 Arsenal
+01/11/2008 : Chelsea 5 - 0 Sunderland
+02/11/2008 : Bolton Wanderers 2 - 0 Manchester City
+03/11/2008 : Newcastle United 2 - 0 Aston Villa
+08/11/2008 : Arsenal 2 - 1 Manchester United
+08/11/2008 : Liverpool 3 - 0 West Bromwich Albion
+08/11/2008 : Sunderland 1 - 2 Portsmouth
+08/11/2008 : West Ham United 1 - 3 Everton
+08/11/2008 : Hull City 0 - 1 Bolton Wanderers
+08/11/2008 : Wigan Athletic 0 - 0 Stoke City
+09/11/2008 : Aston Villa 1 - 2 Middlesbrough
+09/11/2008 : Manchester City 1 - 2 Tottenham Hotspur
+09/11/2008 : Blackburn Rovers 0 - 2 Chelsea
+09/11/2008 : Fulham 2 - 1 Newcastle United
+15/11/2008 : Manchester United 5 - 0 Stoke City
+15/11/2008 : Arsenal 0 - 2 Aston Villa
+15/11/2008 : West Ham United 0 - 0 Portsmouth
+15/11/2008 : Newcastle United 2 - 2 Wigan Athletic
+15/11/2008 : Blackburn Rovers 1 - 2 Sunderland
+15/11/2008 : Fulham 2 - 1 Tottenham Hotspur
+15/11/2008 : Bolton Wanderers 0 - 2 Liverpool
+15/11/2008 : West Bromwich Albion 0 - 3 Chelsea
+16/11/2008 : Everton 1 - 1 Middlesbrough
+16/11/2008 : Hull City 2 - 2 Manchester City
+22/11/2008 : Liverpool 0 - 0 Fulham
+22/11/2008 : Aston Villa 0 - 0 Manchester United
+22/11/2008 : Middlesbrough 1 - 3 Bolton Wanderers
+22/11/2008 : Manchester City 3 - 0 Arsenal
+22/11/2008 : Portsmouth 2 - 2 Hull City
+22/11/2008 : Stoke City 1 - 0 West Bromwich Albion
+22/11/2008 : Chelsea 0 - 0 Newcastle United
+23/11/2008 : Sunderland 0 - 1 West Ham United
+23/11/2008 : Tottenham Hotspur 1 - 0 Blackburn Rovers
+24/11/2008 : Wigan Athletic 1 - 0 Everton
+29/11/2008 : Sunderland 1 - 4 Bolton Wanderers
+29/11/2008 : Aston Villa 0 - 0 Fulham
+29/11/2008 : Middlesbrough 0 - 0 Newcastle United
+29/11/2008 : Stoke City 1 - 1 Hull City
+29/11/2008 : Wigan Athletic 2 - 1 West Bromwich Albion
+30/11/2008 : Tottenham Hotspur 0 - 1 Everton
+30/11/2008 : Manchester City 0 - 1 Manchester United
+30/11/2008 : Portsmouth 3 - 2 Blackburn Rovers
+30/11/2008 : Chelsea 1 - 2 Arsenal
+
+R6 : 260 ms
+01/11/2008 : Manchester United 4 - 3 Hull City
+01/11/2008 : Tottenham Hotspur 2 - 1 Liverpool
+01/11/2008 : Everton 1 - 0 Fulham
+01/11/2008 : Middlesbrough 1 - 1 West Ham United
+01/11/2008 : West Bromwich Albion 2 - 2 Blackburn Rovers
+01/11/2008 : Portsmouth 1 - 2 Wigan Athletic
+01/11/2008 : Stoke City 2 - 1 Arsenal
+01/11/2008 : Chelsea 5 - 0 Sunderland
+02/11/2008 : Bolton Wanderers 2 - 0 Manchester City
+03/11/2008 : Newcastle United 2 - 0 Aston Villa
+08/11/2008 : Arsenal 2 - 1 Manchester United
+08/11/2008 : Liverpool 3 - 0 West Bromwich Albion
+08/11/2008 : Sunderland 1 - 2 Portsmouth
+08/11/2008 : West Ham United 1 - 3 Everton
+08/11/2008 : Hull City 0 - 1 Bolton Wanderers
+08/11/2008 : Wigan Athletic 0 - 0 Stoke City
+09/11/2008 : Aston Villa 1 - 2 Middlesbrough
+09/11/2008 : Manchester City 1 - 2 Tottenham Hotspur
+09/11/2008 : Blackburn Rovers 0 - 2 Chelsea
+09/11/2008 : Fulham 2 - 1 Newcastle United
+15/11/2008 : Manchester United 5 - 0 Stoke City
+15/11/2008 : Arsenal 0 - 2 Aston Villa
+15/11/2008 : West Ham United 0 - 0 Portsmouth
+15/11/2008 : Newcastle United 2 - 2 Wigan Athletic
+15/11/2008 : Blackburn Rovers 1 - 2 Sunderland
+15/11/2008 : Fulham 2 - 1 Tottenham Hotspur
+15/11/2008 : Bolton Wanderers 0 - 2 Liverpool
+15/11/2008 : West Bromwich Albion 0 - 3 Chelsea
+16/11/2008 : Everton 1 - 1 Middlesbrough
+16/11/2008 : Hull City 2 - 2 Manchester City
+22/11/2008 : Liverpool 0 - 0 Fulham
+22/11/2008 : Aston Villa 0 - 0 Manchester United
+22/11/2008 : Middlesbrough 1 - 3 Bolton Wanderers
+22/11/2008 : Manchester City 3 - 0 Arsenal
+22/11/2008 : Portsmouth 2 - 2 Hull City
+22/11/2008 : Stoke City 1 - 0 West Bromwich Albion
+22/11/2008 : Chelsea 0 - 0 Newcastle United
+23/11/2008 : Sunderland 0 - 1 West Ham United
+23/11/2008 : Tottenham Hotspur 1 - 0 Blackburn Rovers
+24/11/2008 : Wigan Athletic 1 - 0 Everton
+29/11/2008 : Sunderland 1 - 4 Bolton Wanderers
+29/11/2008 : Aston Villa 0 - 0 Fulham
+29/11/2008 : Middlesbrough 0 - 0 Newcastle United
+29/11/2008 : Stoke City 1 - 1 Hull City
+29/11/2008 : Wigan Athletic 2 - 1 West Bromwich Albion
+30/11/2008 : Tottenham Hotspur 0 - 1 Everton
+30/11/2008 : Manchester City 0 - 1 Manchester United
+30/11/2008 : Portsmouth 3 - 2 Blackburn Rovers
+30/11/2008 : Chelsea 1 - 2 Arsenal
+
+R10 : 898 ms
+21/09/2008 : Chelsea 1 - 1 Manchester United
+11/01/2009 : Manchester United 3 - 0 Chelsea
+
+R6 : 448 ms
+01/11/2008 : Manchester United 4 - 3 Hull City
+01/11/2008 : Tottenham Hotspur 2 - 1 Liverpool
+01/11/2008 : Everton 1 - 0 Fulham
+01/11/2008 : Middlesbrough 1 - 1 West Ham United
+01/11/2008 : West Bromwich Albion 2 - 2 Blackburn Rovers
+01/11/2008 : Portsmouth 1 - 2 Wigan Athletic
+01/11/2008 : Stoke City 2 - 1 Arsenal
+01/11/2008 : Chelsea 5 - 0 Sunderland
+02/11/2008 : Bolton Wanderers 2 - 0 Manchester City
+03/11/2008 : Newcastle United 2 - 0 Aston Villa
+08/11/2008 : Arsenal 2 - 1 Manchester United
+08/11/2008 : Liverpool 3 - 0 West Bromwich Albion
+08/11/2008 : Sunderland 1 - 2 Portsmouth
+08/11/2008 : West Ham United 1 - 3 Everton
+08/11/2008 : Hull City 0 - 1 Bolton Wanderers
+08/11/2008 : Wigan Athletic 0 - 0 Stoke City
+09/11/2008 : Aston Villa 1 - 2 Middlesbrough
+09/11/2008 : Manchester City 1 - 2 Tottenham Hotspur
+09/11/2008 : Blackburn Rovers 0 - 2 Chelsea
+09/11/2008 : Fulham 2 - 1 Newcastle United
+15/11/2008 : Manchester United 5 - 0 Stoke City
+15/11/2008 : Arsenal 0 - 2 Aston Villa
+15/11/2008 : West Ham United 0 - 0 Portsmouth
+15/11/2008 : Newcastle United 2 - 2 Wigan Athletic
+15/11/2008 : Blackburn Rovers 1 - 2 Sunderland
+15/11/2008 : Fulham 2 - 1 Tottenham Hotspur
+15/11/2008 : Bolton Wanderers 0 - 2 Liverpool
+15/11/2008 : West Bromwich Albion 0 - 3 Chelsea
+16/11/2008 : Everton 1 - 1 Middlesbrough
+16/11/2008 : Hull City 2 - 2 Manchester City
+22/11/2008 : Liverpool 0 - 0 Fulham
+22/11/2008 : Aston Villa 0 - 0 Manchester United
+22/11/2008 : Middlesbrough 1 - 3 Bolton Wanderers
+22/11/2008 : Manchester City 3 - 0 Arsenal
+22/11/2008 : Portsmouth 2 - 2 Hull City
+22/11/2008 : Stoke City 1 - 0 West Bromwich Albion
+22/11/2008 : Chelsea 0 - 0 Newcastle United
+23/11/2008 : Sunderland 0 - 1 West Ham United
+23/11/2008 : Tottenham Hotspur 1 - 0 Blackburn Rovers
+24/11/2008 : Wigan Athletic 1 - 0 Everton
+29/11/2008 : Sunderland 1 - 4 Bolton Wanderers
+29/11/2008 : Aston Villa 0 - 0 Fulham
+29/11/2008 : Middlesbrough 0 - 0 Newcastle United
+29/11/2008 : Stoke City 1 - 1 Hull City
+29/11/2008 : Wigan Athletic 2 - 1 West Bromwich Albion
+30/11/2008 : Tottenham Hotspur 0 - 1 Everton
+30/11/2008 : Manchester City 0 - 1 Manchester United
+30/11/2008 : Portsmouth 3 - 2 Blackburn Rovers
+30/11/2008 : Chelsea 1 - 2 Arsenal
+
+R10 : 886 ms
+21/09/2008 : Chelsea 1 - 1 Manchester United
+11/01/2009 : Manchester United 3 - 0 Chelsea
+
+R10 : 987 ms
+21/09/2008 : Chelsea 1 - 1 Manchester United
+11/01/2009 : Manchester United 3 - 0 Chelsea
+
+R6 : 389 ms
+01/11/2008 : Manchester United 4 - 3 Hull City
+01/11/2008 : Tottenham Hotspur 2 - 1 Liverpool
+01/11/2008 : Everton 1 - 0 Fulham
+01/11/2008 : Middlesbrough 1 - 1 West Ham United
+01/11/2008 : West Bromwich Albion 2 - 2 Blackburn Rovers
+01/11/2008 : Portsmouth 1 - 2 Wigan Athletic
+01/11/2008 : Stoke City 2 - 1 Arsenal
+01/11/2008 : Chelsea 5 - 0 Sunderland
+02/11/2008 : Bolton Wanderers 2 - 0 Manchester City
+03/11/2008 : Newcastle United 2 - 0 Aston Villa
+08/11/2008 : Arsenal 2 - 1 Manchester United
+08/11/2008 : Liverpool 3 - 0 West Bromwich Albion
+08/11/2008 : Sunderland 1 - 2 Portsmouth
+08/11/2008 : West Ham United 1 - 3 Everton
+08/11/2008 : Hull City 0 - 1 Bolton Wanderers
+08/11/2008 : Wigan Athletic 0 - 0 Stoke City
+09/11/2008 : Aston Villa 1 - 2 Middlesbrough
+09/11/2008 : Manchester City 1 - 2 Tottenham Hotspur
+09/11/2008 : Blackburn Rovers 0 - 2 Chelsea
+09/11/2008 : Fulham 2 - 1 Newcastle United
+15/11/2008 : Manchester United 5 - 0 Stoke City
+15/11/2008 : Arsenal 0 - 2 Aston Villa
+15/11/2008 : West Ham United 0 - 0 Portsmouth
+15/11/2008 : Newcastle United 2 - 2 Wigan Athletic
+15/11/2008 : Blackburn Rovers 1 - 2 Sunderland
+15/11/2008 : Fulham 2 - 1 Tottenham Hotspur
+15/11/2008 : Bolton Wanderers 0 - 2 Liverpool
+15/11/2008 : West Bromwich Albion 0 - 3 Chelsea
+16/11/2008 : Everton 1 - 1 Middlesbrough
+16/11/2008 : Hull City 2 - 2 Manchester City
+22/11/2008 : Liverpool 0 - 0 Fulham
+22/11/2008 : Aston Villa 0 - 0 Manchester United
+22/11/2008 : Middlesbrough 1 - 3 Bolton Wanderers
+22/11/2008 : Manchester City 3 - 0 Arsenal
+22/11/2008 : Portsmouth 2 - 2 Hull City
+22/11/2008 : Stoke City 1 - 0 West Bromwich Albion
+22/11/2008 : Chelsea 0 - 0 Newcastle United
+23/11/2008 : Sunderland 0 - 1 West Ham United
+23/11/2008 : Tottenham Hotspur 1 - 0 Blackburn Rovers
+24/11/2008 : Wigan Athletic 1 - 0 Everton
+29/11/2008 : Sunderland 1 - 4 Bolton Wanderers
+29/11/2008 : Aston Villa 0 - 0 Fulham
+29/11/2008 : Middlesbrough 0 - 0 Newcastle United
+29/11/2008 : Stoke City 1 - 1 Hull City
+29/11/2008 : Wigan Athletic 2 - 1 West Bromwich Albion
+30/11/2008 : Tottenham Hotspur 0 - 1 Everton
+30/11/2008 : Manchester City 0 - 1 Manchester United
+30/11/2008 : Portsmouth 3 - 2 Blackburn Rovers
+30/11/2008 : Chelsea 1 - 2 Arsenal
+
+R1 : 482 ms
+Manchester United
+
+R2 : 502 ms
+380
+
+R3 : 459 ms
+942
+
+R4 : 351 ms
+Liverpool : 77
+
+R5 : 414 ms
+Liverpool : 77
+
+R6 : 429 ms
+01/11/2008 : Manchester United 4 - 3 Hull City
+01/11/2008 : Tottenham Hotspur 2 - 1 Liverpool
+01/11/2008 : Everton 1 - 0 Fulham
+01/11/2008 : Middlesbrough 1 - 1 West Ham United
+01/11/2008 : West Bromwich Albion 2 - 2 Blackburn Rovers
+01/11/2008 : Portsmouth 1 - 2 Wigan Athletic
+01/11/2008 : Stoke City 2 - 1 Arsenal
+01/11/2008 : Chelsea 5 - 0 Sunderland
+02/11/2008 : Bolton Wanderers 2 - 0 Manchester City
+03/11/2008 : Newcastle United 2 - 0 Aston Villa
+08/11/2008 : Arsenal 2 - 1 Manchester United
+08/11/2008 : Liverpool 3 - 0 West Bromwich Albion
+08/11/2008 : Sunderland 1 - 2 Portsmouth
+08/11/2008 : West Ham United 1 - 3 Everton
+08/11/2008 : Hull City 0 - 1 Bolton Wanderers
+08/11/2008 : Wigan Athletic 0 - 0 Stoke City
+09/11/2008 : Aston Villa 1 - 2 Middlesbrough
+09/11/2008 : Manchester City 1 - 2 Tottenham Hotspur
+09/11/2008 : Blackburn Rovers 0 - 2 Chelsea
+09/11/2008 : Fulham 2 - 1 Newcastle United
+15/11/2008 : Manchester United 5 - 0 Stoke City
+15/11/2008 : Arsenal 0 - 2 Aston Villa
+15/11/2008 : West Ham United 0 - 0 Portsmouth
+15/11/2008 : Newcastle United 2 - 2 Wigan Athletic
+15/11/2008 : Blackburn Rovers 1 - 2 Sunderland
+15/11/2008 : Fulham 2 - 1 Tottenham Hotspur
+15/11/2008 : Bolton Wanderers 0 - 2 Liverpool
+15/11/2008 : West Bromwich Albion 0 - 3 Chelsea
+16/11/2008 : Everton 1 - 1 Middlesbrough
+16/11/2008 : Hull City 2 - 2 Manchester City
+22/11/2008 : Liverpool 0 - 0 Fulham
+22/11/2008 : Aston Villa 0 - 0 Manchester United
+22/11/2008 : Middlesbrough 1 - 3 Bolton Wanderers
+22/11/2008 : Manchester City 3 - 0 Arsenal
+22/11/2008 : Portsmouth 2 - 2 Hull City
+22/11/2008 : Stoke City 1 - 0 West Bromwich Albion
+22/11/2008 : Chelsea 0 - 0 Newcastle United
+23/11/2008 : Sunderland 0 - 1 West Ham United
+23/11/2008 : Tottenham Hotspur 1 - 0 Blackburn Rovers
+24/11/2008 : Wigan Athletic 1 - 0 Everton
+29/11/2008 : Sunderland 1 - 4 Bolton Wanderers
+29/11/2008 : Aston Villa 0 - 0 Fulham
+29/11/2008 : Middlesbrough 0 - 0 Newcastle United
+29/11/2008 : Stoke City 1 - 1 Hull City
+29/11/2008 : Wigan Athletic 2 - 1 West Bromwich Albion
+30/11/2008 : Tottenham Hotspur 0 - 1 Everton
+30/11/2008 : Manchester City 0 - 1 Manchester United
+30/11/2008 : Portsmouth 3 - 2 Blackburn Rovers
+30/11/2008 : Chelsea 1 - 2 Arsenal
+
+R7 : 551 ms
+16
+
+R7 : 523 ms
+16
+
+R8 : 592 ms
+Chelsea : 14
+Liverpool : 13
+Manchester United : 12
+Aston Villa : 10
+Everton : 9
+Arsenal : 9
+Hull City : 5
+West Ham United : 5
+Blackburn Rovers : 4
+Wigan Athletic : 4
+Bolton Wanderers : 4
+Tottenham Hotspur : 4
+Sunderland : 3
+Fulham : 3
+Portsmouth : 2
+Manchester City : 2
+Middlesbrough : 2
+Newcastle United : 2
+Stoke City : 2
+West Bromwich Albion : 1
+
+R9 : 965 ms
+1.61
+
+R10 : 1025 ms
+21/09/2008 : Chelsea 1 - 1 Manchester United
+11/01/2009 : Manchester United 3 - 0 Chelsea
+
+R2 : 640 ms
+380
+
+R1 : 502 ms
+Manchester United
+
+R1 : 512 ms
+Manchester United
+
+R4 : 466 ms
+Liverpool : 77
+
+R7 : 556 ms
+16
+
+R8 : 625 ms
+Chelsea : 14
+Liverpool : 13
+Manchester United : 12
+Aston Villa : 10
+Everton : 9
+Arsenal : 9
+Hull City : 5
+West Ham United : 5
+Blackburn Rovers : 4
+Wigan Athletic : 4
+Bolton Wanderers : 4
+Tottenham Hotspur : 4
+Sunderland : 3
+Fulham : 3
+Portsmouth : 2
+Manchester City : 2
+Middlesbrough : 2
+Newcastle United : 2
+Stoke City : 2
+West Bromwich Albion : 1
+
+R1 : 400 ms
+Manchester United
+
+R10 : 730 ms
+21/09/2008 : Chelsea 1 - 1 Manchester United
+11/01/2009 : Manchester United 3 - 0 Chelsea
+

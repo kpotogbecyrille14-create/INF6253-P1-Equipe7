@@ -1,0 +1,20 @@
+PREFIX schema1: <http://schema.org/>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+SELECT (AVG(xsd:decimal(?ag)) AS ?moyenne)
+WHERE {
+  {
+    SELECT ?teamName
+    WHERE {
+      ?team a schema1:SportsTeam ;
+            schema1:name ?teamName ;
+            schema1:position ?pos .
+    }
+    ORDER BY xsd:integer(?pos)
+    LIMIT 6
+  }
+
+  ?match a schema1:SportsEvent ;
+         schema1:awayTeam ?teamName ;
+         schema1:awayTeamScore ?ag .
+}

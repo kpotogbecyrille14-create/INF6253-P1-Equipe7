@@ -1,0 +1,7 @@
+PREFIX schema1: <http://schema.org/>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+SELECT (COUNT(?match) AS ?nbMatchs)
+WHERE {
+  ?match a schema1:SportsEvent .
+}

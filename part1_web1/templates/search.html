@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Moteur de recherche soccer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin-top: 50px;
+            background-color: #f4f4f4;
+        }
+        h1 {
+            color: #2c3e50;
+        }
+        form {
+            margin-bottom: 30px;
+        }
+        select, button {
+            padding: 10px;
+            font-size: 1em;
+            margin: 10px;
+        }
+        .resultat {
+            margin-top: 30px;
+            padding: 20px;
+            background-color: #fff;
+            display: inline-block;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        .resultat strong {
+            color: #0066cc;
+        }
+    </style>
+</head>
+<body>
+    <h1>Moteur de recherche soccer</h1>
+    <form action="/search" method="post">
+        <select name="requete">
+            <option value="R1">R1 - Première équipe au classement</option>
+            <option value="R2">R2 - Nombre total de matchs</option>
+            <option value="R3">R3 - Total de buts marqués</option>
+            <option value="R4">R4 - Équipe avec le plus de buts</option>
+            <option value="R5">R5 - Équipes avec plus de 70 buts</option>
+            <option value="R6">R6 - Matchs en novembre 2008</option>
+            <option value="R7">R7 - Victoires à domicile de Manchester United</option>
+            <option value="R8">R8 - Classement par victoires à l’extérieur</option>
+            <option value="R9">R9 - Moyenne de buts à l’extérieur du Top 6</option>
+            <option value="R10">R10 - Confrontations historiques 1er vs 3e</option>
+            <option value="R11">R11 - Équipes avec plus de 40 buts</option>
+        </select>
+        <br>
+        <button type="submit">Rechercher</button>
+    </form>
+
+    {% if resultat %}
+    <div class="resultat">
+        <strong>Résultat :</strong><br>
+        {{ resultat|safe }}<br><br>
+        <strong>Temps de recherche :</strong> {{ temps }} ms
+    </div>
+    {% endif %}
+</body>
+</html>

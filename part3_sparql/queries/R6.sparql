@@ -1,0 +1,13 @@
+PREFIX schema1: <http://schema.org/>
+
+SELECT ?date ?home ?hg ?ag ?away
+WHERE {
+  ?match a schema1:SportsEvent ;
+         schema1:startDate ?date ;
+         schema1:homeTeam ?home ;
+         schema1:awayTeam ?away ;
+         schema1:homeTeamScore ?hg ;
+         schema1:awayTeamScore ?ag .
+  FILTER(CONTAINS(?date, "/11/2008"))
+}
+ORDER BY ?date

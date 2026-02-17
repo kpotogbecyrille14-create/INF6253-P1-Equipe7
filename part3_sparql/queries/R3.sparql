@@ -1,0 +1,8 @@
+PREFIX schema1: <http://schema.org/>
+
+SELECT (SUM(?hg + ?ag) AS ?totalButs)
+WHERE {
+  ?match a schema1:SportsEvent ;
+         schema1:homeTeamScore ?hg ;
+         schema1:awayTeamScore ?ag .
+}

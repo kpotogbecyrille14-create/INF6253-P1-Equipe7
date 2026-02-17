@@ -1,0 +1,13 @@
+PREFIX schema1: <http://schema.org/>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+SELECT ?team (COUNT(?match) AS ?nbVictoires)
+WHERE {
+  ?match a schema1:SportsEvent ;
+         schema1:awayTeam ?team ;
+         schema1:homeTeamScore ?hg ;
+         schema1:awayTeamScore ?ag .
+  FILTER(xsd:integer(?ag) > xsd:integer(?hg))
+}
+GROUP BY ?team
+ORDER BY DESC(?nbVictoires)

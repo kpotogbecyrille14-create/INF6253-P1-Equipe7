@@ -1,0 +1,11 @@
+PREFIX schema1: <http://schema.org/>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+SELECT (COUNT(?match) AS ?nbVictoires)
+WHERE {
+  ?match a schema1:SportsEvent ;
+         schema1:homeTeam "Manchester United" ;
+         schema1:homeTeamScore ?hg ;
+         schema1:awayTeamScore ?ag .
+  FILTER(xsd:integer(?hg) > xsd:integer(?ag))
+}

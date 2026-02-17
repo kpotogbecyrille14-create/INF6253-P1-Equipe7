@@ -1,0 +1,113 @@
+
+🟩 1) Tester ton moteur Flask (Partie 2)
+Dans PowerShell, place‑toi dans ton dossier :
+
+Code
+cd "C:\Users\LevelinG\Downloads\UQO\Cours\Web_sémantique\Projet\INF6253-P1\part2_web3_enriched"
+Puis lance :
+
+Code
+python engine.py
+Tu dois voir :
+
+Code
+Running on http://127.0.0.1:5000/
+➡️ Ouvre ton navigateur
+➡️ Va sur : http://127.0.0.1:5000/ (127.0.0.1 in Bing)
+
+Teste R1 → R10.
+
+Chaque fois que tu cliques sur Rechercher, ton fichier :
+
+Code
+resultats1.txt
+se remplit automatiquement.
+
+🟩 2) Vérifier que les résultats de la Partie 2 sont bien enregistrés
+Dans ton dossier part2_web3_enriched, ouvre :
+
+Code
+resultats1.txt
+Tu dois voir quelque chose comme :
+
+Code
+R1 : 12 ms
+Manchester United
+
+R2 : 18 ms
+380
+
+R3 : 22 ms
+1024
+Si tu vois ça → Parfait, Partie 2 OK.
+
+🟩 3) Lire automatiquement les résultats de la Partie 1
+Tu as déjà un fichier :
+
+Code
+part1_web1\resultats.txt
+Pour vérifier que ton script fonctionne :
+
+Dans PowerShell :
+
+Code
+python read_part1_results.py
+Tu dois voir un dictionnaire :
+
+Code
+{'R1': 35, 'R2': 40, 'R3': 50, ...}
+Si tu vois ça → Parfait, Partie 1 OK.
+
+🟩 4) Fusionner Partie 1 + Partie 2 dans un CSV
+Toujours dans part2_web3_enriched :
+
+Code
+python build_csv.py
+Tu dois voir :
+
+Code
+CSV généré : temps_partie1_partie2.csv
+Ouvre ce fichier :
+Tu dois voir :
+
+Code
+requete,partie1_ms,partie2_ms
+R1,35,12
+R2,40,18
+R3,50,22
+...
+Si tu vois ça → Fusion OK.
+
+🟩 5) Générer le graphique comparatif
+Toujours dans le même dossier :
+
+Code
+python plot_comparaison.py
+Tu dois voir :
+
+Code
+Graphique sauvegardé : comparaison_partie1_partie2.png
+Dans ton dossier, tu dois maintenant avoir :
+
+Code
+comparaison_partie1_partie2.png
+➡️ Ouvre-le
+➡️ Tu verras un graphique propre, avec deux barres par requête.
+
+Si tu vois ça → Graphique OK.
+
+🟢 Résumé des commandes à exécuter dans l’ordre
+Voici ton “plan d’exécution” :
+
+Code
+# 1. Lancer le moteur Flask
+python engine.py
+
+# 2. Lire les résultats de la Partie 1
+python read_part1_results.py
+
+# 3. Fusionner Partie 1 + Partie 2
+python build_csv.py
+
+# 4. Générer le graphique
+python plot_comparaison.py

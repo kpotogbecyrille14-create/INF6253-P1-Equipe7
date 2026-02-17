@@ -1,0 +1,11 @@
+PREFIX schema1: <http://schema.org/>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+SELECT ?teamName ?goals
+WHERE {
+  ?team a schema1:SportsTeam ;
+        schema1:name ?teamName ;
+        schema1:goalsScored ?goals .
+  FILTER(xsd:integer(?goals) > 70)
+}
+ORDER BY DESC(xsd:integer(?goals))

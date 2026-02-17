@@ -1,0 +1,16 @@
+#### Notre projet Web Sémantique utilise surtout Python pour :
+
+- génération HTML,
+- manipulation RDF,
+- exécution SPARQL locale,
+- graphiques.
+
+
+```txt
+flask
+beautifulsoup4
+lxml
+rdflib
+pandas
+matplotlib
+
